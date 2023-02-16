@@ -192,10 +192,162 @@ Get the **Helix Fossil** and exit Mt. Moon
 ## BRIDGE SPLIT
 
 Take the Pokemon Center to heal and to set a warp point for your Escape Rope from Bill’s.
-Pickup the Hidden rare candy here. Then head to Nugget Bridge to meet your rival.
+
+Pickup the Hidden rare candy
+
+<img src="https://i.imgur.com/Fu51K9j.jpeg" >
+
+Then walk up Nugget Bridge on the right to meet your rival
+
+> Talk to all trainers on the bridge rather than letting them see you, except for the last trainer/rocket
+
+If you get hit by only 1 sand attack, 
+	
+- HA spam (+PS) Pidgeotto until it faints, HA Abra, then swap to Bird on Rattata and let your Bird get KO’d before swapping back to Nido.
+
+If you get hit by 2+ sand attacks,
+	
+- Keep hitting pidgeotto until it is one hit from being KO’d (if you accidentally KO Pidgeotto, then HA spam Abra and swap to Bird on Rat like above)
+- Then swap to Squirtle to spam Tail Whip and let it be KO’d by pidgeotto: doing so avoids getting a chance to get sand-attack again after swapping back. 
+- (note: you can use a turn to potion Nido while squirtle is out)
+
+Bridge Rival:
+
+- Pidgeotto: HA x3 (+ PS)
+- Abra: HA
+- Rattata: HA + PS
+- Bulbasaur: HA x2 (+PS or HA if growl)
+
+TRAINER #1 - Bug Catcher
+
+- Caterpie: HA + PS
+- Weedle: HA (+ PS)
+ 
+TRAINER #2 - Lass
+
+- Pidgey: HA + PS
+- Nidoran-F: HA x2
+
+TRAINER #3 - Youngster (under 12 hp potion before the fight)
+
+- Rattata: HA (+ PS)
+- Ekans: HA + PS or HA
+- Zubat: HA (+ PS)
+
+> You should reach L21 after this zubat, if you are somehow still L20 from either splitting exp or skipping a trainer, then just delay the following menu until you do reach L21, the route can still be followed this way but you may have a few riskier fights such as Misty and Oddish girl in Tunnel.
+
+MENU before the next trainer we are at Lv. 21 after the youngster fight 
+
+→ use the two rare candies on nido
+
+→ learn thrash and teach thrash over Tackle (slot 2).
+
+TRAINER #4 - Lass - In fight swap thrash to slot 1 (down + select x2 + A)
+
+- Pidgey: Thrash  (or HA + PS)
+- Nidoran-F: Thrash (or HA x2)
+
+TRAINER #5 - Jr. TrainerM
+
+- Mankey: Thrash
+
+BRIDGE ROCKET
+
+- Ekans: Thrash
+- Zubat: Thrash
+
+## MISTY SPLIT
+
+BOTTOM HIKER
+- Onix: WG
+ 
+LASS
+- Nidoran-M: Thrash
+- Nidoran-F: Thrash
+
+<img src="https://i.imgur.com/wwwP9mH.png" height=165 >
+
+JR. TRAINER-M    (do not fight the two-tile-vision hiker)
+- Rattata: Thrash
+- Ekans: Thrash
+ 
+LASS
+- Oddish: Thrash
+- Pidgey: Thrash
+- Oddish: Thrash
+
+Enter Bill's House
+- Get S.S. Ticket from Bill
+- Use Escape Rope
+- Take the center 
+
+Enter Misty's Gym and avoid the swimmer 
+
+> Misty is the single trainer most likely to end your run, potion to full hp and save before fighting her
+
+JR. TRAINER-F
+- Goldeen: Thrash x2
+
+Before Misty open the menu and Potion to full health
+- **Save the game**
+
+> If Nido faints, soft reset using A + B + Start + Select.   
+> If ever confused from Thrash on Starmie, switch out to Squirtle (Potion Nido, if needed, and then spam Tail whip).  
+> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 spd dv.  
+
+Misty
+- Staryu: Thrash x1
+- Starmie: Thrash x2-3
+
+> Starmie damage rolls depend on your Special DV, but a wide range is shown for simplicity  
+> BB  →  35-48 damage; critical BB does up to 84 damage  
+> WG  →  22-30 damage; critical WG does up to 54.  
+
+## SURGE SPLIT
+
+After Misty Menu:
+- If you have 4+ potions, potion if you are under 16 hp-otherwise take the Center to save potions.
+- Teach Slot 6 or 7 TM11 Bubblebeam over slot 4 PS
+
+> 12-15 DV Attack → likely one-shot on Machop   
+> 9-12 damage with critical Karate Chop, and it criticals about 55 percent of the time.  
+
+DIG ROCKET
+- Machop: 	Thrash x1-2
+- Drowzee: 	Thrash x1
+
+Get TM28 Dig from the Rocket
+
+Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split)
+
+If you are under 16 hp, you may use the full restore now.
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="" >
+
+
+
+
+
+
+
+<img src="" >
