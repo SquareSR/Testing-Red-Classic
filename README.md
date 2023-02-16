@@ -49,7 +49,7 @@ Catch a L3 or L4 Nidoran-M and give it a one-character name.
 
 </td><td>
 
-| DSUM                       | &nbsp; |
+| Time-Based DSUM                       | Step-Based DSUM &nbsp; |
 | ---------------------------- | ---------------------------- |
 | <img src="https://i.imgur.com/RBD6c2T.jpg" width="650"> | <img src="https://i.imgur.com/LSGYzXO.png" width="220"> |
 
@@ -320,34 +320,72 @@ Get TM28 Dig from the Rocket
 
 Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split)
 
+<img src="https://i.imgur.com/MzLRsOm.jpeg" >
+
 If you are under 16 hp, you may use the full restore now.
 
+Oddish DSUM
+- Ignore this if you already have a Paras.
+- if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw pokeballs
+- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on
+
+</td><td>
+
+| Time-based (repeat last two columns)                       | Step-based &nbsp; |
+| ---------------------------- | ---------------------------- |
+| <img src="https://i.imgur.com/Fm7I10i.png" > | <img src="https://i.imgur.com/fHtG2mb.png" > |
 
 
+<img src="https://i.imgur.com/aXI5GZA.jpeg" >
 
+JR. TRAINER-F
+- Pidgeyx3: Thrash
 
+JR. TRAINER-M
+- Spearow: Thrash
+- Raticate: Thrash	
 
+> Full Restore after this fight if under 31 HP 	
 
+Enter the S.S. ANNE
 
+Walk Left and take the first stairs you see
 
+Walk down and turn right
 
+**Boat Rival**
 
+If Pidgeotto lands a Sand-Attack, swap to your bird and let it be KO’d by Pidgeotto.
 
+- Pidgeotto: HA + BB 	
+- Raticate: BBx2 	
+- Kadabra: Thrash x1
+- Ivysaur: Thrash x2
 
+> if under 21 hp on Raticate, use full restore   
+> if under 16 hp on Kadabra, then HA Kadabra and use full restore turn 1 on Ivysaur
 
+Get HM01 from the captain
 
+Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
 
+<img src="https://i.imgur.com/UmZxWvL.jpeg" >
 
-
+Exit the boat and head to the Mart.
 
 
 
 <img src="" >
 
-
-
-
-
-
+<img src="" >
 
 <img src="" >
+
+<img src="" >
+
+<img src="" >
+
+<img src="" >
+
+<img src="" >
+
