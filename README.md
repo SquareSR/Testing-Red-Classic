@@ -353,10 +353,9 @@ Walk Left and take the first stairs you see
 
 Walk down and turn right
 
-**Boat Rival**
-
 If Pidgeotto lands a Sand-Attack, swap to your bird and let it be KO’d by Pidgeotto.
 
+**Boat Rival: **
 - Pidgeotto: HA + BB 	
 - Raticate: BBx2 	
 - Kadabra: Thrash x1
@@ -380,18 +379,21 @@ VERMILION Mart
 
 Trade for DUX in this house if you have spearow and no paras/Oddish
 
-open this page for details on the puzzle →  Surge Trash Cans Puzzle
+Walk up to the tree guarding Surge's Gym and open the menu
 
-Cut Menu (menu facing the tree before surge’s gym)
-Slot 6 - Use the Full Restore on Nidoking if you haven’t already
-Swap potions down 6 with Repels (using select)
-Up 1 - teach HM01 to Paras or DUX
-Up 1 - Teach TM28 to Paras or Squirtle
-Cut the tree and enter Surge’s gym.
+Cut Menu
+- Slot 6 - Use the Full Restore on Nidoking if you haven’t already
+- Swap potions down 6 with Repels (using select)
+- Up 1 - teach HM01 to Paras or DUX
+- Up 1 - Teach TM28 to Paras or Squirtle
+- Cut the tree and enter Surge’s gym.
 
-In Surge's gym, check the cans in this order until you get the first one and save the game.
-Do NOT save the game if the first switch is in can #2 or #4, since there are too many options for the second can. For these two, just take a  ¼ guess and likely continue your search. 
-All other cans are 50/50, so if you don’t get the the second switch first try, then you know the second switch is in the top left can (can #5).
+Surge Trash Cans Puzzle
+
+<img src="https://i.imgur.com/DgQyq4a.jpeg" >
+
+- Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
+- All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5).
 
 SURGE
 Voltorb: 	HA + BB
