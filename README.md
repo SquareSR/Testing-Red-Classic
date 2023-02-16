@@ -373,9 +373,124 @@ Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
 
 Exit the boat and head to the Mart.
 
+VERMILION Mart
+- Sell all Pokeballs
+- Buy 3 Repels
+- Buy 6 Para Heals
+
+Trade for DUX in this house if you have spearow and no paras/Oddish
+
+open this page for details on the puzzle →  Surge Trash Cans Puzzle
+
+Cut Menu (menu facing the tree before surge’s gym)
+Slot 6 - Use the Full Restore on Nidoking if you haven’t already
+Swap potions down 6 with Repels (using select)
+Up 1 - teach HM01 to Paras or DUX
+Up 1 - Teach TM28 to Paras or Squirtle
+Cut the tree and enter Surge’s gym.
+
+In Surge's gym, check the cans in this order until you get the first one and save the game.
+Do NOT save the game if the first switch is in can #2 or #4, since there are too many options for the second can. For these two, just take a  ¼ guess and likely continue your search. 
+All other cans are 50/50, so if you don’t get the the second switch first try, then you know the second switch is in the top left can (can #5).
+
+SURGE
+Voltorb: 	HA + BB
+Pikachu: 	Thrash
+Raichu: 	Thrash x2 
+ 
+Get TM24 Thunderbolt and exit the gym
+
+- Get the Bike Voucher, and Dig out to Cerulean City.
+
+- Get the Bike from the Bike Shop and exit the shop.
+
+Menu (outside of the bike shop)
+Swap slot 2 Helix Fossil with Bike		
+Teach TM24 Thunderbolt over Slot 3 Water Gun
+Get on the bike, cut both trees to head East into ROUTE 9
+Save before this next fight after cutting the second tree.
+
+JR. TRAINER-F (4-TURN THRASH GIRL)
+Oddish: 	Thrash
+Bellsprout: 	Thrash
+Oddish: 	Thrash
+Bellsprout: 	HA (if thrash ends)
+ 
+BUG CATCHER
+Caterpie: 	TB
+Weedle: 	Thrash
+Venonat: 	Thrash x1-2
+
+Use your first Repel one step into Rock Tunnel ← Click for Map.
+
+POKEMANIAC #1
+Cubone: 	BB
+Slowpoke: 	TB
+ 
+POKEMANIAC #2
+Slowpoke: 	TB x1-2.            (rare to happen: swap out if confused)
+
+Save before this next fight.
+JR. TRAINER-F - ODDISH GIRL
+Oddish: 	Thrash x1-2
+Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
+ 	
+Repel twice before the next fight. See map for suggested spots: Rock Tunnel ← Click for Map.
+ 
+HIKER
+Geodude: 	BB
+Geodude: 	BB
+Graveler: 	BB
+ 
+Use a potion if under 7 hp
+
+JR. TRAINER-F #2
+Meowth: 	Thrash
+Oddish: 	Thrash
+Pidgey: 	Thrash       (and note HP)
+
+Exit and bike Right. Pickup the hidden Max Ether in the bush from the left side and then bike straight down.
+We enter Lavender town and follow the path above west, but first .
+
+Before the next fight if under 35 HP take the Lavender pokemon center.
 
 
-<img src="" >
+
+
+---------------------------------------------------------------------------------------------------------------------------- 
+ROUTE 8 → Celadon Mart
+----------------------------------------------------------------------------------------------------------------------------
+
+GAMBLER
+Growlithe: 	BB (+thrash)
+Vulpix: 		Thrash
+ 
+Be careful not to hit optionals. Take the underground path to Celadon City. Pick up hidden Elixer here and the hidden Nugget here.
+ 
+CELADON MART
+ 
+2F - Clerk on the left hand side
+- Sell both Nuggets
+- Buy 10 Super Repels
+- Buy 2 Revives
+ 
+6F - Rooftop Vending Machine
+- Buy 2 Fresh Water
+- Buy 1 Soda Pop
+- Give the Soda Pop to the girl first in exchange for TM48 Rockslide and then one Fresh Water for TM13 Ice Beam
+ 
+5F - Clerk on the left hand side
+- Buy  16 X Accuracy
+- Buy   3 X Special  	(do NOT buy guard spec, must be x-special)
+- Buy   8 X Speed    
+
+ Then take the elevator to the first floor.
+
+Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road. After exiting the house, open the menu and do the following:
+
+Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
+
+
 
 <img src="" >
 
