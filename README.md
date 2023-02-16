@@ -142,14 +142,60 @@ Exceptions:
 - Lv. 17-18 Nidoking should Tackle a Lv. 10 Paras
 - Lv. 18 Nidoking with 13-15 DV Attack should Tackle a Lv. 12 Paras.
 
-Enter Mt. Moon and turn left to pick up TM12 Water Gun.
+Enter Mt. Moon
+- Turn left to pick up **TM12 Water Gun**.
 
-Then follow the path below to 
-- fight the nerd
-- get rarecandy + escape rope
-- fight the lass, evolve to Nidorino
-- teach Nidorino Water Gun over Leer on the blue tile
-- fight the Hiker
-- get the Moon Stone, and take the ladder.
-                       
-<img src="https://i.imgur.com/kArB6tT.png" height=550>
+Then follow the path below (written notes are found after the two maps)
+
+<img src="https://i.imgur.com/kArB6tT.png" width=550>
+
+Take the ladder after getting the Moon Stone
+
+Contine down and right to the next ladder and follow the path below
+
+<img src="https://i.imgur.com/impaAww.png" width=550 >
+
+- Fight the Super Nerd
+  - Magnemite: HA x2 + HA/PS
+  - Voltorb:   HA x2 + PS
+
+- Get **Rare Candy** + **Escape Rope*
+
+- Fight the lass, and we evolve to Nidorino
+  - Oddish:     HA x2-3
+  - Bellsprout: HA x2
+
+- **MENU** on the blue tile
+  - Use Slot 3 TM12 to teach Nidorino Water Gun over slot3 Leer
+
+- Fight the Hiker
+  - WG spam
+
+- Get the **Moon Stone**, and take the ladder.
+
+Contine down and right to the next ladder and follow the path below
+
+- Menu on the blue tile
+  - Use Slot 5 Moon Stone on Nidorino
+
+Moon Rocket
+  - Rattata: HA + PS
+  - Zubat:   HA x2 (Can potion if confused)
+
+Super Nerd
+  - Grimer:  HA x2
+  - Voltorb: HA + HA/PS
+  - Koffing: HA x2 + PS
+
+Get the **Helix Fossil** and exit Mt. Moon
+
+## BRIDGE SPLIT
+
+Take the Pokemon Center to heal and to set a warp point for your Escape Rope from Bill’s.
+Pickup the Hidden rare candy here. Then head to Nugget Bridge to meet your rival.
+
+
+
+
+
+
