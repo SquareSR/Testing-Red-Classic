@@ -381,25 +381,27 @@ Trade for DUX in this house if you have spearow and no paras/Oddish
 
 Walk up to the tree guarding Surge's Gym and open the menu
 
-Cut Menu
-- Slot 6 - Use the Full Restore on Nidoking if you haven’t already
-- Swap potions down 6 with Repels (using select)
-- Up 1 - teach HM01 to Paras or DUX
-- Up 1 - Teach TM28 to Paras or Squirtle
-- Cut the tree and enter Surge’s gym.
+Cut Menu:
+- Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
+- Swap potions down 6 with Repels (using select)  
+- Up 1 - teach HM01 to Paras or DUX  
+- Up 1 - Teach TM28 to Paras or Squirtle  
+- Cut the tree and enter Surge’s gym.  
 
 Surge Trash Cans Puzzle
 
 <img src="https://i.imgur.com/DgQyq4a.jpeg" >
 
-- Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
-- All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5).
+- Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)  
+- All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5).  
 
 SURGE
-Voltorb: 	HA + BB
-Pikachu: 	Thrash
-Raichu: 	Thrash x2 
- 
+- Voltorb: 	BB + BB or HA
+- Pikachu: 	Thrash
+- Raichu: 	Thrash x2 
+
+## FLY SPLIT
+
 Get TM24 Thunderbolt and exit the gym
 
 - Get the Bike Voucher, and Dig out to Cerulean City.
@@ -407,23 +409,29 @@ Get TM24 Thunderbolt and exit the gym
 - Get the Bike from the Bike Shop and exit the shop.
 
 Menu (outside of the bike shop)
-Swap slot 2 Helix Fossil with Bike		
-Teach TM24 Thunderbolt over Slot 3 Water Gun
-Get on the bike, cut both trees to head East into ROUTE 9
-Save before this next fight after cutting the second tree.
+- Swap slot 2 Helix Fossil with Bike		
+- Teach TM24 Thunderbolt over Slot 3 Water Gun  
+- Get on the bike, cut both trees to head East into ROUTE 9  
+- Save before this next fight after cutting the second tree.  
 
 JR. TRAINER-F (4-TURN THRASH GIRL)
-Oddish: 	Thrash
-Bellsprout: 	Thrash
-Oddish: 	Thrash
-Bellsprout: 	HA (if thrash ends)
+- Oddish: 	Thrash
+- Bellsprout: 	Thrash
+- Oddish: 	Thrash
+- Bellsprout: 	HA (if thrash ends)
  
 BUG CATCHER
-Caterpie: 	TB
-Weedle: 	Thrash
-Venonat: 	Thrash x1-2
+- Caterpie: 	TB
+- Weedle: 	Thrash
+- Venonat: 	Thrash x1-2
 
-Use your first Repel one step into Rock Tunnel ← Click for Map.
+Repel one step into Rock Tunnel
+
+</td><td>
+
+| Tunnel 1F                       | Tunnel B1F &nbsp; |
+| ---------------------------- | ---------------------------- |
+| <img src="https://i.imgur.com/LllktGo.png" > | <img src="https://i.imgur.com/cS4hPoI.png" > |
 
 POKEMANIAC #1
 Cubone: 	BB
