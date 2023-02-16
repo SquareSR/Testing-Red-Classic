@@ -492,6 +492,365 @@ Bike west to the Cut bush before the Snorlax, and continue heading west to get H
 
 Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
 
+FLY MENU (open menu outside of fly house)
+Swap slot 2 S.S. Ticket, down with X Accuracy
+Down 3 teach HM02 Fly to bird
+Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
+Fly to Celadon. and then bike to the Game Corner.
+
+NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
+
+Game Corner Movement Maps 
+
+ROCKET HIDEOUT
+- Talk to the Grunt standing in front of the poster at the back of the Game Corner
+
+POSTER GRUNT 
+Raticate: 	Thrash x1-2
+Zubat: 		Thrash
+	
+- Press the switch behind the poster and take the stairs to the right.
+- Take the stairs to the right.
+- Walk down and left to avoid the Rocket and take the stairs down again.
+- Take the Spinning tile on the left and follow the path down to the next set of stairs.
+- Walk toward the Grunt in the top left and fight him.
+
+LIFT KEY GRUNT 
+Koffing: 	Thrash x2
+Zubat: 		Thrash
+
+Pick up the Lift Key (must talk to the grunt).
+Pick up the Rare Candy
+Pick up TM07
+
+Take the elevator to B4F and MENU
+
+Grunt Menu
+Swap slot 3 HM01, down 7 with Super Repel 
+Down 3 teach TM48 Rockslide over slot 2 Horn Attack
+Use slot 3 Super Repel
+Down 4 Swap Helix Fossil Down 8 with X Speed
+Down 3 teach TM07 Horn Drill over slot 1 Thrash
+Swap slot 4 Rarecandy down 8 with Fresh Water (fixes inventory to be similar to regular route)
+
+RIGHT Side GRUNT (note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high)
+Ekans: 	X-Acc, IB
+Sandshrew: 	IB
+Arbok: 		HD
+
+LEFT Side GRUNT 
+Sandshrew: 	IB
+Ekans: 	IB
+Sandslash: 	IB
+
+Heal to 21+ HP for Giovanni if needed
+
+GIOVANNI
+Onix: 		X-Acc, IB
+Rhyhorn: 	IB
+Kangaskhan: 	HD
+
+Pick up Silph Scope, then open the Menu
+
+If nido is under 20 hp, use one potion (but do not use your last potion, instead center after you dig out).
+
+Dig out, fly to Lavender Town, and walk East into the Pokemon Tower to meet your rival.
+
+Lavender Tower Movement from Regular Glitchless Guide
+ (it’s the same movement, just ignore the blue tile before the ghost)
+
+LAVENDER RIVAL 
+
+Pidgeotto: X-Acc + IB
+Gyarados: TB
+Growlithe: HD
+Kadabra: HD
+Ivysaur: HD
+
+CHANNELER #1
+Rockslide on both Gastly (if you are KO’d swap to Squirtle, Revive Nido, let Squirtle faint)
+ 
+Get both Elixers visible one here and hidden one here
+
+Take the heal-pad.
+ 
+CHANNELER #2
+Gastly: 	RS	Para Heal after the fight if paralyzed by Lick
+ 
+CHANNELER #3
+Gastly: 	RS	Para Heal after the fight if paralyzed by Lick
+
+CUBONE'S MOTHER
+Marowak: 	IB
+ 
+ROCKET #1
+Zubat: 		IB
+Zubat:		IB
+Golbat: 	IB
+ 
+ROCKET #2
+Koffing/Drowzee: 	X-Acc, HDx2
+
+ROCKET #3
+Zubat: 		IB
+Rattata: 	IB
+Raticate: 	IB x1-2
+Zubat: 		IB
+ 
+After getting the Poke Flute from Mr. Fuji, walk out of his house, then Fly to Celadon.
+
+CELADON CITY
+
+MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
+
+SILPH CO. Silph & Cycling Road maps
+
+Take the stairs up to 5F.
+Walk left and take the hidden Elixer in the plant 
+then walk down and talk to the Rocket next to the teleport pad.
+NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats
+We intentionally are KO’d by Koga’s Weezing to set up red bar for the gym rush up through Bruno
+Silph ROCKET #1
+Arbok: X-Acc, HD
+(if Paralyzed by glare, use para heal immediately in fight) 
+
+Get the Card Key.
+
+SILPH RIVAL
+Pidgeot: 	X Accuracy, X Speed, HD
+Gyarados: 	HD
+Growlithe: 	Rockslide
+Alakazam: 	HD
+Venusaur: 	HD
+
+If you have less than 80 HP, use slot 7 Max Ether on Horn Drill before the next fight
+With 80+ hp, use Max Ether on Horn Drill Turn 2 on Cubone
+Silph ROCKET #2 - talk to him from the left side
+Cubone:	 X Acc, (use max ether on horn drill if you haven’t already),  IB
+Drowzee: 	HD
+Marowak: 	HD
+ 
+GIOVANNI
+Nidorino: 	X Accuracy, HD
+Kangaskhan: 	HD
+Rhyhorn: 	Ice Beam
+Nidoqueen: 	HD
+ 
+Take the elevator to 10F.
+
+Walk left and pick up the rightmost item first, shown in the image here —> 
+The item ball is a Carbos. Menu and use it on Nidoking right away. 
+
+Then get the other two items TM 26 (EQ) and the Rare Candy 
+
+Dig out and bike West to Snorlax.
+ 
+Koga : Silph & Cycling Road maps You can hold B to stop on cycling road and still move w/control
+ 
+MENU next to snorlax 
+Use slot 3 Super Repel
+down 1 swap Potion down with Rarecandy
+Go down use Poke Flute
+CYCLING ROAD
+NOTE: You can hold B to stop automatically moving down on Cycling Road:
+Pick up the Rare Candy found here and hug the right wall biking down.
+Get the PPUP found here. You can bike straight down after getting PPUP the next trainer has short two-tile-vision and does not see you.
+FUCHSIA CITY - Safari Movement - Album on Imgur
+Menu immediately after exiting the guard’s house after cycling-road.
+Use slot 3 Super Repel
+Down 1 to use 4 of the rare candies (one rarecandy is left over)
+down 1 swap ParlyzHeal down with TM26 
+Down 1 to use PP UP on slot 1 Horn Drill
+Teach slot 5 TM26 Earthquake over slot 2 Rockslide
+Get on the bike and cut both trees to enter the Safari Zone.
+SAFARI ZONE
+- Get on your bike. Optional pick up extra hidden Revive here. In the statue.
+- Super Repel in Zone 3.
+
+Pickup the Teeth and get HM03 Surf from the man in the house.
+Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s Gym.
+JUGGLER #1
+Drowzee: 	EQ
+Drowzee: 	EQ
+Kadabra: 	EQ
+Drowzee: 	EQ
+ 
+JUGGLER #2
+Drowzee: 	EQ
+Hypno: 	EQ (+ TB) 	(If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint)
+ 
+KOGA
+Koffing: 	EQ
+Muk: 		EQ
+Koffing: 	EQ
+Weezing: 	use Elixer, then stall with slot 17 Poke Flute until Self Destruct KOs you (or sends you into low hp, which is also fine).
+
+
+- Walk out of the gym and MENU,
+
+Use slot 4 Rarecandy on Nidoking
+then bike east (hopping the ledge) to the warden's house and get HM04. 
+
+- Then walk out and Fly to Pallet Town.
+ 
+In Pallet Town / Surf Menu -	Mansion Movement  
+
+Walk left to the water here facing the water and MENU
+Use slot 3 Super Repel and scroll down 17 to teach HM03 to Squirtle 
+( over slot 2 tail whip if Squirtle already knows dig )
+use Surf (go straight down, just side step one tile left to not bonk fisherman)
+Inside Mansion:
+Take stairs up.
+Walk up around/above to the next stairs.
+Hit the switch and fall through the hole.
+Avoid the scientist and GET THE CARBOS.
+
+Menu after picking up this Carbos 
+teach HM04 Strength to Squirtle over Tackle. 
+Note that your cursor is ON SQUIRTLE.
+Use carbos on Nidoking 
+Slot 3 use the Super Repel
+Scroll to the bottom of the bag (cursor on Cancel)
+
+Pickup two rare candies, one visible and one hidden.
+
+Use the two rare candies on Nidoking 
+
+After using all candies, pick up the Secret Key and dig out.
+
+Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
+
+BEAUTY (Erika's gym)
+Exeggcute:	 IB			(remember to turn up and talk to Erika, walking past her will trigger an optional)
+ 
+ERIKA 	              
+Victreebel, Tangel, Vileplume:	IB x3
+ 
+Exit Erika’s gym and fly to Cinnabar Island (down twice).
+
+Blaine’s gym Puzzle: A B B B A B 	(A=yes; B=no)
+
+BLAINE 
+Growlithe: 			X Acc, EQ or HD growlithe if Blaine uses super potion on turn 1
+Ponyta, Rapidash, Arcanine: 	HD x3
+
+Dig out of Blaine’s gym and Bike East to Sabrina’s gym by walking through the guard house.
+
+Teleporter Puzzle: Diagonal, Diagonal, Hold Down(bottom left)
+
+Save before talking to Sabrina 
+(Alakazam will speedtie Nido if speed DV is 0, so you’d need to soft reset and try again if you are KO’d) 
+
+SABRINA
+Kadabra: 	EQ
+Mr. Mime:	EQ  	                                                                                                                                                                                        
+Venomoth: 	EQ
+Alakazam: 	EQ(+EQ again if Reflect is used)
+ 
+Take the teleporter pad and then use Dig (causes animation to be faster).
+Fly to Viridian City and bike to Giovanni's gym.
+ 
+COOLTRAINER-M
+Rhyhorn: 	Ice Beam
+
+
+Save before the next fight on the blue tile.
+ 
+BLACK BELT: 
+Machoke: 	EQ(+TB) → typically 74-95% range
+Machop: 	EQ (TBx1-2 if only one EQ is left)
+Machoke: 	EQ(+TB)
+ 
+
+Exit gym, re-enter the gym to reset the blackbelt’s position (spin tiles are significantly slower)
+
+Menu one step into the gym upon re-entering (must elixer before Giovanni)
+use slot 6 Elixer
+ 
+GIOVANNI 3
+Rhyhorn: 	Ice Beam
+Dugtrio: 	Ice Beam
+Nidoqueen: 	EQ	(do not use Ice Beam here)
+Nidoking: 	EQ
+Rhydon: 	Ice Beam x1-2 (Rhydon will not deal any damage to you)
+
+(can pick up the revive on the way out, if you’ve already used one and have HM  users alive)
+
+Walk out of Giovanni's gym and Menu right away
+use a Super Repel, then bike west toward Victory Road to meet your rival.
+ 
+
+
+
+
+VIRIDIAN RIVAL (bird is AI locked into agility spam)
+Pidgeot: 	X Accuracy, X Speed, Ice Beam x2
+Rhyhorn: 	Ice Beam
+Gyarados: 	TB
+Growlithe:	 EQ
+Alakazam: 	EQ
+Venusaur: 	HD
+ 
+- Use a Super Repel when you reach the other side of the lake here, then bike to Victory Road ← Map
+
+INDIGO PLATEAU
+Buy 5 Full Restores on the left here before entering Elite Four.
+
+LORELEI	(we abuse Dewgong’s turn2 priority to go for status moves to force rest to be used)
+
+Dewgong: 		Switch to flier, switch to Nidoking when it gets KO’d, X Accuracy, HD
+Cloyster:		HD
+Slowbro: 		HD
+Jynx: 			HD  (EQ if you somehow have only 1 Drill left)
+Lapras: 		HD
+
+- Use an Elixer before Bruno. Only save the game if 0 revives are left.
+ 
+BRUNO (slam crit → Revive and setup another X Accuracy should have 2 extra Accs)
+Onix:	 		X Accuracy, Ice Beam
+Hitmonchan: 		HD
+Hitmonlee: 		HD
+Onix: 			Ice Beam
+Machamp: 		HD
+
+- Full Restore before Agatha, optional save game, always save with 0 revives
+ 
+AGATHA 
+Pokeflute if put to sleep, full restore or para heal if glared by arbok (very rare to happen)
+
+Gengar: 		X Speed, EQ 
+Golbat: 		IB x2
+Haunter: 		EQ
+Arbok: 			EQ  (if hazed by golbat with 28-60 hp use X-speed on Arbok; 1-27 hp use Full Restore)
+Gengar:			EQ
+
+Menu Inside the next room on the tile indicated in the image (or one tile above this tile)
+Use an Elixer before Lance
+Potion to 140+ hp or use Full Restore
+Required save the game, there is no other recovery from hydro pump critical hit.
+Just soft-reset using A+B+Start+Select if you get crit and try again
+
+
+LANCE
+Gyarados: 		X Special, TB
+1st Dragonair: 	IB
+2nd Dragonair: 	X Speed, IB
+Aerodactyl: 		IB
+Dragonite: 		IB
+
+
+- Full Restore or potion to 90+ hp and save if 0 revives left before entering the next room.
+
+CHAMPION
+Pidgeot: 		X Accuracy, X Speed, Horn Drill
+Alakazam: 		HD	(EQ instead only if you skipped cycling road PPUP earlier)
+Rhydon: 		HD
+Gyarados:		HD
+Arcanine: 		HD
+Venusaur: 		HD
+
+Timer ends on the fadeout that begins the credits after the in game time is displayed.
 
 
 <img src="" >
