@@ -474,9 +474,13 @@ GAMBLER
 - Growlithe: 	BB (+thrash)
 - Vulpix: 	Thrash
  
-Be careful not to hit optionals. Take the underground path to Celadon City. Pick up hidden Elixer here and the hidden Nugget here.
+Be careful not to hit optionals. Take the underground path to Celadon City. 
+
+Pick up hidden Elixer here and the hidden Nugget marked below:
+
+<img src="https://i.imgur.com/Jh9E0Cd.jpeg" >
  
-CELADON MART
+**CELADON MART**
  
 2F - Clerk on the left hand side
 - Sell both Nuggets
@@ -505,7 +509,7 @@ FLY MENU (open menu outside of fly house)
 - Swap slot 2 S.S. Ticket, down with X Accuracy
 - Down 3 teach HM02 Fly to bird
 - Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
-- Fly to Celadon. and then bike to the Game Corner.
+- Fly to Celadon (down 1) and then bike to the Game Corner.
 
 > NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
 
@@ -521,42 +525,53 @@ POSTER GRUNT
 - Take the stairs to the right.
 - Walk down and left to avoid the Rocket and take the stairs down again.
 - Take the Spinning tile on the left and follow the path down to the next set of stairs.
-- Walk toward the Grunt in the top left and fight him.
+
+<img src="https://i.imgur.com/lpiw8OO.jpeg" >
+
+- Walk up toward the Grunt in the top left and fight him.
+
+<img src="https://i.imgur.com/2N7U4By.jpeg" >
 
 LIFT KEY GRUNT 
 Koffing: 	Thrash x2
 Zubat: 		Thrash
 
-Pick up the Lift Key (must talk to the grunt).
-Pick up the Rare Candy
+Pick up the Lift Key (must talk to the grunt) and take the stairs you came from.
+
+<img src="https://i.imgur.com/3qY2DeL.jpeg" >
+
+Pick up the Rare Candy and take the stairs up.
+
+<img src="https://i.imgur.com/MiDjbVF.jpeg" >
+
 Pick up TM07
 
-Take the elevator to B4F and MENU
+Take the elevator to B4F and MENU two steps into the next room.
 
-Grunt Menu
-Swap slot 3 HM01, down 7 with Super Repel 
-Down 3 teach TM48 Rockslide over slot 2 Horn Attack
-Use slot 3 Super Repel
-Down 4 Swap Helix Fossil Down 8 with X Speed
-Down 3 teach TM07 Horn Drill over slot 1 Thrash
-Swap slot 4 Rarecandy down 8 with Fresh Water (fixes inventory to be similar to regular route)
+**Grunt Menu**
+- Swap slot 3 HM01, down 7 with Super Repel 
+- Down 3 teach TM48 Rockslide over slot 2 Horn Attack
+- Use slot 3 Super Repel
+- Down 4 Swap Helix Fossil Down 8 with X Speed
+- Down 3 teach TM07 Horn Drill over slot 1 Thrash
+- Swap slot 4 Rarecandy down 8 with Fresh Water (fixes inventory to be similar to regular route)
 
 RIGHT Side GRUNT (note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high)
-Ekans: 	X-Acc, IB
-Sandshrew: 	IB
-Arbok: 		HD
+- Ekans: 	X-Acc, IB
+- Sandshrew: 	IB
+- Arbok: 		HD
 
 LEFT Side GRUNT 
-Sandshrew: 	IB
-Ekans: 	IB
-Sandslash: 	IB
+- Sandshrew: 	IB
+- Ekans: 	IB
+- Sandslash: 	IB
 
 Heal to 21+ HP for Giovanni if needed
 
 GIOVANNI
-Onix: 		X-Acc, IB
-Rhyhorn: 	IB
-Kangaskhan: 	HD
+- Onix: 		X-Acc, IB
+- Rhyhorn: 	IB
+- Kangaskhan: 	HD
 
 Pick up Silph Scope, then open the Menu
 
@@ -564,8 +579,7 @@ If nido is under 20 hp, use one potion (but do not use your last potion, instead
 
 Dig out, fly to Lavender Town, and walk East into the Pokemon Tower to meet your rival.
 
-Lavender Tower Movement from Regular Glitchless Guide
- (it’s the same movement, just ignore the blue tile before the ghost)
+## FLUTE SPLIT
 
 LAVENDER RIVAL 
 
@@ -575,13 +589,21 @@ Growlithe: HD
 Kadabra: HD
 Ivysaur: HD
 
-CHANNELER #1
-Rockslide on both Gastly (if you are KO’d swap to Squirtle, Revive Nido, let Squirtle faint)
+<img src="https://i.imgur.com/8t6F7Kb.jpeg" >
+
+Talk to CHANNELER #1
+- Rockslide on both Gastly (if you are KO’d swap to Squirtle, Revive Nido, let Squirtle faint)
  
 Get both Elixers visible one here and hidden one here
 
+<img src="https://i.imgur.com/ZPIsQ9A.jpeg" >
+
+<img src="https://i.imgur.com/IpM0bEO.jpeg" >
+
 Take the heal-pad.
- 
+
+<img src="https://i.imgur.com/eagxMpe.jpeg" >
+
 CHANNELER #2
 Gastly: 	RS	Para Heal after the fight if paralyzed by Lick
  
@@ -590,20 +612,23 @@ Gastly: 	RS	Para Heal after the fight if paralyzed by Lick
 
 CUBONE'S MOTHER
 Marowak: 	IB
- 
+
+Enter the final floor and simply walk straight up letting the rockets see you.
+
 ROCKET #1
-Zubat: 		IB
-Zubat:		IB
-Golbat: 	IB
+- Zubat: 		IB
+- Zubat:		IB
+- Golbat: 	IB
  
 ROCKET #2
-Koffing/Drowzee: 	X-Acc, HDx2
+- Koffing 	X-Acc, HD
+- Drowzee	HD
 
 ROCKET #3
-Zubat: 		IB
-Rattata: 	IB
-Raticate: 	IB x1-2
-Zubat: 		IB
+- Zubat: 		IB
+- Rattata: 	IB
+- Raticate: 	IB x1-2
+- Zubat: 		IB
  
 After getting the Poke Flute from Mr. Fuji, walk out of his house, then Fly to Celadon.
 
@@ -861,10 +886,5 @@ Venusaur: 		HD
 Timer ends on the fadeout that begins the credits after the in game time is displayed.
 
 
-<img src="" >
-
-<img src="" >
-
-<img src="" >
 
 
