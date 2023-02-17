@@ -434,46 +434,45 @@ Repel one step into Rock Tunnel
 | <img src="https://i.imgur.com/LllktGo.png" > | <img src="https://i.imgur.com/cS4hPoI.png" > |
 
 POKEMANIAC #1
-Cubone: 	BB
-Slowpoke: 	TB
+- Cubone: 	BB
+- Slowpoke: 	TB
  
 POKEMANIAC #2
-Slowpoke: 	TB x1-2.            (rare to happen: swap out if confused)
+- Slowpoke: 	TB x1-2.            (rare to happen: swap out if confused)
 
-Save before this next fight.
 JR. TRAINER-F - ODDISH GIRL
-Oddish: 	Thrash x1-2
-Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
+- Oddish: 	Thrash x1-2
+- Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
  	
 Repel twice before the next fight. See map for suggested spots: Rock Tunnel ← Click for Map.
  
 HIKER
-Geodude: 	BB
-Geodude: 	BB
-Graveler: 	BB
+- Geodude: 	BB
+- Geodude: 	BB
+- Graveler: 	BB
  
 Use a potion if under 7 hp
 
 JR. TRAINER-F #2
-Meowth: 	Thrash
-Oddish: 	Thrash
-Pidgey: 	Thrash       (and note HP)
+- Meowth: 	Thrash
+- Oddish: 	Thrash
+- Pidgey: 	Thrash       (and note HP)
 
-Exit and bike Right. Pickup the hidden Max Ether in the bush from the left side and then bike straight down.
-We enter Lavender town and follow the path above west, but first .
+> If under 35 hp, take the center in Lavender town
 
-Before the next fight if under 35 HP take the Lavender pokemon center.
+Exit and bike Right. 
 
+Pickup the hidden Max Ether in the bush from the left side
 
+Bike straight down into Lavender Town
 
+Bike West and fight the gambler.
 
----------------------------------------------------------------------------------------------------------------------------- 
-ROUTE 8 → Celadon Mart
-----------------------------------------------------------------------------------------------------------------------------
+<img src="https://i.imgur.com/CRUMtKg.png" >
 
 GAMBLER
-Growlithe: 	BB (+thrash)
-Vulpix: 		Thrash
+- Growlithe: 	BB (+thrash)
+- Vulpix: 	Thrash
  
 Be careful not to hit optionals. Take the underground path to Celadon City. Pick up hidden Elixer here and the hidden Nugget here.
  
@@ -494,28 +493,29 @@ CELADON MART
 - Buy   3 X Special  	(do NOT buy guard spec, must be x-special)
 - Buy   8 X Speed    
 
- Then take the elevator to the first floor.
+Take the elevator to the first floor.
 
-Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road. After exiting the house, open the menu and do the following:
+Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road. 
 
-Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
+After exiting the house, open the menu and do the following:
+
+> Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
 
 FLY MENU (open menu outside of fly house)
-Swap slot 2 S.S. Ticket, down with X Accuracy
-Down 3 teach HM02 Fly to bird
-Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
-Fly to Celadon. and then bike to the Game Corner.
+- Swap slot 2 S.S. Ticket, down with X Accuracy
+- Down 3 teach HM02 Fly to bird
+- Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
+- Fly to Celadon. and then bike to the Game Corner.
 
-NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
+> NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
 
-Game Corner Movement Maps 
+## HIDEOUT SPLIT
 
-ROCKET HIDEOUT
 - Talk to the Grunt standing in front of the poster at the back of the Game Corner
 
 POSTER GRUNT 
-Raticate: 	Thrash x1-2
-Zubat: 		Thrash
+- Raticate: 	Thrash x1-2
+- Zubat: 	Thrash
 	
 - Press the switch behind the poster and take the stairs to the right.
 - Take the stairs to the right.
@@ -867,9 +867,4 @@ Timer ends on the fadeout that begins the credits after the in game time is disp
 
 <img src="" >
 
-<img src="" >
-
-<img src="" >
-
-<img src="" >
 
