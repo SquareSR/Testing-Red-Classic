@@ -720,7 +720,7 @@ Menu immediately after exiting the guard’s house after cycling-road.
 - Teach slot 5 TM26 Earthquake over slot 2 Rockslide
 - Get on the bike and cut both trees to enter the Safari Zone.
 
-<img src="https://i.imgur.com/wHad35M.jpeg" width=150>
+<img src="https://i.imgur.com/wHad35M.jpeg" >
 
 SAFARI ZONE
 - Get on your bike. Optional pick up extra hidden Revive here. In the statue.
