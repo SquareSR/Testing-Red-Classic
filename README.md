@@ -3,9 +3,13 @@
 ### Good Documents and Resources
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY) 
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq) 
-- [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) - Download Red Helper from Daily Leaf (updated by Grogir)
-  - Required download for advanced route, optional for beginner route.
+- [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
+	- TOOLS: Download "Red Classic Helper (1.06)" and see [here](https://imgur.com/gallery/VDeBcSE) for beginner settings
+	- SAVES: Download "Any% Glitchless (Beginner Route)"
 - [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description)
+
+
+> Note: this guide contains many movement maps to help beginners, but to move through these areas better
 
 ### Glossary
 
@@ -731,188 +735,233 @@ Pickup the Teeth and get HM03 Surf from the man in the house.
 <img src="https://i.imgur.com/jybwsln.png" >
 
 Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s Gym.
+
+<img src="https://i.imgur.com/inIR2Ri.jpeg" >
+
 JUGGLER #1
-Drowzee: 	EQ
-Drowzee: 	EQ
-Kadabra: 	EQ
-Drowzee: 	EQ
+- Drowzee: 	EQ
+- Drowzee: 	EQ
+- Kadabra: 	EQ
+- Drowzee: 	EQ
  
 JUGGLER #2
-Drowzee: 	EQ
-Hypno: 	EQ (+ TB) 	(If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint)
+- Drowzee: 	EQ
+- Hypno: 	EQ (+ TB) 	(If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint)
  
 KOGA
-Koffing: 	EQ
-Muk: 		EQ
-Koffing: 	EQ
-Weezing: 	use Elixer, then stall with slot 17 Poke Flute until Self Destruct KOs you (or sends you into low hp, which is also fine).
+- Koffing: 	EQ
+- Muk: 		EQ
+- Koffing: 	EQ
+- Weezing: 	use Elixer, then stall with slot 17 Poke Flute until Self Destruct KOs you (or sends you into low hp, which is also fine).
 
+## Gym Rush
 
-- Walk out of the gym and MENU,
+> The order in this route is Erika, Blaine, Sabrina; but this may differ for advanced route.
 
-Use slot 4 Rarecandy on Nidoking
-then bike east (hopping the ledge) to the warden's house and get HM04. 
+Walk out of the gym and MENU:
+- Use slot 4 Rarecandy on Nidoking
+- bike east (hopping the ledge) to the warden's house
 
-- Then walk out and Fly to Pallet Town.
- 
-In Pallet Town / Surf Menu -	Mansion Movement  
+Talk to the warden trading Gold Teeth for HM04
+- Exit house
+- Fly to Pallet Town
 
-Walk left to the water here facing the water and MENU
-Use slot 3 Super Repel and scroll down 17 to teach HM03 to Squirtle 
-( over slot 2 tail whip if Squirtle already knows dig )
-use Surf (go straight down, just side step one tile left to not bonk fisherman)
+Walk left dodging the Lass and face the edge of the water
+
+MENU
+- Use slot 3 Super Repel
+- scroll down 17 to teach HM03 to Squirtle (over slot 2 tail whip if Squirtle already knows dig )
+- use Surf 
+
+> go straight down, just side step one tile left to not bonk fisherman
+
 Inside Mansion:
-Take stairs up.
-Walk up around/above to the next stairs.
-Hit the switch and fall through the hole.
-Avoid the scientist and GET THE CARBOS.
+- Take stairs up.
+- Walk up around/above to the next stairs.
 
-Menu after picking up this Carbos 
-teach HM04 Strength to Squirtle over Tackle. 
-Note that your cursor is ON SQUIRTLE.
-Use carbos on Nidoking 
-Slot 3 use the Super Repel
-Scroll to the bottom of the bag (cursor on Cancel)
+Hit the switch and fall through the hole:
 
-Pickup two rare candies, one visible and one hidden.
+<img src="https://i.imgur.com/Nskx2GA.jpeg" >
 
-Use the two rare candies on Nidoking 
+Avoid the scientist and GET THE CARBOS next to the trees:
 
-After using all candies, pick up the Secret Key and dig out.
+<img src="https://i.imgur.com/Vn8Pa54.jpeg" >
+
+> Note that your cursor is ON SQUIRTLE.
+
+MENU after picking up this Carbos 
+- Teach HM04 Strength to Squirtle over Tackle. 
+- Use carbos on Nidoking 
+- Slot 3 use the Super Repel
+- Scroll to the bottom of the bag (leave the cursor on Cancel)
+
+Take the stairs to the next room where we
+- hit a switch and get two candies as seen below:
+<img src="https://i.imgur.com/TOuV3ag.jpeg" >
+
+- Use the two rare candies on Nidoking 
+- After using all candies, pick up the Secret Key and dig out.
 
 Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
 
 BEAUTY (Erika's gym)
-Exeggcute:	 IB			(remember to turn up and talk to Erika, walking past her will trigger an optional)
+- Exeggcute:	 IB
+
+> remember to turn up and talk to Erika, walking past her will trigger an optional
  
 ERIKA 	              
-Victreebel, Tangel, Vileplume:	IB x3
- 
+- Victreebel:	IB
+- Tangel:	IB
+- Vileplume:	IB
+
 Exit Erika’s gym and fly to Cinnabar Island (down twice).
 
 Blaine’s gym Puzzle: A B B B A B 	(A=yes; B=no)
 
 BLAINE 
-Growlithe: 			X Acc, EQ or HD growlithe if Blaine uses super potion on turn 1
-Ponyta, Rapidash, Arcanine: 	HD x3
+- Growlithe: 	X Acc, EQ
+- Ponyta	HD
+- Rapidash	HD
+- Arcanine: 	HD
 
 Dig out of Blaine’s gym and Bike East to Sabrina’s gym by walking through the guard house.
 
 Teleporter Puzzle: Diagonal, Diagonal, Hold Down(bottom left)
 
-Save before talking to Sabrina 
-(Alakazam will speedtie Nido if speed DV is 0, so you’d need to soft reset and try again if you are KO’d) 
+**Save before talking to Sabrina**
+
+> Alakazam will may outspeed Nido if speed DV is 0 or 1   
+> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select   
+> If you know DVs or were KO'd, then on Mr. Mime: X-Speed, EQ + (TB) on Mr. Mime, (1/3) to use confusion
 
 SABRINA
-Kadabra: 	EQ
-Mr. Mime:	EQ  	                                                                                                                                                                                        
-Venomoth: 	EQ
-Alakazam: 	EQ(+EQ again if Reflect is used)
+- Kadabra: 	EQ
+- Mr. Mime:	EQ  or X-speed, EQ (+ TB) if slower than Alakazam
+- Venomoth: 	EQ
+- Alakazam: 	EQ (+EQ again if Reflect is used)
  
 Take the teleporter pad and then use Dig (causes animation to be faster).
 Fly to Viridian City and bike to Giovanni's gym.
- 
-COOLTRAINER-M
-Rhyhorn: 	Ice Beam
 
+<img src="https://i.imgur.com/3JcpNQh.jpeg" >
+
+COOLTRAINER-M
+- Rhyhorn: 	Ice Beam
 
 Save before the next fight on the blue tile.
  
 BLACK BELT: 
-Machoke: 	EQ(+TB) → typically 74-95% range
-Machop: 	EQ (TBx1-2 if only one EQ is left)
-Machoke: 	EQ(+TB)
+- Machoke: 	EQ(+TB) → typically 74-95% range
+- Machop: 	EQ (TBx1-2 if only one EQ is left)
+- Machoke: 	EQ(+TB)
  
 
 Exit gym, re-enter the gym to reset the blackbelt’s position (spin tiles are significantly slower)
 
 Menu one step into the gym upon re-entering (must elixer before Giovanni)
-use slot 6 Elixer
+- use slot 6 Elixer
  
 GIOVANNI 3
-Rhyhorn: 	Ice Beam
-Dugtrio: 	Ice Beam
-Nidoqueen: 	EQ	(do not use Ice Beam here)
-Nidoking: 	EQ
-Rhydon: 	Ice Beam x1-2 (Rhydon will not deal any damage to you)
+- Rhyhorn: 	Ice Beam
+- Dugtrio: 	Ice Beam
+- Nidoqueen: 	EQ	(do not use Ice Beam here)
+- Nidoking: 	EQ
+- Rhydon: 	Ice Beam x1-2 (Rhydon will not deal any damage to you)
 
-(can pick up the revive on the way out, if you’ve already used one and have HM  users alive)
+> can pick up the revive on the way out, if you’ve already used one and have HM users alive
 
-Walk out of Giovanni's gym and Menu right away
-use a Super Repel, then bike west toward Victory Road to meet your rival.
+Walk out of Giovanni's gym and MENU:
+- use a Super Repel
+- bike west toward Victory Road to meet your rival
  
 
 
 
 
-VIRIDIAN RIVAL (bird is AI locked into agility spam)
-Pidgeot: 	X Accuracy, X Speed, Ice Beam x2
-Rhyhorn: 	Ice Beam
-Gyarados: 	TB
-Growlithe:	 EQ
-Alakazam: 	EQ
-Venusaur: 	HD
+VIRIDIAN RIVAL
+
+> bird is AI locked into agility spam
+
+- Pidgeot: 	X Accuracy, X Speed, Ice Beam x2
+- Rhyhorn: 	Ice Beam
+- Gyarados: 	TB
+- Growlithe:	EQ
+- Alakazam: 	EQ
+- Venusaur: 	HD
  
-- Use a Super Repel when you reach the other side of the lake here, then bike to Victory Road ← Map
+- Use a Super Repel when you reach the other side of the lake here, then bike into Victory Road
+
+> The best way to learn victory road movement is to watch a video and replicate it. The image below will help you complete VR on the fly if you need the resource. 
+
+> If a repel happens to run out early from extra steps, always use the next super repel right away.
+
+<img src="https://i.imgur.com/bZDhJ5p.jpeg" >
 
 INDIGO PLATEAU
-Buy 5 Full Restores on the left here before entering Elite Four.
 
-LORELEI	(we abuse Dewgong’s turn2 priority to go for status moves to force rest to be used)
+- Buy 5 Full Restores on the left before entering Elite Four
 
-Dewgong: 		Switch to flier, switch to Nidoking when it gets KO’d, X Accuracy, HD
-Cloyster:		HD
-Slowbro: 		HD
-Jynx: 			HD  (EQ if you somehow have only 1 Drill left)
-Lapras: 		HD
+## LORELEI	
 
-- Use an Elixer before Bruno. Only save the game if 0 revives are left.
+> we take advantage of Dewgong’s turn 2 priority to go for status moves to force rest to be used
+
+- Dewgong: 		Switch to flier, switch to Nidoking when it gets KO’d, X Accuracy, HD
+- Cloyster:		HD
+- Slowbro: 		HD
+- Jynx: 			HD  (EQ if you somehow have only 1 Drill left)
+- Lapras: 		HD
+
+- Use an Elixer before Bruno. 
+- Only save the game if 0 revives are left.
  
-BRUNO (slam crit → Revive and setup another X Accuracy should have 2 extra Accs)
-Onix:	 		X Accuracy, Ice Beam
-Hitmonchan: 		HD
-Hitmonlee: 		HD
-Onix: 			Ice Beam
-Machamp: 		HD
+## BRUNO
+
+> slam crit → Revive and setup another X Accuracy should have 2 extra Accs
+
+- Onix:	 		X Accuracy, Ice Beam
+- Hitmonchan: 		HD
+- Hitmonlee: 		HD
+- Onix: 			Ice Beam
+- Machamp: 		HD
 
 - Full Restore before Agatha, optional save game, always save with 0 revives
  
-AGATHA 
-Pokeflute if put to sleep, full restore or para heal if glared by arbok (very rare to happen)
+## AGATHA 
 
-Gengar: 		X Speed, EQ 
-Golbat: 		IB x2
-Haunter: 		EQ
-Arbok: 			EQ  (if hazed by golbat with 28-60 hp use X-speed on Arbok; 1-27 hp use Full Restore)
-Gengar:			EQ
+> Pokeflute if put to sleep, full restore or para heal if glared by arbok (very rare to happen)
 
-Menu Inside the next room on the tile indicated in the image (or one tile above this tile)
-Use an Elixer before Lance
-Potion to 140+ hp or use Full Restore
-Required save the game, there is no other recovery from hydro pump critical hit.
-Just soft-reset using A+B+Start+Select if you get crit and try again
+- Gengar: 		X Speed, EQ 
+- Golbat: 		IB x2
+- Haunter: 		EQ
+- Arbok: 			EQ  (if hazed by golbat with 28-60 hp use X-speed on Arbok; 1-27 hp or para use Full Restore)
+- Gengar:			EQ
+
+Inside the next room a few tiles before reaching Lance, MENU:
+- Use an Elixer
+- Potion to 140+ hp or use Full Restore
+- Required save the game, there is no recovery from hydro pump critical hit
+
+> soft-reset using A+B+Start+Select if you get crit and try again
 
 
-LANCE
-Gyarados: 		X Special, TB
-1st Dragonair: 	IB
-2nd Dragonair: 	X Speed, IB
-Aerodactyl: 		IB
-Dragonite: 		IB
+## LANCE
+
+- Gyarados: 		X Special, TB
+- 1st Dragonair: 	IB
+- 2nd Dragonair: 	X Speed, IB
+- Aerodactyl: 		IB
+- Dragonite: 		IB
 
 
 - Full Restore or potion to 90+ hp and save if 0 revives left before entering the next room.
 
-CHAMPION
-Pidgeot: 		X Accuracy, X Speed, Horn Drill
-Alakazam: 		HD	(EQ instead only if you skipped cycling road PPUP earlier)
-Rhydon: 		HD
-Gyarados:		HD
-Arcanine: 		HD
-Venusaur: 		HD
+## CHAMPION
+
+- Pidgeot: 		X Accuracy, X Speed, Horn Drill
+- Alakazam: 		HD
+- Rhydon: 		HD
+- Gyarados:		HD
+- Arcanine: 		HD
+- Venusaur: 		HD
 
 Timer ends on the fadeout that begins the credits after the in game time is displayed.
-
-
-
-
