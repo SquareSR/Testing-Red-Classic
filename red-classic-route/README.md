@@ -147,28 +147,28 @@ ATK DV | Strat | Alt Strat|
 6-8   | Fight Hiker   | KO 2 Encounters   | 
 0-5   | Fight Hiker    | N/A   | 
 
+</td></tr> </table>
 
-<table class="t"> <tr><td>
 
 Experience Chart
-
-_ | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 |
--------------- | -----------|----------- |----------- |----------- |----------- |----------- 
-Zubat     | 54 | 61 | 69 | 77 | 84 | 91 |
-Paras     | - | 80 | - | 100 | - | 120 |
+</td><td>
+|_ | Lv. 7 | Lv. 8 | Lv. 9 | Lv. 10 | Lv. 11 | Lv. 12 |
+|-------------- | -----------|----------- |----------- |----------- |----------- |----------- |
+|Zubat     | 54 | 61 | 69 | 77 | 84 | 91 |
+|Paras     | - | 80 | - | 100 | - | 120 |
 
 
 
 
 Strat to Weaken Paras
-
-Lv | Nido | Strat|
------------- | ------------- | ------- 
-Lv. 16-17 | Nidorino   | Tackle Lv. 8 Paras|
-Lv. 16 | Nidoking w/15 ATK  | Tackle Lv. 8/10 Paras  |
-Lv. 17-18 | Nidoking | Tackle Lv. 8/10 Paras   | 
-Lv. 18 | Nidoking w/ 13-15 ATK | Tackle any Paras |
-_   | otherwise    | HA to weaken   | 
+</td><td>
+|Lv | Nido | Strat|
+|------------ | ------------- | ------- |
+|Lv. 16-17 | Nidorino   | Tackle Lv. 8 Paras|
+|Lv. 16 | Nidoking w/15 ATK  | Tackle Lv. 8/10 Paras  |
+|Lv. 17-18 | Nidoking | Tackle Lv. 8/10 Paras   | 
+|Lv. 18 | Nidoking w/ 13-15 ATK | Tackle any Paras |
+| _   | otherwise    | HA to weaken   | 
 
 
                        
