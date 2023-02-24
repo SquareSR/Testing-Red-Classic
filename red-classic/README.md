@@ -524,8 +524,8 @@ Pick up hidden Elixer here and the hidden Nugget marked below:
  
 5F - Clerk on the left hand side
 - Buy  16 X Accuracy
-- Buy   2 X Special  	(do NOT buy guard spec, must be x-special)
-- Buy   8 X Speed    
+- Buy   1 X Special ----- do NOT buy guard spec, must be an X-Special
+- Buy   9 X Speed    
 
 Take the elevator to the first floor.
 
@@ -555,47 +555,54 @@ FLY MENU (open menu outside of fly house)
 
 POSTER GRUNT 
 - Raticate: 	Thrash x1-2
-- Zubat: 	Thrash
+- Zubat: 	Thrash  
 	
-- Press the switch behind the poster and take the stairs to the right.
-- Take the stairs to the right.
-- Walk down and left to avoid the Rocket and take the stairs down again.
-- Take the Spinning tile on the left and follow the path down to the next set of stairs.
+Press the switch behind the poster and take the stairs to the right.  
+
+Take the next stairs to the right.
+
+Follow the path below:
 
 <img src="https://i.imgur.com/lpiw8OO.jpeg" >
 
-- Walk up toward the Grunt in the top left and fight him.
+Walk up toward the Grunt in the top left and fight him.
 
 <img src="https://i.imgur.com/2N7U4By.jpeg" >
 
-LIFT KEY GRUNT 
-Koffing: 	Thrash x2
-Zubat: 		Thrash
+LIFT KEY GRUNT:  
+- Koffing: 	Thrash x2 or IB + TB
+- Zubat: 	Thrash or TB
 
-Pick up the Lift Key (must talk to the grunt) and take the stairs you came from.
+Talk to the grunt for him to drop the Lift Key.  
+	
+Pick up the Lift Key and take the stairs you came from.  
+
+Follow the path to get the Rare Candy and take the stairs up.  
 
 <img src="https://i.imgur.com/3qY2DeL.jpeg" >
 
-Pick up the Rare Candy and take the stairs up.
+Follow the next path to pick up TM07 and reach the elevator.
 
 <img src="https://i.imgur.com/MiDjbVF.jpeg" >
-
-Pick up TM07
 
 Take the elevator to B4F and MENU two steps into the next room.
 
 **Grunt Menu**
-- Swap slot 3 HM01, down 7 with Super Repel 
+- Swap slot 3 Potion, down 7 with Super Repel 
 - Down 3 teach TM48 Rockslide over slot 2 Horn Attack
 - Use slot 3 Super Repel
 - Down 4 Swap Helix Fossil Down 8 with X Speed
 - Down 3 teach TM07 Horn Drill over slot 1 Thrash
-- Swap slot 4 Rarecandy down 8 with Fresh Water (fixes inventory to be similar to regular route)
+- Swap slot 6 Rare Candy, down 6 with Fresh Water
 
-RIGHT Side GRUNT (note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high)
+> This last swap is slow, but is required to force the menus to be similar to the standard route   
+	
+> note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high enough  
+	
+RIGHT Side GRUNT
 - Ekans: 	X-Acc, IB
 - Sandshrew: 	IB
-- Arbok: 		HD
+- Arbok: 	HD
 
 LEFT Side GRUNT 
 - Sandshrew: 	IB
@@ -605,7 +612,7 @@ LEFT Side GRUNT
 Heal to 21+ HP for Giovanni if needed
 
 GIOVANNI
-- Onix: 		X-Acc, IB
+- Onix: 	X-Acc, IB
 - Rhyhorn: 	IB
 - Kangaskhan: 	HD
 
@@ -619,24 +626,29 @@ Dig out, fly to Lavender Town, and walk East into the Pokemon Tower to meet your
 
 LAVENDER RIVAL 
 
-Pidgeotto: X-Acc + IB
-Gyarados: TB
-Growlithe: HD
-Kadabra: HD
-Ivysaur: HD
+- Pidgeotto: X-Acc + IB
+- Gyarados: TB
+- Growlithe: HD
+- Kadabra: HD
+- Ivysaur: HD
 
 <img src="https://i.imgur.com/8t6F7Kb.jpeg" >
 
+> If you are KO'd swap to Squirtle, Revive Nido, let Squirtle faint
+	
 Talk to CHANNELER #1
-- Rockslide on both Gastly (if you are KO’d swap to Squirtle, Revive Nido, let Squirtle faint)
- 
-Get both Elixers visible one here and hidden one here
+- Gastly: RS
+- Gastly: RS
+
+Get both Elixers first is visible, second is hidden on the next floor
 
 <img src="https://i.imgur.com/ZPIsQ9A.jpeg" >
 
 <img src="https://i.imgur.com/IpM0bEO.jpeg" >
 
 Take the heal-pad.
+	
+> Parlyz Heal after the fight if either of the Gastly Paralyze you.
 
 <img src="https://i.imgur.com/eagxMpe.jpeg" >
 
@@ -668,27 +680,28 @@ ROCKET #3
  
 After getting the Poke Flute from Mr. Fuji, walk out of his house, then Fly to Celadon.
 
-CELADON CITY
+## SILPH CO.
 
-MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+MUST Take the center in Celadon.   
 
-Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
+> Replenishes PP & sets Celadon as the warp point  
 
-SILPH CO. Silph & Cycling Road maps
+Bike East to Saffron City, trade Fresh Water for passage, and enter Silph Co.
 
 Take the stairs up to 5F.
 
-Walk left and take the hidden Elixer in the plant, 
-then walk down and talk to the Rocket next to the teleport pad.
+Follow the image to:   
+Walk left and get the hidden Elixer in the plant, then walk down and talk to the Rocket next to the teleport pad.
 
 <img src="https://i.imgur.com/WAid12E.jpeg" >
 
-NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats
-We intentionally are KO’d by Koga’s Weezing to set up red bar for the gym rush up through Bruno
+> NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats   
+> We intentionally are KO’d or hit to low hp by Koga’s Weezing to set up red bar for the gym rush up through Bruno
 
 Silph ROCKET #1
-Arbok: X-Acc, HD
-(if Paralyzed by glare, use para heal immediately in fight) 
+- Arbok: X-Acc, HD
+
+> if Paralyzed by glare, use para heal immediately in fight
 
 Get the Card Key.
 
@@ -697,17 +710,21 @@ Get the Card Key.
 SILPH RIVAL
 - Pidgeot: 	X Accuracy, X Speed, HD
 - Gyarados: 	HD
-- Growlithe: 	Rockslide
+- Growlithe: 	**Rockslide**
 - Alakazam: 	HD
-- Venusaur: 	HD
+- Venusaur: 	HD 
 
-If you have less than 80 HP, use slot 7 Max Ether on Horn Drill before the next fight
+Take note of your hp and play accordingly:
 
-With 80+ hp, use Max Ether on Horn Drill Turn 2 on Cubone or turn 1 on Drowzee
+</td><td>
 
-Silph ROCKET #2 - talk to him from the left side
-- Cubone:	 X Acc, (use max ether on horn drill if you haven’t already),  IB
-- Drowzee: 	HD
+| less than 80 hp                       | 80+ hp |
+| ---------------------------- | ---------------------------- |
+| use slot 8 max ether HD before the next fight | use max ether in the next fight |
+	
+Silph ROCKET #2
+- Cubone:	 X Acc, (max ether HD if under 80 hp from bone club),  IB
+- Drowzee: 	(max ether HD, if you haven't yet) HD
 - Marowak: 	HD
  
 GIOVANNI
@@ -722,21 +739,19 @@ Walk left and pick up the rightmost item first, shown in the image
 
 <img src="https://i.imgur.com/ilsgeOn.png" >
 
-The item ball is a Carbos. Menu and use it on Nidoking right away. 
+The item ball is a Carbos. 
+- Menu and scroll to the bottom to use Carbos on Nidoking right away. 
 
-Then get the other two items TM 26 (EQ) and the Rare Candy 
+Then get the other two items TM 26 (EQ) and the Rare Candy  
 
-Dig out and bike West to Snorlax.
+Dig out and bike West to Snorlax.  
  
-Koga : Silph & Cycling Road maps You can hold B to stop on cycling road and still move w/control
+## Cycling Road
  
 MENU next to snorlax 
 - Use slot 3 Super Repel
-- down 1 swap Potion down with Rarecandy
-- Go down use Poke Flute
-
-
-CYCLING ROAD
+- down 1 swap Parlyz Heal down 8 with Rare Candy
+- Go down 7 use Poke Flute
 
 > NOTE: You can hold B to stop automatically moving down on Cycling Road:
 
@@ -749,24 +764,29 @@ Get the PPUP found here. You can bike straight down after getting PPUP the next 
 <img src="https://i.imgur.com/RXgwTA9.jpeg" >
 
 Menu immediately after exiting the guard’s house after cycling-road.
+- Use Slot 4 Rare Candy (use all 5 candies on Nidoking)
 - Use slot 3 Super Repel
-- Down 1 to use 4 of the rare candies (one rarecandy is left over)
-- down 1 swap ParlyzHeal down with TM26 
+- down 1 swap HM01 down 14 with TM26 
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Teach slot 5 TM26 Earthquake over slot 2 Rockslide
-- Get on the bike and cut both trees to enter the Safari Zone.
+- Teach slot 4 TM26 Earthquake over slot 2 Rockslide
+
+Get on the bike and cut both trees to enter the Safari Zone.   
 
 <img src="https://i.imgur.com/wHad35M.jpeg" >
 
 SAFARI ZONE
-- Get on your bike. Optional pick up extra hidden Revive here. In the statue.
-- Super Repel in Zone 3.
+- Get the Carbos
+- Super Repel in Zone 3 on the blue tile
+- Get the Gold Teeth
+- (optional) grab the hidden revive in the statue
+- Get HM03 and exit the house.
 
-Pickup the Teeth and get HM03 Surf from the man in the house.
+<img src="https://i.imgur.com/A8Qwy4y.png" >
 
-<img src="https://i.imgur.com/jybwsln.png" >
+- Use Dig
+- Fly back to Fuschia City (D2)
 
-Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s Gym.
+Walk to Koga’s Gym   
 
 <img src="https://i.imgur.com/inIR2Ri.jpeg" >
 
@@ -778,27 +798,34 @@ JUGGLER #1
  
 JUGGLER #2
 - Drowzee: 	EQ
-- Hypno: 	EQ (+ TB) 	(If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint)
+- Hypno: 	EQ (+ TB) 	
+
+> If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint
  
 KOGA
 - Koffing: 	EQ
 - Muk: 		EQ
 - Koffing: 	EQ
-- Weezing: 	use Elixer, then stall with slot 17 Poke Flute until Self Destruct KOs you (or sends you into low hp, which is also fine).
+- Weezing: 	use slot 5 Elixer, then stall with X-Speeds (U1) until Self Destruct
 
-## Gym Rush
+> Ideally Nidoking fainted, which guarantees red bar now to Bruno.  
+> If Nidoking did not faint, this is also fine; play normally.  
 
-> The order in this route is Erika, Blaine, Sabrina; but this may differ for advanced route.
+## GYM RUSH
+
+> The order presented in this route is (1) Blaine, (2) Sabrina, (3) Erika
+> There is no major downside to doing them out of order, so do not panic if you do so  
+
+## MANSION
 
 Walk out of the gym and MENU:
-- Use slot 4 Rarecandy on Nidoking
 - bike east (hopping the ledge) to the warden's house
 
 Talk to the warden trading Gold Teeth for HM04
 - Exit house
 - Fly to Pallet Town
 
-Walk left dodging the Lass and face the edge of the water
+Walk left dodging the Lass and face the edge of the water  
 
 MENU
 - Use slot 3 Super Repel
@@ -822,8 +849,8 @@ Avoid the scientist and GET THE CARBOS next to the trees:
 > Note that your cursor is ON SQUIRTLE.
 
 MENU after picking up this Carbos 
-- Teach HM04 Strength to Squirtle over Tackle. 
-- Use carbos on Nidoking 
+- Down 1 teach HM04 Strength to Squirtle over Tackle. 
+- Up 2 use both Carbos **on Nidoking** 
 - Slot 3 use the Super Repel
 - Scroll to the bottom of the bag (leave the cursor on Cancel)
 
@@ -831,9 +858,47 @@ Take the stairs to the next room where we
 - hit a switch and get two candies as seen below:
 <img src="https://i.imgur.com/TOuV3ag.jpeg" >
 
-- Use the two rare candies on Nidoking 
-- After using all candies, pick up the Secret Key and dig out.
+Menu near the Secret Key:
+- Use all remaining rare candies on Nidoking 
+-  **Pick up the Secret Key**
+- Dig out
 
+## BLAINE
+	
+Fly to Cinnabar Island (down twice)
+	
+Blaine’s gym Puzzle: A B B B A B 	(A=yes; B=no)
+
+BLAINE 
+- Growlithe: 	X Acc, EQ
+- Ponyta	HD
+- Rapidash	HD
+- Arcanine: 	HD
+
+Dig out of Blaine’s Gym 
+
+## SABRINA
+
+Bike East to Sabrina’s gym by walking through the guard house   
+
+Teleporter Puzzle: Diagonal, Diagonal, Hold Down(bottom left)   
+
+**Save before talking to Sabrina**   
+
+> Alakazam will may outspeed Nido if speed DV is 0 or 1   
+> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select   
+> If you know DVs or were KO'd, then on Mr. Mime: X-Speed, EQ + (TB) on Mr. Mime, (1/3) to use confusion   
+
+SABRINA  
+- Kadabra: 	EQ
+- Mr. Mime:	EQ  or X-speed, EQ (+ TB) if slower than Alakazam
+- Venomoth: 	EQ
+- Alakazam: 	EQ (+EQ again if Reflect is used)
+ 
+Take the teleporter pad and then use Dig (causes animation to be faster).
+
+## ERIKA
+	
 Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
 
 BEAUTY (Erika's gym)
@@ -846,52 +911,28 @@ ERIKA
 - Tangel:	IB
 - Vileplume:	IB
 
-Exit Erika’s gym and fly to Cinnabar Island (down twice).
+Exit Erika’s gym by cutting the middle tree.
 
-Blaine’s gym Puzzle: A B B B A B 	(A=yes; B=no)
+## GIOVANNI
 
-BLAINE 
-- Growlithe: 	X Acc, EQ
-- Ponyta	HD
-- Rapidash	HD
-- Arcanine: 	HD
-
-Dig out of Blaine’s gym and Bike East to Sabrina’s gym by walking through the guard house.
-
-Teleporter Puzzle: Diagonal, Diagonal, Hold Down(bottom left)
-
-**Save before talking to Sabrina**
-
-> Alakazam will may outspeed Nido if speed DV is 0 or 1   
-> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select   
-> If you know DVs or were KO'd, then on Mr. Mime: X-Speed, EQ + (TB) on Mr. Mime, (1/3) to use confusion
-
-SABRINA
-- Kadabra: 	EQ
-- Mr. Mime:	EQ  or X-speed, EQ (+ TB) if slower than Alakazam
-- Venomoth: 	EQ
-- Alakazam: 	EQ (+EQ again if Reflect is used)
- 
-Take the teleporter pad and then use Dig (causes animation to be faster).
-Fly to Viridian City and bike to Giovanni's gym.
+Fly to Viridian City (U1) and bike to Giovanni's gym.
 
 <img src="https://i.imgur.com/3JcpNQh.jpeg" >
 
 COOLTRAINER-M
 - Rhyhorn: 	Ice Beam
 
-Save before the next fight on the blue tile.
+Save before the next fight on the blue tile.  
  
 BLACK BELT: 
 - Machoke: 	EQ(+TB) → typically 74-95% range
 - Machop: 	EQ (TBx1-2 if only one EQ is left)
 - Machoke: 	EQ(+TB)
  
+Exit gym, re-enter the gym to reset the blackbelt’s position (spin tiles are significantly slower)  
 
-Exit gym, re-enter the gym to reset the blackbelt’s position (spin tiles are significantly slower)
-
-Menu one step into the gym upon re-entering (must elixer before Giovanni)
-- use slot 6 Elixer
+Menu one step into the gym upon re-entering (must elixer before Giovanni)  
+- Use slot 5 Elixer
  
 GIOVANNI 3
 - Rhyhorn: 	Ice Beam
@@ -900,16 +941,14 @@ GIOVANNI 3
 - Nidoking: 	EQ
 - Rhydon: 	Ice Beam x1-2 (Rhydon will not deal any damage to you)
 
-> can pick up the revive on the way out, if you’ve already used one and have HM users alive
+> can pick up the revive on the way out, if you need it
 
+## VICTORY ROAD
+	
 Walk out of Giovanni's gym and MENU:
 - use a Super Repel
 - bike west toward Victory Road to meet your rival
  
-
-
-
-
 VIRIDIAN RIVAL
 
 > bird is AI locked into agility spam
@@ -925,9 +964,11 @@ VIRIDIAN RIVAL
 
 > The best way to learn victory road movement is to watch a video and replicate it. The image below will help you complete VR on the fly if you need the resource. 
 
-> If a repel happens to run out early from extra steps, always use the next super repel right away.
+> This route has an extra super repel, you can super repel at the 2nd, 3rd, and 4th boulder.
 
 <img src="https://i.imgur.com/bZDhJ5p.jpeg" >
+
+> Note: always use all super repels to make room in your bag to buy full restores
 
 INDIGO PLATEAU
 
