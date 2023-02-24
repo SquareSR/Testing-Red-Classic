@@ -130,7 +130,7 @@ Bug Catcher 2:
 Bug Catcher 3:  (If <4 HAs, save an HA on the Caterpie even if it takes an extra turn.)
 - Caterpie:
 	- HA x2
-- Metapod: (Note: You need at least 2 HAs for after this fight)
+- Metapod: 
 	- HA x3-5 + Tackle spam
 
 Catch a flyer:
