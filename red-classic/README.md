@@ -40,10 +40,6 @@ Rival 1:
 > Tail whip turn 2 if growled turn 1 
 > - This is slower on average but has a higher win rate
 
-> Optional: check stats on level up after Rival 1
-> - 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
-> - 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
-
 Route 1
 - Spam Tackle to faint one encounter that is L2 or L3
 
@@ -82,8 +78,9 @@ Follow this path in the forest picking up the antidote and hidden Weedle Guy Pot
 
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-6 Potion]
+- Check Squirtle's Special at L8
 
-> 13 SPC at L8 is bad special, save before Brock
+> If Squirlte has 13 SPC at L8, then save before Brock
 
 Swap Squirtle and Nido at some point (nido should be the lead)
 - 1-15 hp Potion
