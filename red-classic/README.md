@@ -5,7 +5,7 @@
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq) 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
 	- TOOLS: Download "Red Classic Helper (1.06)" and see [here](https://imgur.com/gallery/d9LGAo8) for beginner settings
-	- SAVES: Download "Any% Glitchless (Beginner Route)"
+	- SAVES: Download "Any% Glitchless (Classic)"
 - [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description)
 
 
