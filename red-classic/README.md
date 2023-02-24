@@ -364,6 +364,13 @@ JR. TRAINER-M
 
 > Full Restore after this fight if under 31 HP 	
 
+Enter the Mart.
+
+VERMILION Mart
+- Sell all Pokeballs
+- Buy 3 Repels
+- Buy 6 Para Heals
+
 Enter the S.S. ANNE
 
 Walk Left and take the first stairs you see
@@ -387,22 +394,17 @@ Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
 
 <img src="https://i.imgur.com/UmZxWvL.jpeg" >
 
-Exit the boat and head to the Mart.
+Exit the boat and head towards Surge's Gym.
 
-VERMILION Mart
-- Sell all Pokeballs
-- Buy 3 Repels
-- Buy 6 Para Heals
-
-Trade for DUX in this house still need something to learn Cut
+Trade for DUX in this house if we still need something to learn Cut
 
 Walk up to the tree guarding Surge's Gym and open the menu
 
 **Cut Menu**:
 - Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
-- Swap potions down 6 with Repels (using select)  
-- Up 1 - teach HM01 to Paras or DUX  
-- Up 1 - Teach TM28 to Paras or Squirtle  
+- Swap potions down 5 with Repels (using select)  
+- Down 2 - teach HM01 to Paras or DUX  
+- Up 3 - Teach TM28 to Paras or Squirtle  
 - Cut the tree and enter Surge’s gym.  
 
 Surge Trash Cans Puzzle
@@ -426,12 +428,13 @@ Get TM24 Thunderbolt and exit the gym
 - Get the Bike from the Bike Shop and exit the shop.
 
 Menu (outside of the bike shop)
-- Swap slot 2 Helix Fossil with Bike		
-- Teach TM24 Thunderbolt over Slot 3 Water Gun  
-- Get on the bike, cut both trees to head East into ROUTE 9  
-- Save before this next fight after cutting the second tree.  
+- Swap slot 2 Helix Fossil down 7 with Bike		
+- Up 1 - Teach TM24 Thunderbolt over Slot 3 Water Gun  
+- Slot 2 - Get on the bike, cut both trees to head East into ROUTE 9  
 
-JR. TRAINER-F (4-TURN THRASH GIRL)
+Save before this next fight after cutting the second tree.   
+
+JR. TRAINER-F (4-TURN THRASH GIRL) 
 - Oddish: 	Thrash
 - Bellsprout: 	Thrash
 - Oddish: 	Thrash
@@ -450,6 +453,8 @@ Repel one step into Rock Tunnel
 | ---------------------------- | ---------------------------- |
 | <img src="https://i.imgur.com/LllktGo.png" > | <img src="https://i.imgur.com/cS4hPoI.png" > |
 
+> If you completed rock tunnel using the map, then scroll down to EXIT ROCK TUNNEL
+
 POKEMANIAC #1
 - Cubone: 	BB
 - Slowpoke: 	TB
@@ -461,7 +466,7 @@ JR. TRAINER-F - ODDISH GIRL
 - Oddish: 	Thrash x1-2
 - Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
  	
-Repel twice before the next fight. See map for suggested spots: Rock Tunnel ← Click for Map.
+Repel twice before the next fight within a few steps of each blue tile on the map.
  
 HIKER
 - Geodude: 	BB
@@ -475,23 +480,31 @@ JR. TRAINER-F #2
 - Oddish: 	Thrash
 - Pidgey: 	Thrash       (and note HP)
 
+## EXIT ROCK TUNNEL
+
 > If under 35 hp, take the center in Lavender town
 
 Exit and bike Right. 
 
-Pickup the hidden Max Ether in the bush from the left side
+Pickup the hidden Max Ether in the bush from the left side  
+
+<img src="https://i.imgur.com/0WpaVOx.png" >
 
 Bike straight down into Lavender Town
 
 Bike West and fight the gambler.
 
-<img src="https://i.imgur.com/CRUMtKg.png" >
+<img src="https://i.imgur.com/1EHC3r4.png" >
 
 GAMBLER
 - Growlithe: 	BB (+thrash)
 - Vulpix: 	Thrash
  
-Be careful not to hit optionals. Take the underground path to Celadon City. 
+Follow the path below - be careful not to hit optionals
+
+<img src="https://i.imgur.com/3TbEDS8.png" >
+
+Take the underground path to Celadon City. 
 
 Pick up hidden Elixer here and the hidden Nugget marked below:
 
@@ -501,7 +514,7 @@ Pick up hidden Elixer here and the hidden Nugget marked below:
  
 2F - Clerk on the left hand side
 - Sell both Nuggets
-- Buy 10 Super Repels
+- Buy 11 Super Repels 
 - Buy 2 Revives
  
 6F - Rooftop Vending Machine
@@ -511,7 +524,7 @@ Pick up hidden Elixer here and the hidden Nugget marked below:
  
 5F - Clerk on the left hand side
 - Buy  16 X Accuracy
-- Buy   3 X Special  	(do NOT buy guard spec, must be x-special)
+- Buy   2 X Special  	(do NOT buy guard spec, must be x-special)
 - Buy   8 X Speed    
 
 Take the elevator to the first floor.
@@ -523,12 +536,18 @@ After exiting the house, open the menu and do the following:
 > Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
 
 FLY MENU (open menu outside of fly house)
-- Swap slot 2 S.S. Ticket, down with X Accuracy
+- Swap slot 2 S.S. Ticket, down 13 with X Accuracy
 - Down 3 teach HM02 Fly to bird
-- Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
-- Fly to Celadon (down 1) and then bike to the Game Corner.
+- Up 4 to place cursor on TM13 
+- Fly to Celadon (down 1)
+- Teach TM13 Ice Beam to Nidoking over Slot 4 Bubblebeam
+- Bike to the Game Corner  
 
-> NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
+> NOTE: From this point on you have 2 revives  
+> If you die remember to swap to a pokemon, revive, let the swapped pokemon be KO'd   
+> Note that ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO   
+> This route has extras so you shouldn't run out of x items   
+> This route saves before fights when reviving is worse than soft resetting  
 
 ## HIDEOUT SPLIT
 
