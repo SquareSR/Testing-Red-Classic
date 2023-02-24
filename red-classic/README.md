@@ -754,11 +754,11 @@ MENU next to snorlax
 
 Pick up the Rare Candy found here and hug the right wall biking down.
 
-<img src="https://i.imgur.com/klM3YDH.jpeg" >
+<img src="https://i.imgur.com/klM3YDH.jpeg" height = 300>
 
 Get the PPUP found here. You can bike straight down after getting PPUP the next trainer has short two-tile-vision and does not see you.
 
-<img src="https://i.imgur.com/RXgwTA9.jpeg" >
+<img src="https://i.imgur.com/RXgwTA9.jpeg" height = 225>
 
 Menu immediately after exiting the guard’s house after cycling-road.
 - Use Slot 4 Rare Candy (use all 5 candies on Nidoking)
@@ -769,7 +769,7 @@ Menu immediately after exiting the guard’s house after cycling-road.
 
 Get on the bike and cut both trees to enter the Safari Zone.   
 
-<img src="https://i.imgur.com/wHad35M.jpeg" >
+<img src="https://i.imgur.com/wHad35M.jpeg" height=300>
 
 SAFARI ZONE
 - Get the Carbos
@@ -778,7 +778,7 @@ SAFARI ZONE
 - (optional) grab the hidden revive in the statue
 - Get HM03 and exit the house.
 
-<img src="https://i.imgur.com/A8Qwy4y.png" >
+<img src="https://i.imgur.com/A8Qwy4y.png" height=500 >
 
 - Use Dig
 - Fly back to Fuschia City (D2)
@@ -853,7 +853,8 @@ MENU after picking up this Carbos
 
 Take the stairs to the next room where we
 - hit a switch and get two candies as seen below:
-<img src="https://i.imgur.com/TOuV3ag.jpeg" >
+
+<img src="https://i.imgur.com/TOuV3ag.jpeg" height = 350 >
 
 Menu near the Secret Key:
 - Use all remaining rare candies on Nidoking 
@@ -963,7 +964,7 @@ VIRIDIAN RIVAL
 
 > This route has an extra super repel, you can super repel at the 2nd, 3rd, and 4th boulder.
 
-<img src="https://i.imgur.com/bZDhJ5p.jpeg" >
+<img src="https://i.imgur.com/bZDhJ5p.jpeg" height = 400>
 
 > Note: always use all super repels to make room in your bag to buy full restores
 
