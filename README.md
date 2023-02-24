@@ -9,8 +9,6 @@
 - [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description)
 
 
-> Note: this guide contains many movement maps to help beginners, but to move through these areas better
-
 ### Glossary
 
 - Moves: HA = Horn Attack, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, PS = Poison Sting, HD = Horn Drill, IB = Ice Beam, RS = Rock Slide
@@ -32,24 +30,36 @@ Name yourself and rival “A” or any one character.
 
 Pickup the PC Potion
 
-Name Squirtle one character. Naming squirtle “B” can help avoid confusion later when checking stats on Brock and teaching moves throughout the run, assuming you plan to name Nidoran “A”. 
+Name Squirtle one character. 
+
+> Naming squirtle “B” can help avoid confusion later when checking stats on Brock and teaching moves throughout the run, assuming you plan to name Nidoran “A”. 
 
 Rival 1:
-- Tail Whip + spam Tackle (tail whip turn 2 if growled turn 1 - slower on average but higher win rate)
+- Tail Whip + spam Tackle 
+
+> Tail whip turn 2 if growled turn 1 
+> - This is slower on average but has a higher win rate
 
 > Optional: check stats on level up after Rival 1
 > - 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
 > - 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
 
 Route 1
-- Spam Tackle to faint one encounter that is L2 or L3 (This early EXP will get Bubble for Brock)
+- Spam Tackle to faint one encounter that is L2 or L3
+
+> This early EXP will get Bubble for Brock
 
 Viridian Mart
 - Buy 8 Poke Balls 
 
 Walk West to the grass patch on Route 22
 
-Catch a L3 or L4 Nidoran-M and give it a one-character name.
+Optional - Save the game before searching for nidoran.
+
+- Catch a L3 or L4 Nidoran-M and give it a one-character name.
+	- Tackle L3 Nido once before throwing pokeballs.  
+	- L4 Nido, just throw pokeballs.  
+	- L5 Spearow, just throw pokeballs, since it outspeeds us  
 
 </td><td>
 
@@ -57,10 +67,7 @@ Catch a L3 or L4 Nidoran-M and give it a one-character name.
 | ---------------------------- | ---------------------------- |
 | <img src="https://i.imgur.com/RBD6c2T.jpg" width="650"> | <img src="https://i.imgur.com/LSGYzXO.png" width="220"> |
 
-Tackle L3 Nido once before throwing pokeballs.
-L4 Nido, just throw pokeballs.
-L5 Spearow, just throw pokeballs, since it outspeeds.
-  
+
 ## BROCK SPLIT
 
 Get the hidden tree potion
@@ -87,8 +94,7 @@ Brock:
 - Spam Bubble on Geodude [1-7 Potion]
 - Switch to Nido, then swap back to Squirtle
 - Spam Bubble on Onix [1-11 Potion]
-> 14 ATK at L8, optional reset
-  
+
 ## ROUTE 3 SPLIT
 
 Pewter Mart
@@ -139,12 +145,12 @@ Use the Pokemon Center to heal before entering Mt. Moon.
                        
 ## MT. MOON SPLIT
 
-If you see a Paras, catch it. HA to weaken. Run from all other encounters.
+If you see a Paras, catch it. Use HA to weaken and throw Pokeballs. Run from all other encounters.   
+
 Exceptions: 
 - Lv. 16-17 Nidorino  →  Tackle a Lv. 8 Paras
-- Lv. 16 Nidoking with 15 DV Attack should Tackle a Lv. 10 Paras, a 
-- Lv. 17-18 Nidoking should Tackle a Lv. 10 Paras
-- Lv. 18 Nidoking with 13-15 DV Attack should Tackle a Lv. 12 Paras.
+- Lv. 17-18 Nidoking →  Tackle a Lv. 8 or Lv. 10 Paras
+- Lv. 18 Nidoking w/ 13-15 DV Attack → Tackle any Lv. Paras
 
 Enter Mt. Moon
 - Turn left to pick up **TM12 Water Gun**.
@@ -158,6 +164,8 @@ Take the ladder after getting the Moon Stone
 Contine down and right to the next ladder and follow the path below
 
 <img src="https://i.imgur.com/impaAww.png" width=550 >
+
+> If you are now exiting Mt. Moon scroll down to "BRIDGE SPLIT"
 
 - Fight the Super Nerd
   - Magnemite: HA x2 + HA/PS
@@ -205,15 +213,17 @@ Then walk up Nugget Bridge on the right to meet your rival
 
 > Talk to all trainers on the bridge rather than letting them see you, except for the last trainer/rocket
 
-If you get hit by only 1 sand attack, 
-	
-- HA spam (+PS) Pidgeotto until it faints, HA Abra, then swap to Bird on Rattata and let your Bird get KO’d before swapping back to Nido.
+Our rival leads with a Pidgeotto that knows Sand Attack. If you are hit by sand attack, do the following:
 
-If you get hit by 2+ sand attacks,
-	
-- Keep hitting pidgeotto until it is one hit from being KO’d (if you accidentally KO Pidgeotto, then HA spam Abra and swap to Bird on Rat like above)
-- Then swap to Squirtle to spam Tail Whip and let it be KO’d by pidgeotto: doing so avoids getting a chance to get sand-attack again after swapping back. 
-- (note: you can use a turn to potion Nido while squirtle is out)
+- If you get hit by only 1 sand attack, 
+	- HA spam (+PS) Pidgeotto
+	- HA spam Abra
+	- First turn on Rattata, swap to your Spearow/Pidgey 
+	- Let your Bird get KO’d before swapping back to Nido
+
+- If you get hit by 2+ sand attacks,
+	- Swap to Squirtle once Pidgeotto has been hit by at least 2 HAs
+	- Use a potion on Nido, if needed, and then spam tail whip until Squirtle faints
 
 Bridge Rival:
 
@@ -238,18 +248,16 @@ TRAINER #3 - Youngster (under 12 hp potion before the fight)
 - Ekans: HA + PS or HA
 - Zubat: HA (+ PS)
 
-> You should reach L21 after this zubat, if you are somehow still L20 from either splitting exp or skipping a trainer, then just delay the following menu until you do reach L21, the route can still be followed this way but you may have a few riskier fights such as Misty and Oddish girl in Tunnel.
-
-MENU before the next trainer we are at Lv. 21 after the youngster fight 
+**MENU** before the next trainer we are at Lv. 21 after the youngster fight 
 
 → use the two rare candies on nido
 
 → learn thrash and teach thrash over Tackle (slot 2).
 
-TRAINER #4 - Lass - In fight swap thrash to slot 1 (down + select x2 + A)
+TRAINER #4 - Lass - In fight swap thrash to slot 1 (select + down + select + A)
 
-- Pidgey: Thrash  (or HA + PS)
-- Nidoran-F: Thrash (or HA x2)
+- Pidgey: Thrash 
+- Nidoran-F: Thrash
 
 TRAINER #5 - Jr. TrainerM
 
@@ -287,23 +295,28 @@ Enter Bill's House
 
 Enter Misty's Gym and avoid the swimmer 
 
-> Misty is the single trainer most likely to end your run, potion to full hp and save before fighting her
-
 JR. TRAINER-F
 - Goldeen: Thrash x2
 
-Before Misty open the menu and Potion to full health
+**Before Misty Menu**
+-  Potion to full if needed
 - **Save the game**
 
-> If Nido faints, soft reset using A + B + Start + Select.   
-> If ever confused from Thrash on Starmie, switch out to Squirtle (Potion Nido, if needed, and then spam Tail whip).  
-> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 spd dv.  
+Thrash goes 3-4 turns, after which you are confused.
+
+- If ever confused on Starmie, then
+	- Switch out to Squirtle
+	- Potion x1-2 on Nido
+	- Spam Tail whip until Squirtle faints
+
+> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 spd dv.   
+> Note: Misty may use an X-Defend on Starmie on any turn (~25% chance)
 
 Misty
 - Staryu: Thrash x1
-- Starmie: Thrash x2-3
+- Starmie: Thrash x2-3+
 
-> Starmie damage rolls depend on your Special DV, but a wide range is shown for simplicity  
+> Starmie damage rolls (simplified)  
 > BB  →  35-48 damage; critical BB does up to 84 damage  
 > WG  →  22-30 damage; critical WG does up to 54.  
 
@@ -331,11 +344,11 @@ If you are under 16 hp, you may use the full restore now.
 Oddish DSUM
 - Ignore this if you already have a Paras.
 - if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw pokeballs
-- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on
+- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw pokeballs
 
 </td><td>
 
-| Time-based (repeat last two columns)                       | Step-based &nbsp; |
+| Time-based (repeat last two columns of the given row)                       | Step-based &nbsp; |
 | ---------------------------- | ---------------------------- |
 | <img src="https://i.imgur.com/Fm7I10i.png" > | <img src="https://i.imgur.com/fHtG2mb.png" > |
 
@@ -381,11 +394,11 @@ VERMILION Mart
 - Buy 3 Repels
 - Buy 6 Para Heals
 
-Trade for DUX in this house if you have spearow and no paras/Oddish
+Trade for DUX in this house still need something to learn Cut
 
 Walk up to the tree guarding Surge's Gym and open the menu
 
-Cut Menu:
+**Cut Menu**:
 - Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
 - Swap potions down 6 with Repels (using select)  
 - Up 1 - teach HM01 to Paras or DUX  
