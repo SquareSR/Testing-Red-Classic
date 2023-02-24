@@ -171,7 +171,7 @@ Contine down and right to the next ladder and follow the path below
   - Magnemite: HA x2 + HA/PS
   - Voltorb:   HA x2 + PS
 
-- Get **Rare Candy** + **Escape Rope*
+- Get **Rare Candy** + **Escape Rope**
 
 - Fight the lass, and we evolve to Nidorino
   - Oddish:     HA x2-3
