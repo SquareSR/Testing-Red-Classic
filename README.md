@@ -161,7 +161,7 @@ Then follow the path below (written notes are found after the two maps)
 
 Take the ladder after getting the Moon Stone
 
-Contine down and right to the next ladder and follow the path below
+Continue down and right to the next ladder and follow the path below
 
 <img src="https://i.imgur.com/impaAww.png" width=550 >
 
