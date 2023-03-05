@@ -1,13 +1,11 @@
-# Pokemon Red Classic Glitchless Beginner Guide
+# Pokemon Red Classic Glitchless Guide
 
 ### Good Documents and Resources
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY) 
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq) 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
-	- TOOLS: Download "Red Classic Helper (1.06)" and see [here](https://imgur.com/gallery/d9LGAo8) for beginner settings
+	- TOOLS: Download "Red Classic Helper (1.06)"
 	- SAVES: Download "Any% Glitchless (Classic)"
-- [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description)
-
 
 ### Glossary
 
@@ -26,31 +24,14 @@
 
 ## NIDORAN SPLIT
 
-Name yourself and rival “A” or any one character.
-
-Pickup the PC Potion
-
-Name Squirtle one character. 
-
-> Naming squirtle “B” can help avoid confusion later when checking stats on Brock and teaching moves throughout the run, assuming you plan to name Nidoran “A”. 
-
 Rival 1:
 - Tail Whip + spam Tackle 
-
-> Tail whip turn 2 if growled turn 1 
-> - This is slower on average but has a higher win rate
 
 Route 1
 - Spam Tackle to faint one encounter that is L2 or L3
 
-> This early EXP will get Bubble for Brock
-
 Viridian Mart
-- Buy 8 Poke Balls 
-
-Walk West to the grass patch on Route 22
-
-Optional - Save the game before searching for nidoran.
+- Buy 7 Poke Balls 
 
 - Catch a L3 or L4 Nidoran-M and give it a one-character name.
 	- Tackle L3 Nido once before throwing pokeballs.  
@@ -66,49 +47,43 @@ Optional - Save the game before searching for nidoran.
 
 ## BROCK SPLIT
 
-Get the hidden tree potion
+Get the hidden tree Potion
   
-<img src="https://i.imgur.com/JWI5ieN.png">
-  
-Follow this path in the forest picking up the antidote and hidden Weedle Guy Potion
+Get the Antidote
 
-<img src="https://i.imgur.com/uZPRgtn.jpeg" height=500>
-
-> If 1-12 hp Potion before the fight
+Get the hidden Potion
 
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-6 Potion]
 - Check Squirtle's Special at L8
 
-> If Squirlte has 13 SPC at L8, then save before Brock
-
-Swap Squirtle and Nido at some point (nido should be the lead)
-- 1-15 hp Potion
-- Use/toss Antidote
+  
+| HP   | Healing Strategy          |
+| ---- | ------------------------- |
+| 1-7  | Potion                    |
+| 8-10 | Potion if you have a menu |
+| 11+  | Don't Heal                |
 
 Brock:
 - Swap to Squirtle
-- Spam Bubble on Geodude [1-7 Potion]
+- Spam Bubble on Geodude
 - Switch to Nido, then swap back to Squirtle
-- Spam Bubble on Onix [1-11 Potion]
+- Spam Bubble on Onix 
 
 ## ROUTE 3 SPLIT
 
 Pewter Mart
 - Change Options battle style to Set two steps into the mart
-- Sell TM34 Bide (and sell the antidote if you still have it)
-- Buy 13 Potions
+- Buy 8 Potions
 
 Bug Catcher 1:
 - Caterpie: Leer + HA x2 (+ Tackle)
-- Weedle: Leer + HA + Tackle (or HA) (potion under 14 hp)
+- Weedle: Leer + HA + Tackle (or HA) (potion if it heals near 20)
 - Caterpie: Leer + HA + Tackle (or HA)
 
-**Menu on the blue tile** Potion to full hp and save the game.
+**Menu** Potion to full hp and toss antidote if you haven't already.
   
-<img src="https://i.imgur.com/eILQpJc.jpeg">
-
-Shorts Guy: [1-17 Potion on rat and if ekans hits wrap use a potion right away]
+Shorts Guy: [1-17 Potion on rat]
 - Rat: 
 	- Leer + HA x2
 - Ekans: 
@@ -142,27 +117,11 @@ Use the Pokemon Center to heal before entering Mt. Moon.
                        
 ## MT. MOON SPLIT
 
-If you see a Paras, catch it. Use HA to weaken and throw Pokeballs. Run from all other encounters.   
-
-Exceptions: 
-- Lv. 16-17 Nidorino  →  Tackle a Lv. 8 Paras
-- Lv. 17-18 Nidoking →  Tackle a Lv. 8 or Lv. 10 Paras
-- Lv. 18 Nidoking w/ 13-15 DV Attack → Tackle any Lv. Paras
-
 Enter Mt. Moon
-- Turn left to pick up **TM12 Water Gun**.
 
-Then follow the path below (written notes are found after the two maps)
+<img src="https://i.imgur.com/qR93hZO.png">
 
-<img src="https://i.imgur.com/kArB6tT.png" width=550>
-
-Take the ladder after getting the Moon Stone
-
-Contine down and right to the next ladder and follow the path below
-
-<img src="https://i.imgur.com/impaAww.png" width=550 >
-
-> If you are now exiting Mt. Moon scroll down to "BRIDGE SPLIT"
+Get TM12, if on Hiker Strats
 
 - Fight the Super Nerd
   - Magnemite: HA x2 + HA/PS
@@ -170,22 +129,22 @@ Contine down and right to the next ladder and follow the path below
 
 - Get **Rare Candy** + **Escape Rope**
 
-- Fight the lass, and we evolve to Nidorino
+- Fight the lass
   - Oddish:     HA x2-3
   - Bellsprout: HA x2
 
-- **MENU** on the blue tile
-  - Use Slot 3 TM12 to teach Nidorino Water Gun over slot3 Leer
+- If on Hiker Strats **MENU** 
+  - Use Slot 4 TM12 to teach Nidorino Water Gun over slot3 Leer
 
-- Fight the Hiker
+- Optional Hiker
   - WG spam
 
-- Get the **Moon Stone**, and take the ladder.
+- Get the **Moon Stone** and take the ladder.
 
-Contine down and right to the next ladder and follow the path below
+Continue down and right to the next ladder and follow the path below
 
-- Menu on the blue tile
-  - Use Slot 5 Moon Stone on Nidorino
+- Menu before Rocket
+  - Use Slot 6 Moon Stone on Nidorino
 
 Moon Rocket
   - Rattata: HA + PS
@@ -200,27 +159,9 @@ Get the **Helix Fossil** and exit Mt. Moon
 
 ## BRIDGE SPLIT
 
-Take the Pokemon Center to heal and to set a warp point for your Escape Rope from Bill’s.
+Take the Center
 
 Pickup the Hidden rare candy
-
-<img src="https://i.imgur.com/Fu51K9j.jpeg" >
-
-Then walk up Nugget Bridge on the right to meet your rival
-
-> Talk to all trainers on the bridge rather than letting them see you, except for the last trainer/rocket
-
-Our rival leads with a Pidgeotto that knows Sand Attack. If you are hit by sand attack, do the following:
-
-- If you get hit by only 1 sand attack, 
-	- HA spam (+PS) Pidgeotto
-	- HA spam Abra
-	- First turn on Rattata, swap to your Spearow/Pidgey 
-	- Let your Bird get KO’d before swapping back to Nido
-
-- If you get hit by 2+ sand attacks,
-	- Swap to Squirtle once Pidgeotto has been hit by at least 2 HAs
-	- Use a potion on Nido, if needed, and then spam tail whip until Squirtle faints
 
 Bridge Rival:
 
@@ -239,26 +180,26 @@ TRAINER #2 - Lass
 - Pidgey: HA + PS
 - Nidoran-F: HA x2
 
-TRAINER #3 - Youngster (under 12 hp potion before the fight)
+TRAINER #3 - Youngster
 
 - Rattata: HA (+ PS)
 - Ekans: HA + PS or HA
 - Zubat: HA (+ PS)
 
-**MENU** before the next trainer we are at Lv. 21 after the youngster fight 
+**MENU** whenever we are Lv. 21 
 
 → use the two rare candies on nido
 
-→ learn thrash and teach thrash over Tackle (slot 2).
+→ learn thrash and teach thrash over Tackle (slot 2) or over Poison Sting (slot 4) if no Paras.
 
 TRAINER #4 - Lass - In fight swap thrash to slot 1 (select + down + select + A)
 
-- Pidgey: Thrash 
-- Nidoran-F: Thrash
+- Pidgey: Thrash or HA + PS
+- Nidoran-F: Thrash or HA x2
 
 TRAINER #5 - Jr. TrainerM
 
-- Mankey: Thrash
+- Mankey: Thrash or HA + HA/PS
 
 BRIDGE ROCKET
 
@@ -266,6 +207,10 @@ BRIDGE ROCKET
 - Zubat: Thrash
 
 ## MISTY SPLIT
+
+TOP HIKER
+- Machop: HA + PS or Thrash
+- Geodude: Thrash x3
 
 BOTTOM HIKER
 - Onix: WG
@@ -287,44 +232,26 @@ LASS
 
 Enter Bill's House
 - Get S.S. Ticket from Bill
+
+  
+| SPD DV   | Healing Strategy          |
+| ---- | ------------------------- |
+| 0-10  | Potion to near full or Center         |
+| 11-12 | Potion to ~70+ hp or Center |
+| 13+  | Potion to ~60+ hp  |
+
 - Use Escape Rope
-- Take the center 
 
 Enter Misty's Gym and avoid the swimmer 
 
 JR. TRAINER-F
 - Goldeen: Thrash x2
 
-**Before Misty Menu**
--  Potion to full if needed
-- **Save the game**
-
-Thrash goes 3-4 turns, after which you are confused.
-
-- If ever confused on Starmie, then
-	- Switch out to Squirtle
-	- Potion x1-2 on Nido
-	- Spam Tail whip until Squirtle faints
-
-> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 spd dv.   
-> Note: Misty may use an X-Defend on Starmie on any turn (~25% chance)
-
 Misty
 - Staryu: Thrash x1
 - Starmie: Thrash x2-3+
 
-> Starmie damage rolls (simplified)  
-> BB  →  35-48 damage; critical BB does up to 84 damage  
-> WG  →  22-30 damage; critical WG does up to 54.  
-
 ## SURGE SPLIT
-
-After Misty Menu:
-- If you have 4+ potions, potion if you are under 16 hp-otherwise take the Center to save potions.
-- Teach Slot 6 or 7 TM11 Bubblebeam over slot 4 PS
-
-> 12-15 DV Attack → likely one-shot on Machop   
-> 9-12 damage with critical Karate Chop, and it criticals about 55 percent of the time.  
 
 DIG ROCKET
 - Machop: 	Thrash x1-2
@@ -332,16 +259,10 @@ DIG ROCKET
 
 Get TM28 Dig from the Rocket
 
-Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split)
-
-<img src="https://i.imgur.com/MzLRsOm.jpeg" >
-
-If you are under 16 hp, you may use the full restore now.
-
 Oddish DSUM
 - Ignore this if you already have a Paras.
-- if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw pokeballs
-- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw pokeballs
+- if you have no Paras and have a Pidgey, then weaken an Oddish with Tackle and throw pokeballs
+- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, Tackle and throw pokeballs
 
 </td><td>
 
@@ -350,8 +271,6 @@ Oddish DSUM
 | <img src="https://i.imgur.com/Fm7I10i.png" > | <img src="https://i.imgur.com/fHtG2mb.png" > |
 
 
-<img src="https://i.imgur.com/aXI5GZA.jpeg" >
-
 JR. TRAINER-F
 - Pidgeyx3: Thrash
 
@@ -359,47 +278,32 @@ JR. TRAINER-M
 - Spearow: Thrash
 - Raticate: Thrash	
 
-> Full Restore after this fight if under 31 HP 	
-
 Enter the Mart.
 
 VERMILION Mart
 - Sell all Pokeballs
+- Sell TM34
+- Sell Nugget
 - Buy 3 Repels
-- Buy 6 Para Heals
+- Buy 3 Para Heals
 
 Enter the S.S. ANNE
 
-Walk Left and take the first stairs you see
-
-Walk down and turn right
-
-If Pidgeotto lands a Sand-Attack, swap to your bird and let it be KO’d by Pidgeotto.
-
 **Boat Rival: **
-- Pidgeotto: HA + BB 	
-- Raticate: BBx2 	
+- Pidgeotto: HA + HA or BB 	
+- Raticate: HA + PS or BBx2 	
 - Kadabra: Thrash x1
 - Ivysaur: Thrash x2
 
-> if under 21 hp on Raticate, use full restore   
-> if under 16 hp on Kadabra, then HA Kadabra and use full restore turn 1 on Ivysaur
+Get HM01 from the captain  
 
-Get HM01 from the captain
+Exit the boat and head towards Surge's Gym.  
 
-Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
-
-<img src="https://i.imgur.com/UmZxWvL.jpeg" >
-
-Exit the boat and head towards Surge's Gym.
-
-Trade for DUX in this house if we still need something to learn Cut
-
-Walk up to the tree guarding Surge's Gym and open the menu
+Trade for DUX in this house if we still need something to learn Cut  
 
 **Cut Menu**:
-- Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
-- Swap potions down 5 with Repels (using select)  
+- Slot 4 - teach TM11 over slot 4 PS or Slot 2 Tackle
+- Swap Potion down 4 with Repels 
 - Down 2 - teach HM01 to Paras or DUX  
 - Up 3 - Teach TM28 to Paras or Squirtle  
 - Cut the tree and enter Surge’s gym.  
@@ -412,8 +316,8 @@ Surge Trash Cans Puzzle
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5).  
 
 SURGE
-- Voltorb: 	BB + BB or HA
-- Pikachu: 	Thrash
+- Voltorb: 	Thrash x1-2 or BB + BB/HA
+- Pikachu: 	Thrash x1
 - Raichu: 	Thrash x2 
 
 ## FLY SPLIT
@@ -425,11 +329,9 @@ Get TM24 Thunderbolt and exit the gym
 - Get the Bike from the Bike Shop and exit the shop.
 
 Menu (outside of the bike shop)
-- Swap slot 2 Helix Fossil down 7 with Bike		
-- Up 1 - Teach TM24 Thunderbolt over Slot 3 Water Gun  
+- Swap slot 2 Helix Fossil down 6 with Bike		
+- Up 1 - Teach TM24 Thunderbolt over Slot 3 (Leer or WG) 
 - Slot 2 - Get on the bike, cut both trees to head East into ROUTE 9  
-
-Save before this next fight after cutting the second tree.   
 
 JR. TRAINER-F (4-TURN THRASH GIRL) 
 - Oddish: 	Thrash
@@ -437,10 +339,18 @@ JR. TRAINER-F (4-TURN THRASH GIRL)
 - Oddish: 	Thrash
 - Bellsprout: 	HA (if thrash ends)
  
-BUG CATCHER
+BUG CATCHER (TBx2 and BBx2 at 16-19 hp)
 - Caterpie: 	TB
 - Weedle: 	Thrash
 - Venonat: 	Thrash x1-2
+
+  
+| SPC DV   | 1st Slowpoke BB + TB          | Cubone: TB + BB          | 1st Slowpoke BBx2 + TB         |
+| ---- | ------------------------- |
+| 13-15  | 24 - 30         | 31 - 37          |  38 - 51          |
+| 6-12 | 26 - 32 |  33 - 40          |  41 - 51          |
+| 0-5  | 2nd Slowpoke: BB + TB @27-35          |
+
 
 Repel one step into Rock Tunnel
 
