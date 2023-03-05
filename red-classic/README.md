@@ -7,6 +7,13 @@
 	- TOOLS: Download "Red Classic Helper (1.06)"
 	- SAVES: Download "Any% Glitchless (Classic)"
 
+Carbos Strategies
+| How to outspeed | Dugtrio/Jynx | Sabrina's Zam | Agatha's 1st Gengar |
+| --------------- | ------------ | ------------- | ------------------- |
+| Silph Carbos    |      ...     |       5       |        ...          |
+| Safari Carbos   |       1      |      5-7      |        11-12        |
+| Mansion Carbos  |      0-1     |      5-8      |        11-13        |
+
 ### Glossary
 
 - Moves: HA = Horn Attack, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, PS = Poison Sting, HD = Horn Drill, IB = Ice Beam, RS = Rock Slide
@@ -346,10 +353,10 @@ BUG CATCHER (TBx2 and BBx2 at 16-19 hp)
 
   
 | SPC DV   | 1st Slowpoke BB + TB          | Cubone: TB + BB          | 1st Slowpoke BBx2 + TB         |
-| ---- | ------------------------- |
+| ---- | ------------------------- | ------------------------- | ------------------------- |
 | 13-15  | 24 - 30         | 31 - 37          |  38 - 51          |
 | 6-12 | 26 - 32 |  33 - 40          |  41 - 51          |
-| 0-5  | 2nd Slowpoke: BB + TB @27-35          |
+| 0-5  | 2nd Slowpoke: BB + TB @27-35          |             |            |
 
 
 Repel one step into Rock Tunnel
@@ -367,11 +374,11 @@ POKEMANIAC #1
 - Slowpoke: 	TB
  
 POKEMANIAC #2
-- Slowpoke: 	TB x1-2.            (rare to happen: swap out if confused)
+- Slowpoke: 	TB
 
 JR. TRAINER-F - ODDISH GIRL
 - Oddish: 	Thrash x1-2
-- Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
+- Bulbasaur: 	Thrash
  	
 Repel twice before the next fight within a few steps of each blue tile on the map.
  
@@ -380,49 +387,28 @@ HIKER
 - Geodude: 	BB
 - Graveler: 	BB
  
-Use a potion if under 7 hp
-
+> Keep an eye on defensive ranges, heal if pace allows it
+	
 JR. TRAINER-F #2
 - Meowth: 	Thrash
 - Oddish: 	Thrash
-- Pidgey: 	Thrash       (and note HP)
+- Pidgey: 	Thrash   
 
 ## EXIT ROCK TUNNEL
 
-> If under 35 hp, take the center in Lavender town
-
-Exit and bike Right. 
-
-Pickup the hidden Max Ether in the bush from the left side  
-
-<img src="https://i.imgur.com/0WpaVOx.png" >
-
-Bike straight down into Lavender Town
-
-Bike West and fight the gambler.
-
-<img src="https://i.imgur.com/1EHC3r4.png" >
+Pickup the hidden Max Ether
 
 GAMBLER
 - Growlithe: 	BB (+thrash)
 - Vulpix: 	Thrash
  
-Follow the path below - be careful not to hit optionals
+Pick up hidden Elixer
 
-<img src="https://i.imgur.com/3TbEDS8.png" >
-
-Take the underground path to Celadon City. 
-
-Pick up hidden Elixer here and the hidden Nugget marked below:
-
-<img src="https://i.imgur.com/Jh9E0Cd.jpeg" >
- 
 **CELADON MART**
  
 2F - Clerk on the left hand side
-- Sell both Nuggets
-- Buy 11 Super Repels 
-- Buy 2 Revives
+- Buy 10 Super Repels 
+- Buy 3-4 Super Potions
  
 6F - Rooftop Vending Machine
 - Buy 2 Fresh Water
@@ -430,85 +416,47 @@ Pick up hidden Elixer here and the hidden Nugget marked below:
 - Give the Soda Pop to the girl first in exchange for TM48 Rockslide and then one Fresh Water for TM13 Ice Beam
  
 5F - Clerk on the left hand side
-- Buy  16 X Accuracy
-- Buy   1 X Special ----- do NOT buy guard spec, must be an X-Special
-- Buy   9 X Speed    
+- Buy   13 X Accuracy
+- Buy   1-3 X Special
+- Buy   5-6 X Speed    
 
-Take the elevator to the first floor.
+Take the elevator to the first floor.  
 
-Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road. 
-
-After exiting the house, open the menu and do the following:
-
-> Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
-
-FLY MENU (open menu outside of fly house)
-- Swap slot 2 S.S. Ticket, down 13 with X Accuracy
+**FLY MENU**
+- Swap slot 2 S.S. Ticket, down 12 with X Accuracy
 - Down 3 teach HM02 Fly to bird
 - Up 4 to place cursor on TM13 
 - Fly to Celadon (down 1)
-- Teach TM13 Ice Beam to Nidoking over Slot 4 Bubblebeam
+- Teach TM13 Ice Beam to Nidoking over Slot 4
 - Bike to the Game Corner  
 
-> NOTE: From this point on you have 2 revives  
-> If you die remember to swap to a pokemon, revive, let the swapped pokemon be KO'd   
-> Note that ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO   
-> This route has extras so you shouldn't run out of x items   
-> This route saves before fights when reviving is worse than soft resetting  
-
 ## HIDEOUT SPLIT
-
-- Talk to the Grunt standing in front of the poster at the back of the Game Corner
 
 POSTER GRUNT 
 - Raticate: 	Thrash x1-2
 - Zubat: 	Thrash  
-	
-Press the switch behind the poster and take the stairs to the right.  
-
-Take the next stairs to the right.
-
-Follow the path below:
-
-<img src="https://i.imgur.com/lpiw8OO.jpeg" >
-
-Walk up toward the Grunt in the top left and fight him.
-
-<img src="https://i.imgur.com/2N7U4By.jpeg" >
 
 LIFT KEY GRUNT:  
-- Koffing: 	Thrash x2 or IB + TB
+- Koffing: 	Thrash x2 or IB + TB [ or @8+  SPC -  IB(+TB) ]
 - Zubat: 	Thrash or TB
 
-Talk to the grunt for him to drop the Lift Key.  
-	
-Pick up the Lift Key and take the stairs you came from.  
+Get the Lift Key and the Rare Candy  
 
-Follow the path to get the Rare Candy and take the stairs up.  
+Get TM07  
 
-<img src="https://i.imgur.com/3qY2DeL.jpeg" >
-
-Follow the next path to pick up TM07 and reach the elevator.
-
-<img src="https://i.imgur.com/MiDjbVF.jpeg" >
-
-Take the elevator to B4F and MENU two steps into the next room.
+Take the elevator to B4F and MENU two steps into the next room.  
 
 **Grunt Menu**
-- Swap slot 3 Potion, down 7 with Super Repel 
-- Down 3 teach TM48 Rockslide over slot 2 Horn Attack
+- Swap slot 3 Potion, down 6 with Super Repel 
+- Down 3 teach TM48 Rockslide over slot 2
 - Use slot 3 Super Repel
-- Down 4 Swap Helix Fossil Down 8 with X Speed
-- Down 3 teach TM07 Horn Drill over slot 1 Thrash
-- Swap slot 6 Rare Candy, down 6 with Fresh Water
+- Down 3 Swap Helix Fossil Down 8 with X Speed
+- Down 4 teach TM07 Horn Drill over slot 1 Thrash   
 
-> This last swap is slow, but is required to force the menus to be similar to the standard route   
-	
-> note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high enough  
-	
+
 RIGHT Side GRUNT
-- Ekans: 	X-Acc, IB
-- Sandshrew: 	IB
+- Ekans: 	(X-Acc) IB
+- Sandshrew: 	(X-Acc) IB
 - Arbok: 	HD
 
 LEFT Side GRUNT 
@@ -516,22 +464,29 @@ LEFT Side GRUNT
 - Ekans: 	IB
 - Sandslash: 	IB
 
-Heal to 21+ HP for Giovanni if needed
+Heal to ~11+ HP for Giovanni if needed   
+
+X Acc Rhyhorn if ~21+ hp  
 
 GIOVANNI
-- Onix: 	X-Acc, IB
-- Rhyhorn: 	IB
+- Onix: 	(X-Acc) IB
+- Rhyhorn: 	(X-Acc) IB
 - Kangaskhan: 	HD
 
-Pick up Silph Scope, then open the Menu
-
-If nido is under 20 hp, use one potion (but do not use your last potion, instead center after you dig out).
-
-Dig out, fly to Lavender Town, and walk East into the Pokemon Tower to meet your rival.
+Pick up Silph Scope and dig out.
 
 ## FLUTE SPLIT
 
 LAVENDER RIVAL 
+
+| HP   | Healing Strategy          |
+| ---- | ------------------------- |
+| 1-9  | Potion turn 1                   |
+| 10-19 | X-Acc Growlithe |
+| 20+ | X-Acc turn 1               |
+
+> X-Accless Alternative (only if @7+ SPC): IB, TB, RS, RS, IB   (93.6% @ 7-9 SPC)  
+> [ IB(+TB) Growlithe @13+ SPC; but must TB pidgeotto if only 2 IB were leftover ]  
 
 - Pidgeotto: X-Acc + IB
 - Gyarados: TB
@@ -539,25 +494,15 @@ LAVENDER RIVAL
 - Kadabra: HD
 - Ivysaur: HD
 
-<img src="https://i.imgur.com/8t6F7Kb.jpeg" >
 
-> If you are KO'd swap to Squirtle, Revive Nido, let Squirtle faint
-	
-Talk to CHANNELER #1
+CHANNELER #1
 - Gastly: RS
 - Gastly: RS
 
-Get both Elixers first is visible, second is hidden on the next floor
+Get both Elixers first is visible, second is hidden on the next floor   
 
-<img src="https://i.imgur.com/ZPIsQ9A.jpeg" >
+Take the heal-pad   
 
-<img src="https://i.imgur.com/IpM0bEO.jpeg" >
-
-Take the heal-pad.
-	
-> Parlyz Heal after the fight if either of the Gastly Paralyze you.
-
-<img src="https://i.imgur.com/eagxMpe.jpeg" >
 
 CHANNELER #2
 - Gastly: 	RS	
@@ -567,8 +512,6 @@ CHANNELER #3
 
 CUBONE'S MOTHER
 - Marowak: 	IB
-
-Enter the final floor and simply walk straight up letting the rockets see you.
 
 ROCKET #1
 - Zubat: 		IB
@@ -589,21 +532,9 @@ After getting the Poke Flute from Mr. Fuji, walk out of his house, then Fly to C
 
 ## SILPH CO.
 
-MUST Take the center in Celadon.   
+Take the center   
 
-> Replenishes PP & sets Celadon as the warp point  
-
-Bike East to Saffron City, trade Fresh Water for passage, and enter Silph Co.
-
-Take the stairs up to 5F.
-
-Follow the image to:   
-Walk left and get the hidden Elixer in the plant, then walk down and talk to the Rocket next to the teleport pad.
-
-<img src="https://i.imgur.com/WAid12E.jpeg" >
-
-> NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats   
-> We intentionally are KO’d or hit to low hp by Koga’s Weezing to set up red bar for the gym rush up through Bruno
+Get hidden tree Elixer  
 
 Silph ROCKET #1
 - Arbok: X-Acc, HD
@@ -612,11 +543,9 @@ Silph ROCKET #1
 
 Get the Card Key.
 
-<img src="https://i.imgur.com/pxMvSdm.jpeg" >
-
 SILPH RIVAL
-- Pidgeot: 	X Accuracy, X Speed, HD
-- Gyarados: 	HD
+- Pidgeot: 	X Accuracy, X Speed, (X Special), HD
+- Gyarados: 	(X Special), HD
 - Growlithe: 	**Rockslide**
 - Alakazam: 	HD
 - Venusaur: 	HD 
@@ -627,7 +556,7 @@ Take note of your hp and play accordingly:
 
 | less than 80 hp                       | 80+ hp |
 | ---------------------------- | ---------------------------- |
-| use slot 8 max ether HD before the next fight | use max ether in the next fight |
+| use slot 7 max ether HD before the next fight | use max ether in the next fight |
 	
 Silph ROCKET #2
 - Cubone:	 X Acc, (max ether HD if under 80 hp from bone club),  IB
@@ -637,41 +566,35 @@ Silph ROCKET #2
 GIOVANNI
 - Nidorino: 	X Accuracy, HD
 - Kangaskhan: 	HD
-- Rhyhorn: 	Ice Beam
+- Rhyhorn: 	Ice Beam (TB stall at 25+ - 3X hp to get red bar)
 - Nidoqueen: 	HD
  
 Take the elevator to 10F.
 
-Walk left and pick up the rightmost item first, shown in the image
+> If you have 5 spd dv, then get the Silph Carbos  
 
-<img src="https://i.imgur.com/ilsgeOn.png" >
+Get TM26 and Rare Candy and Dig out.  
 
-The item ball is a Carbos. 
-- Menu and scroll to the bottom to use Carbos on Nidoking right away. 
-
-Then get the other two items TM 26 (EQ) and the Rare Candy  
-
-Dig out and bike West to Snorlax.  
+**Menu**
+- if you got it, Use Carbos on Nidoking (cursor is on Paras)
+- Bike West to Snorlax 
  
 ## Cycling Road
  
 MENU next to snorlax 
 - Use slot 3 Super Repel
-- down 1 swap Parlyz Heal down 8 with Rare Candy
-- Go down 7 use Poke Flute
+- down 1 swap Parlyz Heal down 11 with Rare Candy
+- Go down 2 use Poke Flute
 
-> NOTE: You can hold B to stop automatically moving down on Cycling Road:
+Get Rare Candy and PPUP
 
-Pick up the Rare Candy found here and hug the right wall biking down.
+**EQ MENU**
+| Standard                       | 0, 4-7, 11-12 SPD DV |
+| ---------------------------- | ---------------------------- |
+| use slot 7 max ether HD before the next fight | use max ether in the next fight |
 
-<img src="https://i.imgur.com/klM3YDH.jpeg" height = 300>
-
-Get the PPUP found here. You can bike straight down after getting PPUP the next trainer has short two-tile-vision and does not see you.
-
-<img src="https://i.imgur.com/RXgwTA9.jpeg" height = 225>
-
-Menu immediately after exiting the guard’s house after cycling-road.
-- Use Slot 4 Rare Candy (use all 5 candies on Nidoking)
+**EQ MENU**
+- Use Slot 4 Rare Candy x3 ( use all candies if getting Safari Carbos)
 - Use slot 3 Super Repel
 - down 1 swap HM01 down 14 with TM26 
 - Down 1 to use PP UP on slot 1 Horn Drill
