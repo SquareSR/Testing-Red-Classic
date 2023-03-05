@@ -7,12 +7,28 @@
 	- TOOLS: Download "Red Classic Helper (1.06)"
 	- SAVES: Download "Any% Glitchless (Classic)"
 
-Carbos Strategies
+Carbos Strategies for this route:
+
 | How to outspeed | Dugtrio/Jynx | Sabrina's Zam | Agatha's 1st Gengar |
 | --------------- | ------------ | ------------- | ------------------- |
 | Silph Carbos    |      ...     |       5       |        ...          |
-| Safari Carbos   |       1      |      5-7      |        11-12        |
-| Mansion Carbos  |      0-1     |      5-8      |        11-13        |
+| Safari Carbos   |       1      |      5-7      |       (11-12)       |
+| Mansion Carbos  |      0-1     |      5-8      |     (11-12) + 13    |
+
+If below 5 spd dv, you should strongly consider resetting early
+- The standard strategy if you take below 5 speed is to X-Speed Sabrina's Mr. Mime.
+- According to simulations by Grogir, the winrate is only about 55.6% and the avg win time is +5.6 or more time lossed.
+
+If you choose to run with 4 speed there is a slow alternative to play safely:
+- Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
+- timeloss from this is about +27-30s
+
+If you have 11-12 speed you may choose to get 2 carbos to skip x-speed on Agatha
+- This loses ~10 seconds, but ups the winrate on Agatha
+
+**The new strategy any time we use both safari and Mansion Carbos:**
+- Use all candies right away at the start of EQ menu
+- Delay using safari carbos until inside mansion
 
 ### Glossary
 
@@ -571,13 +587,11 @@ GIOVANNI
  
 Take the elevator to 10F.
 
-> If you have 5 spd dv, then get the Silph Carbos  
+> If you have 5 spd dv, then get the Silph Carbos and use it on Nido on the bike menu (cursor will be on Paras)
 
 Get TM26 and Rare Candy and Dig out.  
 
-**Menu**
-- if you got it, Use Carbos on Nidoking (cursor is on Paras)
-- Bike West to Snorlax 
+Bike West to Snorlax 
  
 ## Cycling Road
  
@@ -591,11 +605,13 @@ Get Rare Candy and PPUP
 **EQ MENU**
 | Standard                       | 0, 4-7, 11-12 SPD DV |
 | ---------------------------- | ---------------------------- |
-| use slot 7 max ether HD before the next fight | use max ether in the next fight |
+| - Use Slot 3 Super Repel 
+- down 1 use rare candy x3 | - Use Slot 4 Rare Candy x4 
+- Use slot 3 Super Repel |
 
 **EQ MENU**
-- Use Slot 4 Rare Candy x3 ( use all candies if getting Safari Carbos)
-- Use slot 3 Super Repel
+
+
 - down 1 swap HM01 down 14 with TM26 
 - Down 1 to use PP UP on slot 1 Horn Drill
 - Teach slot 4 TM26 Earthquake over slot 2 Rockslide
