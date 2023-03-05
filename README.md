@@ -937,6 +937,7 @@ INDIGO PLATEAU
 - Onix: 			Ice Beam
 - Machamp: 		HD
 
+- Use Elixer
 - Full Restore before Agatha, optional save game, always save with 0 revives
  
 ## AGATHA 
@@ -950,7 +951,7 @@ INDIGO PLATEAU
 - Gengar:			EQ
 
 Inside the next room a few tiles before reaching Lance, MENU:
-- Use an Elixer
+- If you forgot to Elixer before Agatha, use Elixer now.
 - Potion to 140+ hp or use Full Restore
 - Required save the game, there is no recovery from hydro pump critical hit
 
@@ -967,6 +968,7 @@ Inside the next room a few tiles before reaching Lance, MENU:
 
 
 - Full Restore or potion to 90+ hp and save if 0 revives left before entering the next room.
+
 
 ## CHAMPION
 
