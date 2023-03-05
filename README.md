@@ -6,7 +6,7 @@
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
 	- TOOLS: Download "Red Classic Helper (1.06)" and see [here](https://imgur.com/gallery/VDeBcSE) for beginner settings
 	- SAVES: Download "Any% Glitchless (Beginner Route)"
-- [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description)
+- [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description) (this uses the previous version of the beginner route and may be updated in the future)
 
 
 ### Glossary
