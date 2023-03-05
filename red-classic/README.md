@@ -603,13 +603,21 @@ MENU next to snorlax
 Get Rare Candy and PPUP
 
 **EQ MENU**
-| Standard                       | 0, 4-7, 11-12 SPD DV |
+| Standard                       |  |
 | ---------------------------- | ---------------------------- |
 | - Use Slot 3 Super Repel 
-- down 1 use rare candy x3 | - Use Slot 4 Rare Candy x4 
-- Use slot 3 Super Repel |
+- down 1 use rare candy x3 |  |
 
-**EQ MENU**
+**EQ MENU**  
+
+if 0, 5-7, 11-12 SPD DV  
+- Use Slot 4 Rare Candy x4 
+- Use slot 3 Super Repel  
+
+otherwise
+
+- Use slot 3 Super Repel	
+- down 1 use Rare Candy x3  
 
 
 - down 1 swap HM01 down 14 with TM26 
