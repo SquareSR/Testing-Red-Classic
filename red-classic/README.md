@@ -603,23 +603,12 @@ MENU next to snorlax
 Get Rare Candy and PPUP
 
 **EQ MENU**
-| Standard                       |  |
+| Standard  | if 0, 5-7, 11-12 SPD DV |
 | ---------------------------- | ---------------------------- |
-| - Use Slot 3 Super Repel 
-- down 1 use rare candy x3 |  |
+| - Use Slot 3 Super Repel | - Use Slot 4 Rare Candy x4  |
+| - down 1 use rare candy x3 | - Use slot 3 Super Repel  |
 
-**EQ MENU**  
-
-if 0, 5-7, 11-12 SPD DV  
-- Use Slot 4 Rare Candy x4 
-- Use slot 3 Super Repel  
-
-otherwise
-
-- Use slot 3 Super Repel	
-- down 1 use Rare Candy x3  
-
-
+Then
 - down 1 swap HM01 down 14 with TM26 
 - Down 1 to use PP UP on slot 1 Horn Drill
 - Teach slot 4 TM26 Earthquake over slot 2 Rockslide
