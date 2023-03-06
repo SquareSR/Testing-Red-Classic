@@ -676,7 +676,7 @@ Walk left and pick up the rightmost item first (Carbos), then the two others (TM
 <img src="https://i.imgur.com/ilsgeOn.png">
 
 Dig out.
-- Use the Carbos on Nido
+- Use the Carbos on Nido (Cursor is on Pars)
 - Bike west to Snorlax
 
 Menu next to Snorlax:
