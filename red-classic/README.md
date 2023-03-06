@@ -1,8 +1,5 @@
 # Pokemon Red Classic Glitchless Guide
 
-### Good Documents and Resources
-- [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY) 
-- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq) 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
 	- TOOLS: Download "Red Classic Helper (1.06)"
 	- SAVES: Download "Any% Glitchless (Classic)"
