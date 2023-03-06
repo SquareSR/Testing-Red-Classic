@@ -1,43 +1,41 @@
 # Pokemon Red Classic Glitchless Beginner Guide
 
 ### Good Documents and Resources
-- [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY) 
-- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq) 
-- [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources) 
-	- TOOLS: Download "Red Classic Helper (1.06)" and see [here](https://imgur.com/gallery/VDeBcSE) for beginner settings
-	- SAVES: Download "Any% Glitchless (Beginner Route)"
-- [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ)   (timestamps are in the description) (this uses the previous version of the beginner route and may be updated in the future)
-
+- [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
+- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
+- [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
+	- Optional: Download "Red Classic Helper" and see [here](https://imgur.com/gallery/VDeBcSE) for beginner settings
+- [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ) (timestamps are in the description) (this uses the previous version of the beginner route and may be updated in the future)
 
 ### Glossary
 
 - Moves: HA = Horn Attack, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, PS = Poison Sting, HD = Horn Drill, IB = Ice Beam, RS = Rock Slide
 	- (+ MOVE): A situational move used to finish off a pokemon when a damage range is missed
-- Livesplits has an autosplitter built in for pokemon red
-  - Activate within “edit splits” and then go into settings to set your preferences for where you want to split
-- Hard Resetting **during** a classic speedrun is not allowed
-  - If you ever take a safety save into a death during the run, then you can only **soft reset** using **A + B + Start + Select** held at once
-  - Hard Resetting the console means that RNG Manipulation is technically possible and this is banned from classic
+- Livesplits has an autosplitter built in for Pokemon Red
+	- Activate within “edit splits” and then go into settings to set your preferences for where you want to split
+- Hard Resetting **during** a Classic speedrun is not allowed
+	- If you ever take a safety save into a death during the run, then you can only **soft reset** using **A + B + Start + Select** held at once
+	- Hard Resetting the console means that RNG Manipulation is technically possible and this is banned from Classic
 
 ### Before you start
 - Clear any existing save file by pressing **Up + B + Select** on the game title screen
-- Hard Reset (set palette with Up + B - optional to give full visibility in rock tunnel), **hard resetting is required before each attempt on emu**
+- Hard Reset (set palette with Up + B - optional to give full visibility in rock tunnel), **hard resetting is required before each attempt on emulator**
 - Set your options to fast text and animations OFF
 
 ## NIDORAN SPLIT
 
 Name yourself and rival “A” or any one character.
 
-Pickup the PC Potion
+Pickup the PC Potion.
 
-Name Squirtle one character. 
+Name Squirtle one character.
 
-> Naming squirtle “B” can help avoid confusion later when checking stats on Brock and teaching moves throughout the run, assuming you plan to name Nidoran “A”. 
+> Naming Squirtle “B” can help avoid confusion later when checking stats on Brock and teaching moves throughout the run, assuming you plan to name Nidoran “A”
 
 Rival 1:
-- Tail Whip + spam Tackle 
+- Tail Whip + spam Tackle
 
-> Tail whip turn 2 if growled turn 1 
+> Tail Whip turn 2 if growled turn 1
 > - This is slower on average but has a higher win rate
 
 > Optional: check stats on level up after Rival 1
@@ -50,43 +48,40 @@ Route 1
 > This early EXP will get Bubble for Brock
 
 Viridian Mart
-- Buy 8 Poke Balls 
+- Buy 8 Poke Balls
 
-Walk West to the grass patch on Route 22
+Walk west to the grass patch on Route 22.
 
-Optional - Save the game before searching for nidoran.
+Optional - Save the game before searching for Nidoran.
 
-- Catch a L3 or L4 Nidoran-M and give it a one-character name.
-	- Tackle L3 Nido once before throwing pokeballs.  
-	- L4 Nido, just throw pokeballs.  
-	- L5 Spearow, just throw pokeballs, since it outspeeds us  
+- Catch a L3 or L4 Nidoran♂ and give it a one-character name
+	- L3 Nido: Tackle once before throwing Poke Balls
+	- L4 Nido: just throw Poke Balls
+	- L5 Spearow: just throw Poke Balls, since it outspeeds us
 
-</td><td>
-
-| Time-Based DSUM                       | Step-Based DSUM &nbsp; |
-| ---------------------------- | ---------------------------- |
+| Time-Based DSUM                                         | Step-Based DSUM                                         |
+| ------------------------------------------------------- | ------------------------------------------------------- |
 | <img src="https://i.imgur.com/RBD6c2T.jpg" width="650"> | <img src="https://i.imgur.com/LSGYzXO.png" width="220"> |
-
 
 ## BROCK SPLIT
 
-Get the hidden tree potion
-  
+Get the hidden Tree Potion.
+
 <img src="https://i.imgur.com/JWI5ieN.png">
-  
-Follow this path in the forest picking up the antidote and hidden Weedle Guy Potion
+
+Follow this path in the forest picking up the Antidote and hidden Weedle Guy Potion.
 
 <img src="https://i.imgur.com/uZPRgtn.jpeg" height=500>
 
-> If 1-12 hp Potion before the fight
+> If 1-12 HP: Potion before the fight
 
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-6 Potion]
 
 > 13 SPC at L8 is bad special, save before Brock
 
-Swap Squirtle and Nido at some point (nido should be the lead)
-- 1-15 hp Potion
+Swap Squirtle and Nido at some point (Nido should be the lead).
+- 1-15 HP: Potion
 - Use/toss Antidote
 
 Brock:
@@ -98,207 +93,192 @@ Brock:
 ## ROUTE 3 SPLIT
 
 Pewter Mart
-- Change Options battle style to Set two steps into the mart
-- Sell TM34 Bide (and sell the antidote if you still have it)
+- Change Options Battle Style to Set two steps into the mart
+- Sell TM34 Bide (and sell the Antidote if you still have it)
 - Buy 13 Potions
 
 Bug Catcher 1:
 - Caterpie: Leer + HA x2 (+ Tackle)
-- Weedle: Leer + HA + Tackle (or HA) (potion under 14 hp)
+- Weedle: Leer + HA + Tackle (or HA) (Potion under 14 HP)
 - Caterpie: Leer + HA + Tackle (or HA)
 
-**Menu on the blue tile** Potion to full hp and save the game.
-  
+Menu on the blue tile:
+- Potion to full HP
+- Save the game
+
 <img src="https://i.imgur.com/eILQpJc.jpeg">
 
-Shorts Guy: [1-17 Potion on rat and if ekans hits wrap use a potion right away]
-- Rat: 
+Shorts Guy: [1-17 Potion on Rat, and if Ekans hits Wrap use a Potion right away]
+- Rat:
 	- Leer + HA x2
-- Ekans: 
-	- Leer 
-  - swap HA to slot 1 + HA x2
+- Ekans:
+	- Leer
+	- Swap HA to slot 1 + HA x2
 
-> after leer is used the inputs required to swap = Select → Up → Select → A
+> After Leer is used the inputs required to swap = Select → Up → Select → A
 
 Bug Catcher 2:
-- Weedle:
-	- HA + HA or Tackle
-- Kakuna:
-	- HA x2-3 + Tackle x1-2
-- Caterpie:
-	- HA x2
-- Metapod:
-	- HA x2-3 + Tackle x1-2 
+- Weedle: HA + HA or Tackle
+- Kakuna: HA x2-3 + Tackle x1-2
+- Caterpie: HA x2
+- Metapod: HA x2-3 + Tackle x1-2
 
-Bug Catcher 3:  (If <4 HAs, save an HA on the Caterpie even if it takes an extra turn.)
-- Caterpie:
-	- HA x2
-- Metapod: (Note: You need at least 2 HAs for after this fight)
-	- HA x3-5 + Tackle spam
+Bug Catcher 3:  (if <4 HAs, save an HA on the Caterpie even if it takes an extra turn)
+- Caterpie: HA x2
+- Metapod: HA x3-5 + Tackle spam
 
 Catch a flyer:
 - L8 Pidgey use HA or use Leer + Tackle if 0 HAs remain.
 - Tackle then toss a Ball at any other flyer
-  - Can PS after Tackle if Tackle did much less than half hp dmg
-                       
+	- Can PS after Tackle if Tackle did much less than half HP damage
+
 Use the Pokemon Center to heal before entering Mt. Moon.
-                       
+
 ## MT. MOON SPLIT
 
-If you see a Paras, catch it. Use HA to weaken and throw Pokeballs. Run from all other encounters.   
+If you see a Paras, catch it. Use HA to weaken and throw Poke Balls. Run from all other encounters.
 
-Exceptions: 
-- Lv. 16-17 Nidorino  →  Tackle a Lv. 8 Paras
-- Lv. 17-18 Nidoking →  Tackle a Lv. 8 or Lv. 10 Paras
-- Lv. 18 Nidoking w/ 13-15 DV Attack → Tackle any Lv. Paras
+Exceptions:
+- L16-17 Nidorino  →  Tackle a L8 Paras
+- L17-18 Nidoking →  Tackle a L8 or L10 Paras
+- L18 Nidoking w/ 13-15 DV Attack → Tackle any Paras
 
-Enter Mt. Moon
-- Turn left to pick up **TM12 Water Gun**.
+Enter Mt. Moon.
 
-Then follow the path below (written notes are found after the two maps)
+<img align="right" src="https://i.imgur.com/kArB6tT.png" width=550>
 
-<img src="https://i.imgur.com/kArB6tT.png" width=550>
+- Turn left to pick up **TM12 Water Gun**, then follow the path
 
-Take the ladder after getting the Moon Stone
+Fight the Super Nerd:
+- Magnemite: HA x2 + HA/PS
+- Voltorb: HA x2 + PS
 
-Continue down and right to the next ladder and follow the path below
+Get **Rare Candy** + **Escape Rope**.
 
-<img src="https://i.imgur.com/impaAww.png" width=550 >
+Fight the lass:
+- Oddish: HA x2-3
+- Bellsprout: HA x2
+	- We evolve to Nidorino
 
-> If you are now exiting Mt. Moon scroll down to "BRIDGE SPLIT"
+Menu on the blue tile:
+- Use slot 3 TM12 to teach Nidorino Water Gun over slot 3 Leer
 
-- Fight the Super Nerd
-  - Magnemite: HA x2 + HA/PS
-  - Voltorb:   HA x2 + PS
+Fight the Hiker:
+- WG spam
 
-- Get **Rare Candy** + **Escape Rope*
+Get the **Moon Stone**, and take the ladder.
 
-- Fight the lass, and we evolve to Nidorino
-  - Oddish:     HA x2-3
-  - Bellsprout: HA x2
+<br/><img align="right" src="https://i.imgur.com/impaAww.png" width=550>
 
-- **MENU** on the blue tile
-  - Use Slot 3 TM12 to teach Nidorino Water Gun over slot3 Leer
+Continue down and right to the next ladder, then follow the path.
 
-- Fight the Hiker
-  - WG spam
+Menu on the blue tile:
+- Use slot 5 Moon Stone on Nidorino
 
-- Get the **Moon Stone**, and take the ladder.
+Moon Rocket:
+- Rattata: HA + PS
+- Zubat: HA x2 (can Potion if confused)
 
-Contine down and right to the next ladder and follow the path below
+Super Nerd:
+- Grimer:  HA x2
+- Voltorb: HA + HA/PS
+- Koffing: HA x2 + PS
 
-- Menu on the blue tile
-  - Use Slot 5 Moon Stone on Nidorino
+Get the **Helix Fossil** and exit Mt. Moon.
 
-Moon Rocket
-  - Rattata: HA + PS
-  - Zubat:   HA x2 (Can potion if confused)
-
-Super Nerd
-  - Grimer:  HA x2
-  - Voltorb: HA + HA/PS
-  - Koffing: HA x2 + PS
-
-Get the **Helix Fossil** and exit Mt. Moon
+<br/>
 
 ## BRIDGE SPLIT
 
 Take the Pokemon Center to heal and to set a warp point for your Escape Rope from Bill’s.
 
-Pickup the Hidden rare candy
+Pickup the hidden Rare Candy.
 
-<img src="https://i.imgur.com/Fu51K9j.jpeg" >
+<img src="https://i.imgur.com/Fu51K9j.jpeg">
 
-Then walk up Nugget Bridge on the right to meet your rival
+Then walk up Nugget Bridge on the right to meet your Rival.
 
 > Talk to all trainers on the bridge rather than letting them see you, except for the last trainer/rocket
 
-Our rival leads with a Pidgeotto that knows Sand Attack. If you are hit by sand attack, do the following:
+Our Rival leads with a Pidgeotto that knows Sand-Attack. If you are hit by Sand-Attack, do the following:
 
-- If you get hit by only 1 sand attack, 
+- If you get hit by only 1 Sand-Attack,
 	- HA spam (+PS) Pidgeotto
 	- HA spam Abra
-	- First turn on Rattata, swap to your Spearow/Pidgey 
-	- Let your Bird get KO’d before swapping back to Nido
+	- First turn on Rattata, swap to your Spearow/Pidgey
+	- Let your Bird faint before swapping back to Nido
 
-- If you get hit by 2+ sand attacks,
+- If you get hit by 2+ Sand-Attack,
 	- Swap to Squirtle once Pidgeotto has been hit by at least 2 HAs
-	- Use a potion on Nido, if needed, and then spam tail whip until Squirtle faints
+	- Use a Potion on Nido, if needed, and then spam Tail Whip until Squirtle faints
 
 Bridge Rival:
-
 - Pidgeotto: HA x3 (+ PS)
 - Abra: HA
 - Rattata: HA + PS
-- Bulbasaur: HA x2 (+PS or HA if growl)
+- Bulbasaur: HA x2 (+ PS or HA if Growl)
 
-TRAINER #1 - Bug Catcher
-
+#1 - Bug Catcher:
 - Caterpie: HA + PS
 - Weedle: HA (+ PS)
- 
-TRAINER #2 - Lass
 
+#2 - Lass:
 - Pidgey: HA + PS
-- Nidoran-F: HA x2
+- Nidoran♀: HA x2
 
-TRAINER #3 - Youngster (under 12 hp potion before the fight)
+1-11 HP: Potion before the fight
 
+#3 - Youngster:
 - Rattata: HA (+ PS)
 - Ekans: HA + PS or HA
 - Zubat: HA (+ PS)
 
-**MENU** before the next trainer we are at Lv. 21 after the youngster fight 
+Menu before the next trainer (we are at L21):
+- Use the two Rare Candies on Nido
+- Teach Thrash over Tackle (slot 2)
 
-→ use the two rare candies on nido
+#4 - Lass:
+- Pidgey: Swap Thrash to slot 1 (select + down + select + A), then Thrash
+- Nidoran♀: Thrash
 
-→ learn thrash and teach thrash over Tackle (slot 2).
-
-TRAINER #4 - Lass - In fight swap thrash to slot 1 (select + down + select + A)
-
-- Pidgey: Thrash 
-- Nidoran-F: Thrash
-
-TRAINER #5 - Jr. TrainerM
-
+#5 - Jr. Trainer♂:
 - Mankey: Thrash
 
-BRIDGE ROCKET
-
+Bridge Rocket:
 - Ekans: Thrash
 - Zubat: Thrash
 
 ## MISTY SPLIT
 
-BOTTOM HIKER
+Bottom Hiker:
 - Onix: WG
- 
-LASS
-- Nidoran-M: Thrash
-- Nidoran-F: Thrash
 
-<img src="https://i.imgur.com/wwwP9mH.png" height=165 >
+Lass:
+- Nidoran♂: Thrash
+- Nidoran♀: Thrash
 
-JR. TRAINER-M    (do not fight the two-tile-vision hiker)
+<img src="https://i.imgur.com/wwwP9mH.png" height=165>
+
+Jr. Trainer♂ (do not fight the two-tile vision Hiker):
 - Rattata: Thrash
 - Ekans: Thrash
- 
-LASS
+
+Lass:
 - Oddish: Thrash
 - Pidgey: Thrash
 - Oddish: Thrash
 
-Enter Bill's House
+Enter Bill's House.
 - Get S.S. Ticket from Bill
 - Use Escape Rope
-- Take the center 
+- Take the center
 
-Enter Misty's Gym and avoid the swimmer 
+Enter Misty's Gym and avoid the Swimmer.
 
-JR. TRAINER-F
+Jr. Trainer♀:
 - Goldeen: Thrash x2
 
-**Before Misty Menu**
+Before Misty Menu:
 -  Potion to full if needed
 - **Save the game**
 
@@ -307,676 +287,671 @@ Thrash goes 3-4 turns, after which you are confused.
 - If ever confused on Starmie, then
 	- Switch out to Squirtle
 	- Potion x1-2 on Nido
-	- Spam Tail whip until Squirtle faints
+	- Spam Tail Whip until Squirtle faints
 
-> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 spd dv.   
-> Note: Misty may use an X-Defend on Starmie on any turn (~25% chance)
+> Starmie tends to be faster than you unless you outspeed with 13-15 or speedtie with 11-12 SPD  
+> Note: Misty may use an X Defend on Starmie on any turn (~25% chance)
 
-Misty
+Misty:
 - Staryu: Thrash x1
 - Starmie: Thrash x2-3+
 
 > Starmie damage rolls (simplified)  
 > BB  →  35-48 damage; critical BB does up to 84 damage  
-> WG  →  22-30 damage; critical WG does up to 54.  
+> WG  →  22-30 damage; critical WG does up to 54
 
 ## SURGE SPLIT
 
 After Misty Menu:
-- If you have 4+ potions, potion if you are under 16 hp-otherwise take the Center to save potions.
-- Teach Slot 6 or 7 TM11 Bubblebeam over slot 4 PS
+- 1-15 HP: Potion if you have 4+ Potions, otherwise take the Center to save Potions
+- Teach slot 6 or 7 TM11 Bubblebeam over slot 4 PS
 
-> 12-15 DV Attack → likely one-shot on Machop   
-> 9-12 damage with critical Karate Chop, and it criticals about 55 percent of the time.  
+> 12-15 DV Attack → likely one-shot on Machop  
+> 9-12 damage with critical Karate Chop, and it criticals 53% of the time
 
-DIG ROCKET
-- Machop: 	Thrash x1-2
-- Drowzee: 	Thrash x1
+Dig Rocket:
+- Machop: Thrash x1-2
+- Drowzee: Thrash x1
 
 Get TM28 Dig from the Rocket
 
-Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split)
+Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split).
 
-<img src="https://i.imgur.com/MzLRsOm.jpeg" >
+<img src="https://i.imgur.com/MzLRsOm.jpeg">
 
-If you are under 16 hp, you may use the full restore now.
+At 1-15 HP, use the Full Restore now.
 
 Oddish DSUM
 - Ignore this if you already have a Paras.
-- if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw pokeballs
-- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw pokeballs
+- if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw Poke Balls
+- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw Poke Balls
 
-</td><td>
+| Time-based (repeat last two columns of the given row) | Step-based                                  |
+| ----------------------------------------------------- | ------------------------------------------- |
+| <img src="https://i.imgur.com/Fm7I10i.png">           | <img src="https://i.imgur.com/fHtG2mb.png"> |
 
-| Time-based (repeat last two columns of the given row)                       | Step-based &nbsp; |
-| ---------------------------- | ---------------------------- |
-| <img src="https://i.imgur.com/Fm7I10i.png" > | <img src="https://i.imgur.com/fHtG2mb.png" > |
+<img src="https://i.imgur.com/aXI5GZA.jpeg">
 
-
-<img src="https://i.imgur.com/aXI5GZA.jpeg" >
-
-JR. TRAINER-F
+Jr. Trainer♀:
 - Pidgeyx3: Thrash
 
-JR. TRAINER-M
+Jr. Trainer♂:
 - Spearow: Thrash
-- Raticate: Thrash	
+- Raticate: Thrash
 
-> Full Restore after this fight if under 31 HP 	
+> 1-30 HP: Full Restore now
 
-Enter the S.S. ANNE
+Enter the S.S. Anne.
 
-Walk Left and take the first stairs you see
+Walk Left and take the first stairs you see.
 
-Walk down and turn right
+Walk down and turn right.
 
-If Pidgeotto lands a Sand-Attack, swap to your bird and let it be KO’d by Pidgeotto.
-
-**Boat Rival: **
-- Pidgeotto: HA + BB 	
-- Raticate: BBx2 	
+Boat Rival:
+- Pidgeotto: HA + BB
+	- If Pidgeotto lands a Sand-Attack, swap to your bird and let it faint
+- Raticate: BBx2
 - Kadabra: Thrash x1
 - Ivysaur: Thrash x2
 
-> if under 21 hp on Raticate, use full restore   
-> if under 16 hp on Kadabra, then HA Kadabra and use full restore turn 1 on Ivysaur
+> If under 21 HP on Raticate, use Full Restore  
+> If under 16 HP on Kadabra, then HA Kadabra and use Full Restore turn 1 on Ivysaur
 
-Get HM01 from the captain
+Get HM01 from the captain.
 
-Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
+Enter the [3rd Cabin](https://gunnermaniac.com/pokeworld?map=96#21/11), fight the Gentleman:
+- Growlithe: Thrash
 
-<img src="https://i.imgur.com/UmZxWvL.jpeg" >
+Get the Rare Candy.
+
+<img src="https://i.imgur.com/UmZxWvL.jpeg">
 
 Exit the boat and head to the Mart.
 
-VERMILION Mart
-- Sell all Pokeballs
+Vermilion Mart
+- Sell all Poke Balls
 - Buy 3 Repels
-- Buy 6 Para Heals
+- Buy 6 Parlyz Heals
 
-Trade for DUX in this house still need something to learn Cut
+Trade for DUX in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
 
-Walk up to the tree guarding Surge's Gym and open the menu
+Walk up to the tree guarding Surge's Gym.
 
-**Cut Menu**:
-- Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
-- Swap potions down 6 with Repels (using select)  
-- Up 1 - teach HM01 to Paras or DUX  
-- Up 1 - Teach TM28 to Paras or Squirtle  
-- Cut the tree and enter Surge’s gym.  
+Cut Menu:
+- Slot 6 - Use the Full Restore on Nidoking if you haven’t already
+- Swap Potions down 6 with Repels (using select)
+- Up 1 - teach HM01 to Paras/Oddish/Dux
+- Up 1 - Teach TM28 to Paras or Squirtle
+- Cut the tree and enter Surge’s gym
 
 Surge Trash Cans Puzzle
 
-<img src="https://i.imgur.com/DgQyq4a.jpeg" >
+<img src="https://i.imgur.com/DgQyq4a.jpeg">
 
-- Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)  
-- All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5).  
+- Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
+- All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
 
-SURGE
-- Voltorb: 	BB + BB or HA
-- Pikachu: 	Thrash
-- Raichu: 	Thrash x2 
+Surge:
+- Voltorb: BB + BB or HA
+- Pikachu: Thrash
+- Raichu: Thrash x2
 
 ## FLY SPLIT
 
-Get TM24 Thunderbolt and exit the gym
+Get TM24 Thunderbolt and exit the gym.
+- Get the Bike Voucher, and Dig out to Cerulean City
+- Get the Bike from the Bike Shop and exit the shop
 
-- Get the Bike Voucher, and Dig out to Cerulean City.
+Menu (outside of the bike shop):
+- Swap slot 2 Helix Fossil with Bike
+- Teach TM24 Thunderbolt over slot 3 Water Gun
+- Get on the bike, cut both trees to head east into Route 9
 
-- Get the Bike from the Bike Shop and exit the shop.
+Jr. Trainer♀ ("4-Turn Thrash Girl"):
+- Oddish: HA + TB
+	- If paralyzed, use a Parlyz Heal immediately
+- Bellsprout: Thrash
+- Oddish: Thrash
+- Bellsprout: Thrash
 
-Menu (outside of the bike shop)
-- Swap slot 2 Helix Fossil with Bike		
-- Teach TM24 Thunderbolt over Slot 3 Water Gun  
-- Get on the bike, cut both trees to head East into ROUTE 9  
-- Save before this next fight after cutting the second tree.  
+Bug Catcher:
+- Caterpie: TB
+- Weedle: Thrash
+- Venonat: Thrash x1-2
 
-JR. TRAINER-F (4-TURN THRASH GIRL)
-- Oddish: 	Thrash
-- Bellsprout: 	Thrash
-- Oddish: 	Thrash
-- Bellsprout: 	HA (if thrash ends)
- 
-BUG CATCHER
-- Caterpie: 	TB
-- Weedle: 	Thrash
-- Venonat: 	Thrash x1-2
+Repel one step into Rock Tunnel.
 
-Repel one step into Rock Tunnel
+| Tunnel 1F                                   | Tunnel B1F                                  |
+| ------------------------------------------- | ------------------------------------------- |
+| <img src="https://i.imgur.com/LllktGo.png"> | <img src="https://i.imgur.com/cS4hPoI.png"> |
 
-</td><td>
+Pokemaniac #1:
+- Cubone: BB
+- Slowpoke: TB
 
-| Tunnel 1F                       | Tunnel B1F &nbsp; |
-| ---------------------------- | ---------------------------- |
-| <img src="https://i.imgur.com/LllktGo.png" > | <img src="https://i.imgur.com/cS4hPoI.png" > |
+Pokemaniac #2:
+- Slowpoke: TB x1-2
+	- (rare to happen: swap out if confused)
 
-POKEMANIAC #1
-- Cubone: 	BB
-- Slowpoke: 	TB
- 
-POKEMANIAC #2
-- Slowpoke: 	TB x1-2.            (rare to happen: swap out if confused)
+Oddish Girl:
+- Oddish: Thrash x1-2
+- Bulbasaur: Thrash
+	- If paralyzed, wait until the next Repel menu to use a Parlyz Heal
 
-JR. TRAINER-F - ODDISH GIRL
-- Oddish: 	Thrash x1-2
-- Bulbasaur: 	Thrash		If Paralyzed, wait until the next Repel Menu to use a ParlyzHeal
- 	
-Repel twice before the next fight. See map for suggested spots: Rock Tunnel ← Click for Map.
- 
-HIKER
-- Geodude: 	BB
-- Geodude: 	BB
-- Graveler: 	BB
- 
-Use a potion if under 7 hp
+Repel twice before the next fight. See map for suggested spots.
 
-JR. TRAINER-F #2
-- Meowth: 	Thrash
-- Oddish: 	Thrash
-- Pidgey: 	Thrash       (and note HP)
+Hiker:
+- Geodude: BB
+- Geodude: BB
+- Graveler: BB
 
-> If under 35 hp, take the center in Lavender town
+1-6 HP: Potion before the next fight
 
-Exit and bike Right. 
+Jr. Trainer♀:
+- Meowth: Thrash
+- Oddish: Thrash
+- Pidgey: Thrash (and note HP)
 
-Pickup the hidden Max Ether in the bush from the left side
+> 1-34 HP: take the center in Lavender Town
 
-Bike straight down into Lavender Town
+Exit and bike right. Pickup the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) in the bush from the left side.
 
-Bike West and fight the gambler.
+Bike straight down into Lavender Town.
 
-<img src="https://i.imgur.com/CRUMtKg.png" >
+Bike west and fight the Gambler.
 
-GAMBLER
-- Growlithe: 	BB (+thrash)
-- Vulpix: 	Thrash
- 
-Be careful not to hit optionals. Take the underground path to Celadon City. 
+<img src="https://i.imgur.com/CRUMtKg.png">
 
-Pick up hidden Elixer here and the hidden Nugget marked below:
+Gambler:
+- Growlithe: BB (+ Thrash)
+- Vulpix: Thrash
 
-<img src="https://i.imgur.com/Jh9E0Cd.jpeg" >
- 
+Be careful not to hit optionals. Take the underground path to Celadon City.
+
+Pick up the hidden Elixer and the hidden Nugget marked below:
+
+<img src="https://i.imgur.com/Jh9E0Cd.jpeg">
+
 **CELADON MART**
- 
+
 2F - Clerk on the left hand side
 - Sell both Nuggets
 - Buy 10 Super Repels
 - Buy 2 Revives
- 
+
 6F - Rooftop Vending Machine
-- Buy 2 Fresh Water
 - Buy 1 Soda Pop
-- Give the Soda Pop to the girl first in exchange for TM48 Rockslide and then one Fresh Water for TM13 Ice Beam
- 
+- Buy 2 Fresh Water
+- Give the Soda Pop to the girl first in exchange for TM48 Rock Slide and then one Fresh Water for TM13 Ice Beam
+
 5F - Clerk on the left hand side
-- Buy  16 X Accuracy
-- Buy   3 X Special  	(do NOT buy guard spec, must be x-special)
-- Buy   8 X Speed    
+- Buy 16 X Accuracy
+- Buy 3 X Special (do NOT buy guard spec, must be X Special)
+- Buy 8 X Speed
 
 Take the elevator to the first floor.
 
-Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road. 
+Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road.
 
-After exiting the house, open the menu and do the following:
+Exit the house, open the menu and do the following:
 
-> Warning: we will be teaching ice beam in this menu to Nidoking do NOT teach it to Squirtle.
+> Warning: we will be teaching Ice Beam in this menu to Nidoking, do NOT teach it to Squirtle.
 
-FLY MENU (open menu outside of fly house)
+Fly Menu:
 - Swap slot 2 S.S. Ticket, down with X Accuracy
 - Down 3 teach HM02 Fly to bird
-- Up 4 teach TM13 ice beam to Nidoking over slot 4 Bubblebeam
-- Fly to Celadon (down 1) and then bike to the Game Corner.
+- Up 4 teach TM13 Ice Beam to Nidoking over slot 4 Bubblebeam
+- Fly to Celadon (down 1) and then bike to the Game Corner
 
-> NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all.
+> NOTE: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
 ## HIDEOUT SPLIT
 
 - Talk to the Grunt standing in front of the poster at the back of the Game Corner
 
-POSTER GRUNT 
-- Raticate: 	Thrash x1-2
-- Zubat: 	Thrash
-	
-- Press the switch behind the poster and take the stairs to the right.
-- Take the stairs to the right.
-- Walk down and left to avoid the Rocket and take the stairs down again.
-- Take the Spinning tile on the left and follow the path down to the next set of stairs.
+<img align="right" src="https://i.imgur.com/corqRRk.jpeg">
 
-<img src="https://i.imgur.com/lpiw8OO.jpeg" >
+Poster Grunt:
+- Raticate: Thrash x1-2
+- Zubat: Thrash
 
-- Walk up toward the Grunt in the top left and fight him.
+<br/><img align="right" src="https://i.imgur.com/niQN75M.jpeg">
 
-<img src="https://i.imgur.com/2N7U4By.jpeg" >
+- Press the switch behind the poster and take the stairs to the right
+- Take the stairs to the right
+- Walk down and left to avoid the Rocket and take the stairs down again
+- Take the Spinning tile on the left and follow the path down to the next set of stairs
 
-LIFT KEY GRUNT 
-Koffing: 	Thrash x2
-Zubat: 		Thrash
+<br/><br/><br/><br/><br/><br/><img align="right" src="https://i.imgur.com/LO6vkvt.jpeg"><img align="right" src="https://i.imgur.com/d8DVOEI.jpeg">
 
-Pick up the Lift Key (must talk to the grunt) and take the stairs you came from.
+Walk up toward the Rocket in the top left and fight him.
 
-<img src="https://i.imgur.com/3qY2DeL.jpeg" >
+Lift Key Rocket:
+- Koffing: Thrash x2
+- Zubat: Thrash
 
-Pick up the Rare Candy and take the stairs up.
+Retalk to the Rocket, pick up the Lift Key and take the stairs you came from.
 
-<img src="https://i.imgur.com/MiDjbVF.jpeg" >
+<br/><img align="right" src="https://i.imgur.com/VpkZpPw.jpeg"><img align="right" src="https://i.imgur.com/XBG8ywy.jpeg">
 
-Pick up TM07
+<br/><br/><br/>Pick up the Rare Candy and take the stairs up.
 
-Take the elevator to B4F and MENU two steps into the next room.
+<br/><br/><br/><br/><br/><br/><br/><br/><img align="right" src="https://i.imgur.com/Wkof1KE.jpeg">
 
-**Grunt Menu**
-- Swap slot 3 HM01, down 7 with Super Repel 
-- Down 3 teach TM48 Rockslide over slot 2 Horn Attack
+<br/><br/><br/>Pick up TM07
+
+Take the elevator to B4F and Menu two steps into the next room.
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+Grunt Menu:
+- Swap slot 3 HM01, down 7 with Super Repel
+- Down 3 teach TM48 Rock Slide over slot 2 Horn Attack
 - Use slot 3 Super Repel
 - Down 4 Swap Helix Fossil Down 8 with X Speed
 - Down 3 teach TM07 Horn Drill over slot 1 Thrash
-- Swap slot 4 Rarecandy down 8 with Fresh Water (fixes inventory to be similar to regular route)
+- Swap slot 4 Rare Candy down 8 with Fresh Water (fixes inventory to be similar to regular route)
 
-RIGHT Side GRUNT (note: Sandshrew slash crit can do 22, X-Acc Sandshrew instead if your hp is high)
-- Ekans: 	X-Acc, IB
-- Sandshrew: 	IB
-- Arbok: 		HD
+Right Grunt: (note: Sandshrew Slash crit can do 22, X Acc Sandshrew instead if your HP is high)
+- Ekans: X Acc + IB
+- Sandshrew: IB
+- Arbok: HD
 
-LEFT Side GRUNT 
-- Sandshrew: 	IB
-- Ekans: 	IB
-- Sandslash: 	IB
+Left Grunt:
+- Sandshrew: IB
+- Ekans: IB
+- Sandslash: IB
 
-Heal to 21+ HP for Giovanni if needed
+1-20 HP: Potion
 
-GIOVANNI
-- Onix: 		X-Acc, IB
-- Rhyhorn: 	IB
-- Kangaskhan: 	HD
+Giovanni:
+- Onix: X Acc + IB
+- Rhyhorn: IB
+- Kangaskhan: HD
 
-Pick up Silph Scope, then open the Menu
-
-If nido is under 20 hp, use one potion (but do not use your last potion, instead center after you dig out).
-
-Dig out, fly to Lavender Town, and walk East into the Pokemon Tower to meet your rival.
+Pick up Silph Scope, then open the menu:
+- 1-19 Potion (but do not use your last Potion, instead center after you dig out)
+- Dig out, fly to Lavender Town
 
 ## FLUTE SPLIT
 
-LAVENDER RIVAL 
+Walk east into the Pokemon Tower to meet your Rival.
 
-Pidgeotto: X-Acc + IB
-Gyarados: TB
-Growlithe: HD
-Kadabra: HD
-Ivysaur: HD
+Lavender Rival:
+- Pidgeotto: X Acc + IB
+- Gyarados: TB
+- Growlithe: HD
+- Kadabra: HD
+- Ivysaur: HD
 
-<img src="https://i.imgur.com/8t6F7Kb.jpeg" >
+<img src="https://i.imgur.com/8t6F7Kb.jpeg">
 
-Talk to CHANNELER #1
-- Rockslide on both Gastly (if you are KO’d swap to Squirtle, Revive Nido, let Squirtle faint)
- 
-Get both Elixers visible one here and hidden one here
+Talk to Channeler #1:
+- Gastly: Rock Slide x2
+	- If you are KO’d swap to your bird, Revive Nido, let the bird faint
 
-<img src="https://i.imgur.com/ZPIsQ9A.jpeg" >
+Get both Elixers (visible and hidden). Take the heal-pad.
 
-<img src="https://i.imgur.com/IpM0bEO.jpeg" >
+<img src="https://i.imgur.com/ZPIsQ9A.jpeg" height=300> <img src="https://i.imgur.com/IpM0bEO.jpeg" height=300>
 
-Take the heal-pad.
+<img align="right" src="https://i.imgur.com/eagxMpe.jpeg">
 
-<img src="https://i.imgur.com/eagxMpe.jpeg" >
+Channeler #2:
+- Gastly: RS
 
-CHANNELER #2
-- Gastly: 	RS	
- 
-CHANNELER #3
-- Gastly: 	RS	
+Channeler #3:
+- Gastly: RS
 
-CUBONE'S MOTHER
-- Marowak: 	IB
+Cubone's Mother:
+- Marowak: IB
 
 Enter the final floor and simply walk straight up letting the rockets see you.
 
-ROCKET #1
-- Zubat: 		IB
-- Zubat:		IB
-- Golbat: 	IB
- 
-ROCKET #2
-- Koffing 	X-Acc, HD
-- Drowzee	HD
+Rocket #1:
+- Zubat: IB
+- Zubat: IB
+- Golbat: IB
 
-ROCKET #3
-- Zubat: 		IB
-- Rattata: 	IB
-- Raticate: 	IB x1-2
-- Zubat: 		IB
- 
-After getting the Poke Flute from Mr. Fuji, walk out of his house, then Fly to Celadon.
+Rocket #2:
+- Koffing: X Acc + HD
+- Drowzee: HD
 
-CELADON CITY
+Rocket #3:
+- Zubat: IB
+- Rattata: IB
+- Raticate: IB x1-2
+- Zubat: IB
 
-MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+Get the Poke Flute from Mr. Fuji.
 
-Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
+## KOGA SPLIT
 
-SILPH CO. Silph & Cycling Road maps
+Walk out of his house, then Fly to Celadon.
 
-Take the stairs up to 5F.
+Celadon City
 
-Walk left and take the hidden Elixer in the plant, 
-then walk down and talk to the Rocket next to the teleport pad.
+- MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+- Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
+- Take the stairs up to 5F.
+- Walk left and take the hidden Elixer in the plant, then walk down and talk to the Rocket next to the teleport pad.
 
-<img src="https://i.imgur.com/WAid12E.jpeg" >
+<img src="https://i.imgur.com/WAid12E.jpeg">
 
-NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats
-We intentionally are KO’d by Koga’s Weezing to set up red bar for the gym rush up through Bruno
+> NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats  
+> We intentionally are KO’d by Koga’s Weezing to set up red bar for the gym rush up through Bruno
 
-Silph ROCKET #1
-Arbok: X-Acc, HD
-(if Paralyzed by glare, use para heal immediately in fight) 
+Silph Rocket #1:
+- Arbok: X Acc + HD
+	- (if paralyzed by Glare, use Parlyz Heal immediately in fight)
 
 Get the Card Key.
 
-<img src="https://i.imgur.com/pxMvSdm.jpeg" >
+<img align="right" src="https://i.imgur.com/pxMvSdm.jpeg">
 
-SILPH RIVAL
-- Pidgeot: 	X Accuracy, X Speed, HD
-- Gyarados: 	HD
-- Growlithe: 	Rockslide
-- Alakazam: 	HD
-- Venusaur: 	HD
+Silph Rival:
+- Pidgeot: X Acc + X Speed + HD
+- Gyarados: HD
+- Growlithe: Rock Slide
+- Alakazam: HD
+- Venusaur: HD
 
-If you have less than 80 HP, use slot 7 Max Ether on Horn Drill before the next fight
+1-79 HP: use slot 7 Max Ether on Horn Drill before the next fight  
+80+ HP: use Max Ether on Horn Drill turn 2 on Cubone or turn 1 on Drowzee
 
-With 80+ hp, use Max Ether on Horn Drill Turn 2 on Cubone or turn 1 on Drowzee
+Silph Rocket #2: (talk to him from the left side)
+- Cubone: X Acc + (Max Ether) + IB
+- Drowzee: HD
+- Marowak: HD
 
-Silph ROCKET #2 - talk to him from the left side
-- Cubone:	 X Acc, (use max ether on horn drill if you haven’t already),  IB
-- Drowzee: 	HD
-- Marowak: 	HD
- 
-GIOVANNI
-- Nidorino: 	X Accuracy, HD
-- Kangaskhan: 	HD
-- Rhyhorn: 	Ice Beam
-- Nidoqueen: 	HD
- 
+Giovanni:
+- Nidorino: X Acc + HD
+- Kangaskhan: HD
+- Rhyhorn: IB
+- Nidoqueen: HD
+
 Take the elevator to 10F.
 
-Walk left and pick up the rightmost item first, shown in the image
+Walk left and pick up the rightmost item first (Carbos), then the two others (TM26 and Rare Candy).
 
-<img src="https://i.imgur.com/ilsgeOn.png" >
+<img src="https://i.imgur.com/ilsgeOn.png">
 
-The item ball is a Carbos. Menu and use it on Nidoking right away. 
+Dig out.
+- Use the Carbos on Nido
+- Bike west to Snorlax
 
-Then get the other two items TM 26 (EQ) and the Rare Candy 
-
-Dig out and bike West to Snorlax.
- 
-Koga : Silph & Cycling Road maps You can hold B to stop on cycling road and still move w/control
- 
-MENU next to snorlax 
+Menu next to Snorlax:
 - Use slot 3 Super Repel
-- down 1 swap Potion down with Rarecandy
+- Down 1 swap Potion down with Rare Candy
 - Go down use Poke Flute
 
+Cycling Road
 
-CYCLING ROAD
+> NOTE: You can hold B to stop automatically moving down on Cycling Road
 
-> NOTE: You can hold B to stop automatically moving down on Cycling Road:
+Pick up the hidden Rare Candy then hug the right wall biking down.
 
-Pick up the Rare Candy found here and hug the right wall biking down.
+<img src="https://i.imgur.com/klM3YDH.jpeg">
 
-<img src="https://i.imgur.com/klM3YDH.jpeg" >
+Get the hidden PPUP. You can bike straight down after getting PPUP, the next trainer has short two-tile vision and does not see you.
 
-Get the PPUP found here. You can bike straight down after getting PPUP the next trainer has short two-tile-vision and does not see you.
+<img src="https://i.imgur.com/RXgwTA9.jpeg">
 
-<img src="https://i.imgur.com/RXgwTA9.jpeg" >
-
-Menu immediately after exiting the guard’s house after cycling-road.
+Menu immediately after exiting the guard’s house after Cycling Road:
 - Use slot 3 Super Repel
-- Down 1 to use 4 of the rare candies (one rarecandy is left over)
-- down 1 swap ParlyzHeal down with TM26 
+- Down 1 to use 4 of the Rare Candies (one Rare Candy is left over)
+- Down 1 swap Parlyz Heal down with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Teach slot 5 TM26 Earthquake over slot 2 Rockslide
-- Get on the bike and cut both trees to enter the Safari Zone.
+- Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
+- Get on the bike and cut both trees to enter the Safari Zone
 
-<img src="https://i.imgur.com/wHad35M.jpeg" >
+<img src="https://i.imgur.com/wHad35M.jpeg">
 
-SAFARI ZONE
-- Get on your bike. Optional pick up extra hidden Revive here. In the statue.
-- Super Repel in Zone 3.
+Safari Zone
+- Get on your bike. Optional pick up extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
+- Super Repel in zone 3
 
-Pickup the Teeth and get HM03 Surf from the man in the house.
+Pick up the Gold Teeth and get HM03 Surf from the man in the house.
 
-<img src="https://i.imgur.com/jybwsln.png" >
+<img src="https://i.imgur.com/jybwsln.png">
 
 Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s Gym.
 
-<img src="https://i.imgur.com/inIR2Ri.jpeg" >
+<img align="right" src="https://i.imgur.com/inIR2Ri.jpeg">
 
-JUGGLER #1
-- Drowzee: 	EQ
-- Drowzee: 	EQ
-- Kadabra: 	EQ
-- Drowzee: 	EQ
- 
-JUGGLER #2
-- Drowzee: 	EQ
-- Hypno: 	EQ (+ TB) 	(If Hypno KOs you, swap to squirtle and revive nido, let squirtle faint)
- 
-KOGA
-- Koffing: 	EQ
-- Muk: 		EQ
-- Koffing: 	EQ
-- Weezing: 	use Elixer, then stall with slot 17 Poke Flute until Self Destruct KOs you (or sends you into low hp, which is also fine).
+Juggler #1:
+- Drowzee: EQ
+- Drowzee: EQ
+- Kadabra: EQ
+- Drowzee: EQ
 
-## Gym Rush
+Juggler #2:
+- Drowzee: EQ
+- Hypno: EQ (+ TB)
+	- If Hypno KOs you, swap to Squirtle and Revive Nido, let Squirtle faint
+
+Koga:
+- Koffing: EQ
+- Muk: EQ
+- Koffing: EQ
+- Weezing: use Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
+
+## ERIKA SPLIT
 
 > The order in this route is Erika, Blaine, Sabrina; but this may differ for advanced route.
 
-Walk out of the gym and MENU:
-- Use slot 4 Rarecandy on Nidoking
-- bike east (hopping the ledge) to the warden's house
+Walk out of the gym and menu:
+- Use slot 4 Rare Candy on Nidoking
+- Bike east (hopping the ledge) to the Warden's house
 
-Talk to the warden trading Gold Teeth for HM04
+Talk to the Warden trading Gold Teeth for HM04.
 - Exit house
 - Fly to Pallet Town
 
-Walk left dodging the Lass and face the edge of the water
+Walk left dodging the Lass and face the edge of the water.
 
-MENU
+Menu:
 - Use slot 3 Super Repel
-- scroll down 17 to teach HM03 to Squirtle (over slot 2 tail whip if Squirtle already knows dig )
-- use Surf 
+- Scroll down 17 to teach HM03 to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
+- Use Surf
 
-> go straight down, just side step one tile left to not bonk fisherman
+> Go straight down, just side step one tile left to not bonk fisherman
 
 Inside Mansion:
-- Take stairs up.
+- Take the stairs up
 - Walk up around/above to the next stairs.
 
 Hit the switch and fall through the hole:
 
-<img src="https://i.imgur.com/Nskx2GA.jpeg" >
+<img src="https://i.imgur.com/Nskx2GA.jpeg">
 
-Avoid the scientist and GET THE CARBOS next to the trees:
+Avoid the scientist and get the Carbos next to the trees:
 
-<img src="https://i.imgur.com/Vn8Pa54.jpeg" >
+<img src="https://i.imgur.com/Vn8Pa54.jpeg">
 
-> Note that your cursor is ON SQUIRTLE.
+> Note that your cursor is ON SQUIRTLE
 
-MENU after picking up this Carbos 
-- Teach HM04 Strength to Squirtle over Tackle. 
-- Use carbos on Nidoking 
+Menu after picking up this Carbos:
+- Teach HM04 Strength to Squirtle over Tackle
+- Use Carbos on Nidoking
 - Slot 3 use the Super Repel
 - Scroll to the bottom of the bag (leave the cursor on Cancel)
 
-Take the stairs to the next room where we
-- hit a switch and get two candies as seen below:
-<img src="https://i.imgur.com/TOuV3ag.jpeg" >
+Take the stairs to the next room.
+- Hit the switches
+- Get two candies as seen below
 
-- Use the two rare candies on Nidoking 
-- After using all candies, pick up the Secret Key and dig out.
+<img src="https://i.imgur.com/TOuV3ag.jpeg">
+
+- Use the two Rare Candies on Nidoking
+- Pick up the Secret Key and Dig out
 
 Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
 
-BEAUTY (Erika's gym)
-- Exeggcute:	 IB
+Beauty:
+- Exeggcute: IB
 
-> remember to turn up and talk to Erika, walking past her will trigger an optional
- 
-ERIKA 	              
-- Victreebel:	IB
-- Tangel:	IB
-- Vileplume:	IB
+> Remember to turn up and talk to Erika, walking past her will trigger an optional
 
-Exit Erika’s gym and fly to Cinnabar Island (down twice).
+Erika:
+- Victreebel: IB
+- Tangel: IB
+- Vileplume: IB
 
-Blaine’s gym Puzzle: A B B B A B 	(A=yes; B=no)
+## BLAINE SPLIT
 
-BLAINE 
-- Growlithe: 	X Acc, EQ
-- Ponyta	HD
-- Rapidash	HD
-- Arcanine: 	HD
+Exit Erika’s gym and fly to Cinnabar Island (2 down).
 
-Dig out of Blaine’s gym and Bike East to Sabrina’s gym by walking through the guard house.
+Blaine’s gym Puzzle: A B B B A B (A=yes; B=no)
 
-Teleporter Puzzle: Diagonal, Diagonal, Hold Down(bottom left)
+Blaine:
+- Growlithe: X Acc + EQ
+- Ponyta: HD
+- Rapidash: HD
+- Arcanine: HD
 
-**Save before talking to Sabrina**
+## SABRINA SPLIT
 
-> Alakazam will may outspeed Nido if speed DV is 0 or 1   
-> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select   
-> If you know DVs or were KO'd, then on Mr. Mime: X-Speed, EQ + (TB) on Mr. Mime, (1/3) to use confusion
+Dig out of Blaine’s gym and Bike east to Sabrina’s gym by walking through the guard house.
 
-SABRINA
-- Kadabra: 	EQ
-- Mr. Mime:	EQ  or X-speed, EQ (+ TB) if slower than Alakazam
-- Venomoth: 	EQ
-- Alakazam: 	EQ (+EQ again if Reflect is used)
- 
+Teleporter Puzzle: Diagonal, Diagonal, Down (bottom left)
+
+**Save before talking to Sabrina** if you have 0-1 speed DV or you don't know your DVs.
+
+> Alakazam may outspeed Nido at 0-1 SPD  
+> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select  
+> If you know you have 0-1 SPD, then on Mr. Mime: X Speed + EQ (+TB) (1/3 to use Confusion)
+
+Sabrina:
+- Kadabra: EQ
+- Mr. Mime: EQ (or X Speed + EQ (+TB) if slower than Alakazam)
+- Venomoth: EQ
+- Alakazam: EQ (+EQ again if Reflect is used)
+
+## GIOVANNI SPLIT
+
 Take the teleporter pad and then use Dig (causes animation to be faster).
+
 Fly to Viridian City and bike to Giovanni's gym.
 
-<img src="https://i.imgur.com/3JcpNQh.jpeg" >
+<img align="right" src="https://i.imgur.com/3JcpNQh.jpeg">
 
-COOLTRAINER-M
-- Rhyhorn: 	Ice Beam
+Cooltrainer♂:
+- Rhyhorn: IB
 
 Save before the next fight on the blue tile.
- 
-BLACK BELT: 
-- Machoke: 	EQ(+TB) → typically 74-95% range
-- Machop: 	EQ (TBx1-2 if only one EQ is left)
-- Machoke: 	EQ(+TB)
- 
 
-Exit gym, re-enter the gym to reset the blackbelt’s position (spin tiles are significantly slower)
+Blackbelt:
+- Machoke: EQ (+TB) → typically 74-95% range
+- Machop: EQ
+- Machoke: EQ (+TB)
 
-Menu one step into the gym upon re-entering (must elixer before Giovanni)
-- use slot 6 Elixer
- 
-GIOVANNI 3
-- Rhyhorn: 	Ice Beam
-- Dugtrio: 	Ice Beam
-- Nidoqueen: 	EQ	(do not use Ice Beam here)
-- Nidoking: 	EQ
-- Rhydon: 	Ice Beam x1-2 (Rhydon will not deal any damage to you)
+Exit gym, re-enter the gym to reset the Blackbelt’s position (spin tiles are significantly slower).
 
-> can pick up the revive on the way out, if you’ve already used one and have HM users alive
+Menu one step into the gym upon re-entering:
+- Use slot 6 Elixer
 
-Walk out of Giovanni's gym and MENU:
-- use a Super Repel
-- bike west toward Victory Road to meet your rival
- 
+Giovanni:
+- Rhyhorn: IB
+- Dugtrio: IB
+- Nidoqueen: EQ
+- Nidoking: EQ
+- Rhydon: IB x1-2 (Rhydon will not deal any damage to you)
 
+## LORELEI SPLIT
 
+> Can pick up the [Revive](https://gunnermaniac.com/pokeworld?map=45#16/9) on the way out if you’ve already used one and have HM users alive
 
+Walk out of Giovanni's gym and menu:
+- Use a Super Repel
+- Bike west toward Victory Road to meet your Rival
 
-VIRIDIAN RIVAL
+Viridian Rival:
+> Pidgeot is AI locked into Agility spam
+- Pidgeot: X Acc + X Speed + IB x2
+- Rhyhorn: IB
+- Gyarados: TB
+- Growlithe: EQ
+- Alakazam: EQ
+- Venusaur: HD
 
-> bird is AI locked into agility spam
+Use a Super Repel when you reach the other side of the lake [here](https://gunnermaniac.com/pokeworld?map=1#8/97/S), then bike into Victory Road.
 
-- Pidgeot: 	X Accuracy, X Speed, Ice Beam x2
-- Rhyhorn: 	Ice Beam
-- Gyarados: 	TB
-- Growlithe:	EQ
-- Alakazam: 	EQ
-- Venusaur: 	HD
- 
-- Use a Super Repel when you reach the other side of the lake here, then bike into Victory Road
+> The best way to learn Victory Road movement is to watch a video and replicate it. The image below will help you complete VR on the fly if you need the resource.
 
-> The best way to learn victory road movement is to watch a video and replicate it. The image below will help you complete VR on the fly if you need the resource. 
+> If a Repel happens to run out early from extra steps, always use the next Super Repel right away.
 
-> If a repel happens to run out early from extra steps, always use the next super repel right away.
+<img src="https://i.imgur.com/bZDhJ5p.jpeg">
 
-<img src="https://i.imgur.com/bZDhJ5p.jpeg" >
-
-INDIGO PLATEAU
-
+Indigo Plateau
 - Buy 5 Full Restores on the left before entering Elite Four
 
-## LORELEI	
+Lorelei:
+> We take advantage of Dewgong’s turn 2 priority to go for status moves to force Rest to be used
+- Dewgong:
+	- Switch to your bird, then switch back to Nidoking
+	- X Acc + HD
+- Cloyster: HD
+- Slowbro: HD
+- Jynx: HD (EQ if you somehow have only 1 Drill left)
+- Lapras: HD
 
-> we take advantage of Dewgong’s turn 2 priority to go for status moves to force rest to be used
+## BRUNO SPLIT
 
-- Dewgong: 		Switch to flier, switch to Nidoking when it gets KO’d, X Accuracy, HD
-- Cloyster:		HD
-- Slowbro: 		HD
-- Jynx: 			HD  (EQ if you somehow have only 1 Drill left)
-- Lapras: 		HD
+Menu before Bruno:
+- Use an Elixer
+- Only save the game if 0 Revives are left
 
-- Use an Elixer before Bruno. 
-- Only save the game if 0 revives are left.
- 
-## BRUNO
+Bruno:
+> Slam crit → Revive and setup another X Acc
+- Onix: X Acc + IB
+- Hitmonchan: HD
+- Hitmonlee: HD
+- Onix: IB
+- Machamp: HD
 
-> slam crit → Revive and setup another X Accuracy should have 2 extra Accs
+## AGATHA SPLIT
 
-- Onix:	 		X Accuracy, Ice Beam
-- Hitmonchan: 		HD
-- Hitmonlee: 		HD
-- Onix: 			Ice Beam
-- Machamp: 		HD
-
+Menu before Agatha:
 - Use Elixer
-- Full Restore before Agatha, optional save game, always save with 0 revives
- 
-## AGATHA 
+- Full Restore
+- Optional save, always save with 0 Revives
 
-> Pokeflute if put to sleep, full restore or para heal if glared by arbok (very rare to happen)
+Agatha:
+> Poke Flute if put to sleep, Full Restore or Parlyz Heal if Glared by Arbok (very rare to happen)
+- Gengar: X Speed + EQ
+- Golbat: IB x2
+- Haunter: EQ
+- Arbok: EQ  (if Hazed by Golbat with 28-60 HP use X Speed on Arbok; 1-27 HP or para use Full Restore)
+- Gengar: EQ
 
-- Gengar: 		X Speed, EQ 
-- Golbat: 		IB x2
-- Haunter: 		EQ
-- Arbok: 			EQ  (if hazed by golbat with 28-60 hp use X-speed on Arbok; 1-27 hp or para use Full Restore)
-- Gengar:			EQ
+## LANCE SPLIT
 
-Inside the next room a few tiles before reaching Lance, MENU:
-- If you forgot to Elixer before Agatha, use Elixer now.
-- Potion to 140+ hp or use Full Restore
-- Required save the game, there is no recovery from hydro pump critical hit
+Menu before Lance:
+- If you forgot to Elixer before Agatha, use Elixer now
+- Potion to 140+ HP or Full Restore
+- Required save the game, there is no recovery from Hydro Pump critical hit
 
-> soft-reset using A+B+Start+Select if you get crit and try again
+> Soft-reset using A+B+Start+Select if you get crit and try again
 
+Lance:
+- Gyarados: X Special + TB
+- 1st Dragonair: IB
+- 2nd Dragonair: X Speed + IB
+- Aerodactyl: IB
+- Dragonite: IB
 
-## LANCE
+## CHAMPION SPLIT
 
-- Gyarados: 		X Special, TB
-- 1st Dragonair: 	IB
-- 2nd Dragonair: 	X Speed, IB
-- Aerodactyl: 		IB
-- Dragonite: 		IB
+Menu before entering the next room:
+- Full Restore or Potion to 90+ HP
+- Save if 0 Revives
 
-
-- Full Restore or potion to 90+ hp and save if 0 revives left before entering the next room.
-
-
-## CHAMPION
-
-- Pidgeot: 		X Accuracy, X Speed, Horn Drill
-- Alakazam: 		HD
-- Rhydon: 		HD
-- Gyarados:		HD
-- Arcanine: 		HD
-- Venusaur: 		HD
+Champion:
+- Pidgeot: X Acc + X Speed + HD
+- Alakazam: HD
+- Rhydon: HD
+- Gyarados: HD
+- Arcanine: HD
+- Venusaur: HD
 
 Timer ends on the fadeout that begins the credits after the in game time is displayed.
