@@ -341,48 +341,49 @@ Jr. Trainer♂:
 
 > 1-30 HP: Full Restore now
 
-Enter the S.S. Anne.
 
-Walk Left and take the first stairs you see.
+Enter the Mart.
 
-Walk down and turn right.
+VERMILION Mart
+- Sell all Pokeballs
+- Buy 3 Repels
+- Buy 6 Para Heals
 
-Boat Rival:
-- Pidgeotto: HA + BB
-	- If Pidgeotto lands a Sand-Attack, swap to your bird and let it faint
-- Raticate: BBx2
+Enter the S.S. ANNE
+
+Walk Left and take the first stairs you see
+
+Walk down and turn right
+
+If Pidgeotto lands a Sand-Attack, swap to your bird and let it be KO’d by Pidgeotto.
+
+**Boat Rival: **
+- Pidgeotto: HA + BB 	
+- Raticate: BBx2 	
 - Kadabra: Thrash x1
 - Ivysaur: Thrash x2
 
-> If under 21 HP on Raticate, use Full Restore  
-> If under 16 HP on Kadabra, then HA Kadabra and use Full Restore turn 1 on Ivysaur
+> if under 21 hp on Raticate, use full restore   
+> if under 16 hp on Kadabra, then HA Kadabra and use full restore turn 1 on Ivysaur
 
-Get HM01 from the captain.
+Get HM01 from the captain
 
-Enter the [3rd Cabin](https://gunnermaniac.com/pokeworld?map=96#21/11), fight the Gentleman:
-- Growlithe: Thrash
+Enter the 3rd Cabin, fight the gentleman on the left, and get the Rare Candy.
 
-Get the Rare Candy.
+<img src="https://i.imgur.com/UmZxWvL.jpeg" >
 
-<img src="https://i.imgur.com/UmZxWvL.jpeg">
+Exit the boat and head towards Surge's Gym.
 
-Exit the boat and head to the Mart.
+Trade for DUX in this house if we still need something to learn Cut
 
-Vermilion Mart
-- Sell all Poke Balls
-- Buy 3 Repels
-- Buy 6 Parlyz Heals
+Walk up to the tree guarding Surge's Gym and open the menu
 
-Trade for DUX in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
-
-Walk up to the tree guarding Surge's Gym.
-
-Cut Menu:
-- Slot 6 - Use the Full Restore on Nidoking if you haven’t already
-- Swap Potions down 6 with Repels (using select)
-- Up 1 - teach HM01 to Paras/Oddish/Dux
-- Up 1 - Teach TM28 to Paras or Squirtle
-- Cut the tree and enter Surge’s gym
+**Cut Menu**:
+- Slot 6 - Use the Full Restore on Nidoking if you haven’t already  
+- Swap potions down 5 with Repels (using select)  
+- Down 2 - teach HM01 to Paras or DUX  
+- Up 3 - Teach TM28 to Paras or Squirtle  
+- Cut the tree and enter Surge’s gym.  
 
 Surge Trash Cans Puzzle
 
@@ -403,9 +404,9 @@ Get TM24 Thunderbolt and exit the gym.
 - Get the Bike from the Bike Shop and exit the shop
 
 Menu (outside of the bike shop):
-- Swap slot 2 Helix Fossil with Bike
-- Teach TM24 Thunderbolt over slot 3 Water Gun
-- Get on the bike, cut both trees to head east into Route 9
+- Swap slot 2 Helix Fossil down 7 with Bike		
+- Up 1 - Teach TM24 Thunderbolt over Slot 3 Water Gun  
+- Slot 2 - Get on the bike, cut both trees to head East into ROUTE 9  
 
 Jr. Trainer♀ ("4-Turn Thrash Girl"):
 - Oddish: HA + TB
@@ -486,8 +487,8 @@ Pick up the hidden Elixer and the hidden Nugget marked below:
 
 5F - Clerk on the left hand side
 - Buy 16 X Accuracy
-- Buy 3 X Special (do NOT buy guard spec, must be X Special)
-- Buy 8 X Speed
+- Buy 2 X Special (do NOT buy guard spec, must be X Special)
+- Buy 9 X Speed
 
 Take the elevator to the first floor.
 
@@ -498,10 +499,12 @@ Exit the house, open the menu and do the following:
 > Warning: we will be teaching Ice Beam in this menu to Nidoking, do NOT teach it to Squirtle.
 
 Fly Menu:
-- Swap slot 2 S.S. Ticket, down with X Accuracy
+- Swap slot 2 S.S. Ticket, down 13 with X Accuracy
 - Down 3 teach HM02 Fly to bird
-- Up 4 teach TM13 Ice Beam to Nidoking over slot 4 Bubblebeam
-- Fly to Celadon (down 1) and then bike to the Game Corner
+- Up 4 to place cursor on TM13 
+- Fly to Celadon (down 1)
+- Teach TM13 Ice Beam to Nidoking over Slot 4 Bubblebeam
+- Bike to the Game Corner  
 
 > NOTE: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
@@ -527,8 +530,8 @@ Poster Grunt:
 Walk up toward the Rocket in the top left and fight him.
 
 Lift Key Rocket:
-- Koffing: Thrash x2
-- Zubat: Thrash
+- Koffing: Thrash x2 or IB + TB
+- Zubat: Thrash or TB
 
 Retalk to the Rocket, pick up the Lift Key and take the stairs you came from.
 
@@ -655,12 +658,12 @@ Silph Rival:
 - Alakazam: HD
 - Venusaur: HD
 
-1-79 HP: use slot 7 Max Ether on Horn Drill before the next fight  
+1-79 HP: use slot 8 Max Ether on Horn Drill before the next fight  
 80+ HP: use Max Ether on Horn Drill turn 2 on Cubone or turn 1 on Drowzee
 
 Silph Rocket #2: (talk to him from the left side)
 - Cubone: X Acc + (Max Ether) + IB
-- Drowzee: HD
+- Drowzee: (Max Ether), HD
 - Marowak: HD
 
 Giovanni:
@@ -676,7 +679,7 @@ Walk left and pick up the rightmost item first (Carbos), then the two others (TM
 <img src="https://i.imgur.com/ilsgeOn.png">
 
 Dig out.
-- Use the Carbos on Nido (Cursor is on Pars)
+- Use the Carbos on Nido (**Cursor is not on Nido**)
 - Bike west to Snorlax
 
 Menu next to Snorlax:
