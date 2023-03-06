@@ -614,6 +614,8 @@ Then
 - Down 1 to use PP UP on slot 1 Horn Drill
 - Teach slot 4/5 TM26 Earthquake over slot 2 Rockslide
 
+> Alternative standard: Use all rare candies, srepel, swap HM01 with PPUP, teach EQ (Delay using PPUP until after Koga)
+
 Get on the bike and cut both trees to enter the Safari Zone.   
 
 SAFARI ZONE
