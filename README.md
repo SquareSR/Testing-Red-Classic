@@ -4,7 +4,7 @@
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
-	- Optional: Download "Red Classic Helper" and see [here](https://i.imgur.com/WNbIjtA.png) for beginner settings
+	- Optional: Download "Red Classic Helper" and see [here](https://imgur.com/gallery/d9LGAo8) for beginner settings
 - [Red Classic - Beginner Route in 2:06:16](https://youtu.be/sH-46ES0UoQ) (timestamps are in the description) (this uses the previous version of the beginner route and may be updated in the future)
 
 ### Glossary
