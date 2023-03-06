@@ -15,13 +15,17 @@ Carbos Strategies for this route:
 | Safari Carbos   |       1      |      5-7      |       (11-12)       |
 | Mansion Carbos  |      0-1     |      5-8      |     (11-12) + 13    |
 
-If below 5 spd dv, you should strongly consider resetting early
-- The standard strategy if you take below 5 speed is to X-Speed Sabrina's Mr. Mime.
+If below 3 spd dv, you should strongly consider resetting early
+- The fastest strategy if you take 3-4 speed or lower is to X-Speed Sabrina's Mr. Mime.
 - According to simulations by Grogir, the winrate is only about 55.6% and the avg win time is +5.6 or more time lossed.
 
 If you choose to run with 4 speed there is a slow alternative to play safely:
 - Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
 - timeloss from this is about +27-30s
+
+If you choose to run with 3 speed there is again a slow alternative to play safely:
+- Silph Carbos, Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
+- timeloss from this is +32-35s
 
 If you have 11-12 speed you may choose to get 2 carbos to skip x-speed on Agatha
 - This loses ~10 seconds, but ups the winrate on Agatha
