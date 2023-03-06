@@ -545,12 +545,12 @@ Take the elevator to B4F and Menu two steps into the next room.
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 Grunt Menu:
-- Swap slot 3 HM01, down 7 with Super Repel
+- Swap slot 3 Potion, down 7 with Super Repel
 - Down 3 teach TM48 Rock Slide over slot 2 Horn Attack
 - Use slot 3 Super Repel
 - Down 4 Swap Helix Fossil Down 8 with X Speed
 - Down 3 teach TM07 Horn Drill over slot 1 Thrash
-- Swap slot 4 Rare Candy down 8 with Fresh Water (fixes inventory to be similar to regular route)
+- Swap slot 6 Rare Candy down 6 with Fresh Water (fixes inventory to be similar to regular route)
 
 Right Grunt: (note: Sandshrew Slash crit can do 22, X Acc Sandshrew instead if your HP is high)
 - Ekans: X Acc + IB
@@ -681,8 +681,8 @@ Dig out.
 
 Menu next to Snorlax:
 - Use slot 3 Super Repel
-- Down 1 swap Potion down with Rare Candy
-- Go down use Poke Flute
+- Down 1 swap Parlyz Heal down 8 with Rare Candy
+- Go down 7 use Poke Flute
 
 Cycling Road
 
@@ -697,22 +697,23 @@ Get the hidden PPUP. You can bike straight down after getting PPUP, the next tra
 <img src="https://i.imgur.com/RXgwTA9.jpeg">
 
 Menu immediately after exiting the guard’s house after Cycling Road:
+- Use Slot 4 Rare Candy (use all 5 candies on Nido)
 - Use slot 3 Super Repel
-- Down 1 to use 4 of the Rare Candies (one Rare Candy is left over)
-- Down 1 swap Parlyz Heal down with TM26
+- Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
+- Teach slot 4 TM26 Earthquake over slot 2 Rock Slide
 - Get on the bike and cut both trees to enter the Safari Zone
 
 <img src="https://i.imgur.com/wHad35M.jpeg">
 
 Safari Zone
 - Get on your bike. Optional pick up extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
-- Super Repel in zone 3
+- Get the Carbos in Zone 2
+- Super Repel at the start of zone 3
 
 Pick up the Gold Teeth and get HM03 Surf from the man in the house.
 
-<img src="https://i.imgur.com/jybwsln.png">
+<img src="https://i.imgur.com/A8Qwy4y.png">
 
 Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s Gym.
 
@@ -733,14 +734,15 @@ Koga:
 - Koffing: EQ
 - Muk: EQ
 - Koffing: EQ
-- Weezing: use Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
+- Weezing: use slot 5 Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
 
-## ERIKA SPLIT
+## GYM RUSH
 
-> The order in this route is Erika, Blaine, Sabrina; but this may differ for advanced route.
+> The order presented in this route is (1) Blaine, (2) Sabrina, (3) Erika There is no major downside to doing them out of order, so do not panic if you do so
+
+## MANSION
 
 Walk out of the gym and menu:
-- Use slot 4 Rare Candy on Nidoking
 - Bike east (hopping the ledge) to the Warden's house
 
 Talk to the Warden trading Gold Teeth for HM04.
@@ -771,8 +773,8 @@ Avoid the scientist and get the Carbos next to the trees:
 > Note that your cursor is ON SQUIRTLE
 
 Menu after picking up this Carbos:
-- Teach HM04 Strength to Squirtle over Tackle
-- Use Carbos on Nidoking
+- Down 1 teach HM04 Strength to Squirtle over Tackle
+- Up 2 use both Carbos on Nidoking
 - Slot 3 use the Super Repel
 - Scroll to the bottom of the bag (leave the cursor on Cancel)
 
@@ -785,23 +787,11 @@ Take the stairs to the next room.
 - Use the two Rare Candies on Nidoking
 - Pick up the Secret Key and Dig out
 
-Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
+## BLAINE
 
-Beauty:
-- Exeggcute: IB
+Fly to Cinnabar Island (down x2)
 
-> Remember to turn up and talk to Erika, walking past her will trigger an optional
-
-Erika:
-- Victreebel: IB
-- Tangel: IB
-- Vileplume: IB
-
-## BLAINE SPLIT
-
-Exit Erika’s gym and fly to Cinnabar Island (2 down).
-
-Blaine’s gym Puzzle: A B B B A B (A=yes; B=no)
+- Blaine’s gym Puzzle: A B B B A B (A=yes; B=no)
 
 Blaine:
 - Growlithe: X Acc + EQ
@@ -809,9 +799,11 @@ Blaine:
 - Rapidash: HD
 - Arcanine: HD
 
-## SABRINA SPLIT
+Dig out of Blaine's Gym
 
-Dig out of Blaine’s gym and Bike east to Sabrina’s gym by walking through the guard house.
+## SABRINA
+
+Bike east to Sabrina’s gym by walking through the guard house.
 
 Teleporter Puzzle: Diagonal, Diagonal, Down (bottom left)
 
@@ -827,9 +819,25 @@ Sabrina:
 - Venomoth: EQ
 - Alakazam: EQ (+EQ again if Reflect is used)
 
-## GIOVANNI SPLIT
-
 Take the teleporter pad and then use Dig (causes animation to be faster).
+
+## ERIKA
+
+Bike to Erika’s Gym, avoid optionals inside by hugging the left wall and cut the top left tree.
+
+Beauty:
+- Exeggcute: IB
+
+> Remember to turn up and talk to Erika, walking past her will trigger an optional
+
+Erika:
+- Victreebel: IB
+- Tangel: IB
+- Vileplume: IB
+
+Exit Erika's gym by cutting the middle tree.
+
+## GIOVANNI SPLIT
 
 Fly to Viridian City and bike to Giovanni's gym.
 
@@ -848,7 +856,7 @@ Blackbelt:
 Exit gym, re-enter the gym to reset the Blackbelt’s position (spin tiles are significantly slower).
 
 Menu one step into the gym upon re-entering:
-- Use slot 6 Elixer
+- Use slot 5 Elixer
 
 Giovanni:
 - Rhyhorn: IB
@@ -857,9 +865,9 @@ Giovanni:
 - Nidoking: EQ
 - Rhydon: IB x1-2 (Rhydon will not deal any damage to you)
 
-## LORELEI SPLIT
+> Can pick up the [Revive](https://gunnermaniac.com/pokeworld?map=45#16/9), if you need it.
 
-> Can pick up the [Revive](https://gunnermaniac.com/pokeworld?map=45#16/9) on the way out if you’ve already used one and have HM users alive
+## LORELEI SPLIT
 
 Walk out of Giovanni's gym and menu:
 - Use a Super Repel
