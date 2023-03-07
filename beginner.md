@@ -1,6 +1,7 @@
-# Pokemon Red Classic Glitchless Beginner Guide
+# Pokemon Red Glitchless Classic Beginner Guide
 
 ### Good Documents and Resources
+
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
@@ -18,8 +19,9 @@
 	- Hard Resetting the console means that RNG Manipulation is technically possible and this is banned from Classic
 
 ### Before you start
+
 - Clear any existing save file by pressing **Up + B + Select** on the game title screen
-- Hard Reset (set palette with Up + B - optional to give full visibility in rock tunnel), **hard resetting is required before each attempt on emulator**
+- Hard Reset (set palette with Up + B - optional to give full visibility in Rock Tunnel), **hard resetting is required before each attempt on emulator**
 - Set your options to fast text and animations OFF
 
 ## NIDORAN SPLIT
@@ -123,7 +125,7 @@ Bug Catcher 2:
 - Caterpie: HA x2
 - Metapod: HA x2-3 + Tackle x1-2
 
-Bug Catcher 3:  (if <4 HAs, save an HA on the Caterpie even if it takes an extra turn)
+Bug Catcher 3: (if <4 HAs, save an HA on the Caterpie even if it takes an extra turn)
 - Caterpie: HA x2
 - Metapod: HA x3-5 + Tackle spam
 
@@ -139,8 +141,8 @@ Use the Pokemon Center to heal before entering Mt. Moon.
 If you see a Paras, catch it. Use HA to weaken and throw Poke Balls. Run from all other encounters.
 
 Exceptions:
-- L16-17 Nidorino  →  Tackle a L8 Paras
-- L17-18 Nidoking →  Tackle a L8 or L10 Paras
+- L16-17 Nidorino → Tackle a L8 Paras
+- L17-18 Nidoking → Tackle a L8 or L10 Paras
 - L18 Nidoking w/ 13-15 DV Attack → Tackle any Paras
 
 Enter Mt. Moon.
@@ -180,7 +182,7 @@ Moon Rocket:
 - Zubat: HA x2 (can Potion if confused)
 
 Super Nerd:
-- Grimer:  HA x2
+- Grimer: HA x2
 - Voltorb: HA + HA/PS
 - Koffing: HA x2 + PS
 
@@ -203,7 +205,7 @@ Then walk up Nugget Bridge on the right to meet your Rival.
 Our Rival leads with a Pidgeotto that knows Sand-Attack. If you are hit by Sand-Attack, do the following:
 
 - If you get hit by only 1 Sand-Attack,
-	- HA spam (+PS) Pidgeotto
+	- HA spam (+ PS) Pidgeotto
 	- HA spam Abra
 	- First turn on Rattata, swap to your Spearow/Pidgey
 	- Let your Bird faint before swapping back to Nido
@@ -238,7 +240,7 @@ Menu before the next trainer (we are at L21):
 - Teach Thrash over Tackle (slot 2)
 
 #4 - Lass:
-- Pidgey: Swap Thrash to slot 1 (select + down + select + A), then Thrash
+- Pidgey: Swap Thrash to slot 1 (Select → Down → Select → A), then Thrash
 - Nidoran♀: Thrash
 
 #5 - Jr. Trainer♂:
@@ -279,7 +281,7 @@ Jr. Trainer♀:
 - Goldeen: Thrash x2
 
 Before Misty Menu:
--  Potion to full if needed
+- Potion to full if needed
 - **Save the game**
 
 Thrash goes 3-4 turns, after which you are confused.
@@ -297,8 +299,8 @@ Misty:
 - Starmie: Thrash x2-3+
 
 > Starmie damage rolls (simplified)  
-> BB  →  35-48 damage; critical BB does up to 84 damage  
-> WG  →  22-30 damage; critical WG does up to 54
+> BB → 35-48 damage; critical BB does up to 84 damage  
+> WG → 22-30 damage; critical WG does up to 54
 
 ## SURGE SPLIT
 
@@ -313,7 +315,7 @@ Dig Rocket:
 - Machop: Thrash x1-2
 - Drowzee: Thrash x1
 
-Get TM28 Dig from the Rocket
+Get TM28 Dig from the Rocket.
 
 Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split).
 
@@ -322,9 +324,9 @@ Pick up the hidden Full Restore in the underground path (feel free to use it any
 At 1-15 HP, use the Full Restore now.
 
 Oddish DSUM
-- Ignore this if you already have a Paras.
-- if you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw Poke Balls
-- if you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw Poke Balls
+- Ignore this if you already have a Paras
+- If you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw Poke Balls
+- If you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw Poke Balls
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
@@ -333,7 +335,7 @@ Oddish DSUM
 <img src="https://i.imgur.com/aXI5GZA.jpeg">
 
 Jr. Trainer♀:
-- Pidgeyx3: Thrash
+- Pidgey x3: Thrash
 
 Jr. Trainer♂:
 - Spearow: Thrash
@@ -375,7 +377,7 @@ Get the Rare Candy.
 
 Exit the boat and head towards Surge's gym.
 
-Trade for DUX in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
+Trade for Dux in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
 
 Walk up to the tree guarding Surge's gym.
 
@@ -407,7 +409,7 @@ Get TM24 Thunderbolt and exit the gym.
 Menu (outside of the bike shop):
 - Swap slot 2 Helix Fossil down 7 with Bicycle
 - Up 1 - Teach TM24 Thunderbolt over slot 3 Water Gun
-- Slot 2 - Get on the bike, cut both trees to head east into Route 9  
+- Slot 2 - Get on the bike, cut both trees to head east into Route 9
 
 Jr. Trainer♀ ("4-Turn Thrash Girl"):
 - Oddish: HA + TB
@@ -480,7 +482,7 @@ Pick up the hidden Elixer and the hidden Nugget marked below:
 
 <img src="https://i.imgur.com/Jh9E0Cd.jpeg">
 
-**CELADON MART**
+**Celadon Mart**
 
 2F - Clerk on the left hand side
 - Sell both Nuggets
@@ -558,13 +560,14 @@ Grunt Menu:
 - Swap slot 3 Potion, down 7 with Super Repel
 - Down 3 teach TM48 Rock Slide over slot 2 Horn Attack
 - Use slot 3 Super Repel
-- Down 4 Swap Helix Fossil Down 8 with X Speed
+- Down 4 swap Helix Fossil down 8 with X Speed
 - Down 3 teach TM07 Horn Drill over slot 1 Thrash
 - Swap slot 6 Rare Candy down 6 with Fresh Water (fixes inventory to be similar to regular route)
 
-Right Grunt: (note: Sandshrew Slash crit can do 22, X Acc Sandshrew instead if your HP is high)
-- Ekans: X Acc + IB
-- Sandshrew: IB
+Right Grunt:
+> Sandshrew Slash crit can do 22, X Acc on Sandshrew if your HP is high, otherwise on Ekans
+- Ekans: (X Acc +) IB
+- Sandshrew: (X Acc +) IB
 - Arbok: HD
 
 Left Grunt:
@@ -597,7 +600,8 @@ Lavender Rival:
 <img src="https://i.imgur.com/8t6F7Kb.jpeg">
 
 Talk to Channeler #1:
-- Gastly: Rock Slide x2
+- Gastly: RS
+- Gastly: RS
 	- If you are KO’d swap to your bird, Revive Nido, let the bird faint
 
 Get both Elixers (visible and hidden). Take the heal-pad.
@@ -652,7 +656,7 @@ Celadon City
 
 Silph Rocket #1:
 - Arbok: X Acc + HD
-	- (if paralyzed by Glare, use Parlyz Heal immediately in fight)
+	- If paralyzed by Glare, use Parlyz Heal immediately in fight
 
 Get the Card Key.
 
@@ -666,7 +670,7 @@ Silph Rival:
 - Venusaur: HD
 
 HP   | Strat
----  | --------------------------------------------------------
+---- | --------------------------------------------------------
 1-79 | Use slot 7 Max Ether on Horn Drill before the next fight
 80+  | Use Max Ether turn 2 on Cubone or turn 1 on Drowzee
 
@@ -719,11 +723,11 @@ Menu immediately after exiting the guard’s house after Cycling Road:
 <img src="https://i.imgur.com/wHad35M.jpeg">
 
 Safari Zone
-- Get on your bike. Optional pick up extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
-- Get the Carbos in Zone 2
+- Get on your bike
+- Get the Carbos in zone 2
 - Super Repel at the start of zone 3
-
-Pick up the Gold Teeth and get HM03 Surf from the man in the house.
+- Optional: pick up the extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
+- Pick up the Gold Teeth and get HM03 Surf from the man in the house
 
 <img src="https://i.imgur.com/A8Qwy4y.png">
 
@@ -763,7 +767,7 @@ Talk to the Warden trading Gold Teeth for HM04.
 
 Walk left dodging the Lass and face the edge of the water.
 
-Menu:
+Surf Menu:
 - Use slot 3 Super Repel
 - Scroll down 17 to teach HM03 to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Use Surf
@@ -801,9 +805,9 @@ Take the stairs to the next room.
 
 ## BLAINE
 
-Fly to Cinnabar Island (down x2)
+Fly to Cinnabar Island (down 2).
 
-- Blaine’s gym Puzzle: A B B B A B (A=yes; B=no)
+- Blaine’s gym puzzle: A B B B A B (A=yes; B=no)
 
 Blaine:
 - Growlithe: X Acc + EQ
@@ -811,7 +815,7 @@ Blaine:
 - Rapidash: HD
 - Arcanine: HD
 
-Dig out of Blaine's gym
+Dig out of Blaine’s gym.
 
 ## SABRINA
 
@@ -827,9 +831,9 @@ Teleporter Puzzle: Diagonal, Diagonal, Down (bottom left)
 
 Sabrina:
 - Kadabra: EQ
-- Mr. Mime: EQ (or X Speed + EQ (+TB) if slower than Alakazam)
+- Mr. Mime: EQ (or X Speed + EQ (+ TB) if slower than Alakazam)
 - Venomoth: EQ
-- Alakazam: EQ (+EQ again if Reflect is used)
+- Alakazam: EQ (+ EQ again if Reflect is used)
 
 Take the teleporter pad and then use Dig (causes animation to be faster).
 
@@ -851,7 +855,7 @@ Exit Erika's gym by cutting the middle tree.
 
 ## GIOVANNI SPLIT
 
-Fly to Viridian City and bike to Giovanni's gym.
+Fly to Viridian City (up 1) and bike to Giovanni's gym.
 
 <img align="right" src="https://i.imgur.com/3JcpNQh.jpeg">
 
@@ -861,9 +865,9 @@ Cooltrainer♂:
 Save before the next fight on the blue tile.
 
 Blackbelt:
-- Machoke: EQ (+TB) → typically 74-95% range
+- Machoke: EQ (+ TB) → typically 74-95% range
 - Machop: EQ
-- Machoke: EQ (+TB)
+- Machoke: EQ (+ TB)
 
 Exit gym, re-enter the gym to reset the Blackbelt’s position (spin tiles are significantly slower).
 
@@ -941,7 +945,7 @@ Agatha:
 - Gengar: X Speed + EQ
 - Golbat: IB x2
 - Haunter: EQ
-- Arbok: EQ  (if Hazed by Golbat with 28-60 HP use X Speed on Arbok; 1-27 HP or para use Full Restore)
+- Arbok: EQ (if Hazed by Golbat with 28-60 HP use X Speed on Arbok; 1-27 HP or para use Full Restore)
 - Gengar: EQ
 
 ## LANCE SPLIT
