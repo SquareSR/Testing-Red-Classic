@@ -26,7 +26,7 @@
 
 Name yourself and rival “A” or any one character.
 
-Pickup the PC Potion.
+Pick up the PC Potion.
 
 Name Squirtle one character.
 
@@ -192,7 +192,7 @@ Get the **Helix Fossil** and exit Mt. Moon.
 
 Take the Pokemon Center to heal and to set a warp point for your Escape Rope from Bill’s.
 
-Pickup the hidden Rare Candy.
+Pick up the hidden Rare Candy.
 
 <img src="https://i.imgur.com/Fu51K9j.jpeg">
 
@@ -454,21 +454,27 @@ Jr. Trainer♀:
 - Oddish: Thrash
 - Pidgey: Thrash (and note HP)
 
-> 1-34 HP: take the center in Lavender Town
+Exit Rock Tunnel.
 
-Exit and bike right. Pickup the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) in the bush from the left side.
+Pick up the hidden Max Ether in the bush from the left side.
+
+<img src="https://i.imgur.com/0WpaVOx.png">
 
 Bike straight down into Lavender Town.
 
+> 1-34 HP: take the center in Lavender Town
+
 Bike west and fight the Gambler.
 
-<img src="https://i.imgur.com/CRUMtKg.png">
+<img src="https://i.imgur.com/1EHC3r4.png">
 
 Gambler:
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
 
 Be careful not to hit optionals. Take the underground path to Celadon City.
+
+<img src="https://i.imgur.com/3TbEDS8.png">
 
 Pick up the hidden Elixer and the hidden Nugget marked below:
 
