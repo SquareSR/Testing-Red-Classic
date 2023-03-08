@@ -29,7 +29,11 @@ If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
 
 **The new strategy any time we use both Safari and Mansion Carbos:**
 - Use all candies right away at the start of EQ menu
-- Delay using Safari Carbos until inside mansion
+- Delay using Safari Carbos until inside mansion  
+
+Getting the PPUP is presented as the standard strategy in this route.
+- With 14+ ATK DV skipping the PPUP saves ~1.1 seconds
+- With 14+ ATK and 5 SPD, skipping PPUP allows us to easily use all three carbos inside mansion, which saves more time over the alternative.
 
 ### Glossary
 
