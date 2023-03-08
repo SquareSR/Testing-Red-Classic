@@ -152,7 +152,7 @@ Fight the lass:
 - Bellsprout: HA x2
 
 If on Hiker Strats, Menu:	
-- Use slot 3 TM12 to teach Nidorino Water Gun over slot 3 Leer
+- Use TM12 to teach Nidorino Water Gun over slot 3 Leer
 
 Optional Hiker:
 - WG spam
@@ -160,7 +160,7 @@ Optional Hiker:
 Get the **Moon Stone**.
 
 Menu before Rocket:
-- Use slot 5 Moon Stone on Nidorino
+- Use Moon Stone on Nidorino
 
 Moon Rocket:
 - Rattata: HA + PS
