@@ -280,8 +280,8 @@ Get TM28 Dig from the Rocket.
 
 Oddish DSUM
 - Ignore this if you already have a Paras
-- If you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw Poke Balls
-- If you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw Poke Balls
+- If you have no Paras and have a Pidgey, then weaken an Oddish with Tackle and throw Poke Balls
+- If you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, Tackle and throw Poke Balls
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
