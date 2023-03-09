@@ -37,6 +37,15 @@ Getting the PPUP is presented as the standard strategy in this route.
 
 In general reset under 5 ATK DV on Brock, unless you have a good start and good SPD DV.
 
+Race Route modification: 
+- Buy +1 Pokeball
+- Sell TM34 early if you need extra Potions
+- Buy +2 Para Heal
+- Either sell Full Restore or get both Nuggets and sell
+- Buy 2 Revives, +2 X-Acc, +2 X-Speed
+- Modify Fly menu to swap Potion for Srepel and teach TM48 at the start (making room for TM07 in hideout)
+- Toss Para Heals some time after Silph Rival and before getting EQ
+
 ### Glossary
 
 - Moves: HA = Horn Attack, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, PS = Poison Sting, HD = Horn Drill, IB = Ice Beam, RS = Rock Slide
