@@ -32,8 +32,10 @@ If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
 - Delay using Safari Carbos until inside mansion  
 
 Getting the PPUP is presented as the standard strategy in this route.
-- With 14+ ATK DV skipping the PPUP saves ~1.1 seconds
-- With 14+ ATK and 5 SPD, skipping PPUP allows us to easily use all three carbos inside mansion, which saves more time over the alternative.
+- With 14+ ATK DV skipping the PPUP saves ~1.1 seconds (assuming you menu optimally)
+- With 14+ ATK and 5 SPD, skipping PPUP allows us to easily use all three carbos inside mansion, which saves more time over the alternative.   
+
+In general reset under 5 ATK DV on Brock, unless you have a good start and good SPD DV.
 
 ### Glossary
 
