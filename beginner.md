@@ -126,7 +126,7 @@ Bug Catcher 2:
 - Metapod: HA x2-3 + Tackle x1-2
 
 Bug Catcher 3: (if <4 HAs, save an HA on the Caterpie even if it takes an extra turn)
-- Caterpie: HA x2
+- Caterpie: HA x2 or (HA + Tackle x2)
 - Metapod: HA x3-5 + Tackle spam
 
 Catch a flyer:
@@ -325,8 +325,8 @@ At 1-15 HP, use the Full Restore now.
 
 Oddish DSUM
 - Ignore this if you already have a Paras
-- If you have no Paras and have a Pidgey, then weaken an Oddish with BB and throw Poke Balls
-- If you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB and throw Poke Balls
+- If you have no Paras and have a Pidgey, then weaken an Oddish with BB + (WG/BB) and throw Poke Balls
+- If you have no Paras but have a Spearow, then trade Spearow for DUX the Farfetch'd later on unless you happen to encounter an Oddish, in which case, BB + (WG/BB) and throw Poke Balls
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
@@ -769,7 +769,7 @@ Walk left dodging the Lass and face the edge of the water.
 
 Surf Menu:
 - Use slot 3 Super Repel
-- Scroll down 17 to teach HM03 to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
+- Scroll down 17 to teach HM03 Surf to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Use Surf
 
 > Go straight down, just side step one tile left to not bonk fisherman
