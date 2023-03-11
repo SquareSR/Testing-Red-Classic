@@ -4,6 +4,8 @@
 	- TOOLS: Download "Red Classic Helper"
 	- SAVES: Download "Any% Glitchless (Classic)"
 
+## PREFACE
+
 Carbos Strategies for this route:
 
 | How to outspeed | Dugtrio/Jynx | Sabrina's Zam | Agatha's 1st Gengar |
@@ -27,7 +29,7 @@ If you choose to run with 3 speed there is again a slow alternative to play safe
 If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
 - This loses ~10 seconds, but ups the winrate on Agatha
 
-**The new strategy any time we use both Safari and Mansion Carbos:**
+**The new strategy any time we usen 2 Carbos is to get Safari and Mansion Carbos**
 - Use all candies right away at the start of EQ menu
 - Delay using Safari Carbos until inside mansion  
 
@@ -37,6 +39,8 @@ Getting the PPUP is presented as the standard strategy in this route.
 
 In general reset under 5 ATK DV on Brock, unless you have a good start and good SPD DV.
 
+> Note that if your goal time is between 1:59 and 2:05 you can skip high risk strategies and be more inclined to fight the hiker, center for Misty, heal out of red bar on fly split, and skip high risk strategies like silph red bar. You may also choose to fight the optional gentleman and use the rare candy at the start of cut menu for an easier Surge and Fly Split.
+
 Race Route modification: 
 - Buy +1 Pokeball
 - Sell TM34 early if you need extra Potions
@@ -44,7 +48,11 @@ Race Route modification:
 - Either sell Full Restore or get both Nuggets and sell
 - Buy 2 Revives, +2 X-Acc, +2 X-Speed
 - Modify Fly menu to swap Potion for Srepel and teach TM48 at the start (making room for TM07 in hideout)
-- Toss Para Heals some time after Silph Rival and before getting EQ
+- Para Heals need to be tossed some time after Silph Rival and before getting EQ
+	- One idea is to menu after silph rival (use max ether if proper HP) and then swap para heal with rare candy and toss para heal
+	- Then skip swap in Snorlax Menu, but EQ Menu will stay the same and our inventory is similar to regular route
+- The exception to the previous point is if we have [0-2 SPD in races](https://pastebin.com/txSmZKw4) because Rare Candy will already be lower in our bag. In this case simply toss Para Heal without swapping after silph rival.
+
 
 ### Glossary
 
@@ -289,6 +297,8 @@ Dig Rocket:
 
 Get TM28 Dig from the Rocket.
 
+> If you fought hiker, faint one encounter if you see it.
+
 Oddish DSUM
 - Ignore this if you already have a Paras
 - If you have no Paras and have a Pidgey, then weaken an Oddish with Tackle and throw Poke Balls
@@ -461,8 +471,8 @@ Grunt Menu:
 
 Right Grunt:
 > X Acc on Sandshrew if you can take a Slash crit, otherwise on Ekans
-- Ekans: (X Acc +) IB
-- Sandshrew: (X Acc +) IB
+- Ekans: (X Acc) IB
+- Sandshrew: (X Acc) IB
 - Arbok: HD
 
 Left Grunt:
@@ -474,8 +484,8 @@ Heal to ~11+ HP for Giovanni if needed.
 
 Giovanni:
 > X Acc Rhyhorn if ~21+ HP
-- Onix: (X Acc +) IB
-- Rhyhorn: (X Acc +) IB
+- Onix: (X Acc) IB
+- Rhyhorn: (X Acc) IB
 - Kangaskhan: HD
 
 Pick up Silph Scope, dig out, fly to Lavender Town.
@@ -493,9 +503,9 @@ Lavender Rival:
 > X Accless Alternative (only if 7+ SPC): IB, TB, RS, RS, IB (93.6% @ 7-9 SPC)  
 > [ IB(+TB) Growlithe @13+ SPC; but must TB Pidgeotto if only 2 IB were leftover ]
 
-- Pidgeotto: (X Acc +) IB
+- Pidgeotto: (X Acc) IB
 - Gyarados: TB
-- Growlithe: (X Acc +) HD
+- Growlithe: (X Acc) HD
 - Kadabra: HD
 - Ivysaur: HD
 
@@ -548,7 +558,7 @@ Get the Card Key.
 
 Silph Rival:
 - Pidgeot: X Acc + X Speed (+ X Special) + HD
-- Gyarados: (X Special +) HD
+- Gyarados: (X Special) HD
 - Growlithe: RS
 - Alakazam: HD
 - Venusaur: HD
@@ -560,7 +570,7 @@ HP   | Strat
 
 Silph Rocket #2:
 - Cubone: X Acc + (Max Ether if hit under 80) + IB
-- Drowzee: (Max Ether +) HD
+- Drowzee: (Max Ether) HD
 - Marowak: HD
 
 Giovanni:
@@ -655,7 +665,7 @@ Bike to the Warden's house to get HM04.
 
 Surf Menu:
 - Use Super Repel
-- Use HM03 to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
+- Teach HM03 Surf to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Surf to Mansion
 
 > Get the Carbos if 0-1, 5-8, (11-12), 13 SPD DV
@@ -690,7 +700,7 @@ Fly to Cinnabar Island (down 2).
 - Blaine’s gym puzzle: A B B B A B
 
 Blaine:
-- Growlithe: X Acc + EQ
+- Growlithe: X Acc + EQ (HD if turn 1 super pot)
 - Ponyta: HD
 - Rapidash: HD
 - Arcanine: HD
@@ -703,7 +713,7 @@ Bike to Sabrina’s gym.
 
 Sabrina:
 - Kadabra: EQ
-- Mr. Mime: (X Speed +) EQ
+- Mr. Mime: (X Speed), EQ (+TB)
 - Venomoth: EQ
 - Alakazam: EQ
 
@@ -806,7 +816,7 @@ HP DV | Max HP that keeps redbar after Night Shade | Max HP to yolo
 13-15 | 90                                         | 34
 
 Agatha:
-- Gengar: (X Speed +) EQ
+- Gengar: (X Speed), EQ
 	- Skip X Speed if 13+ SPD (or 11+ and you took 2 Carbos)
 - Golbat: IB x2
 - Haunter: EQ
@@ -842,7 +852,7 @@ Champion:
 - Venusaur: HD
 
 Things to consider:
-- There are options here and pros and cons to weigh. Play safely on PB pace.
+- There are options here with pros and cons to weigh. Play safely on good enough pace.
 WA is 28 damage or 25 damage w/badge boost
 - X Speed first 23-27 is an option; as is Full Restore or Super Potion if Sky Attack turn 1 on good pace
 - Yolo Strat at 1-23 or 28-30 or just in red bar is to X Acc turn 1 and respond to Sky Attack with HD and take the risk using X Speed on Zam (~⅓ to live)
