@@ -20,18 +20,17 @@ If below 3 SPD DV, you should strongly consider resetting early
 
 If you choose to run with 4 speed there is a slow alternative to play safely:
 - Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is about +27-30s
+- Timeloss from this is about +30s
 
 If you choose to run with 3 speed there is again a slow alternative to play safely:
 - Silph Carbos, Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is +32-35s
+- Timeloss from this is +35s
 
 If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
-- This loses ~10 seconds, but ups the winrate on Agatha
+- This loses ~10+ seconds, but ups the winrate on Agatha
 
-**The new strategy any time we usen 2 Carbos is to get Safari and Mansion Carbos**
-- Use all candies right away at the start of EQ menu
-- Delay using Safari Carbos until inside mansion  
+The new strategy for Carbos:
+- Safari Carbos is slightly faster than Silph Carbos
 
 Getting the PPUP is presented as the standard strategy in this route.
 - With 14+ ATK DV skipping the PPUP saves ~1.1 seconds (assuming you menu optimally)
@@ -609,20 +608,15 @@ Otherwise
 
 - Use slot 3 Super Repel
 - Down 1 use Rare Candy x3
-</td></tr>
-</table>
-
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Teach slot 4/5 TM26 Earthquake over slot 2 Rock Slide
-
-> Alternative standard: Use all Rare Candies, Repel, swap HM01 with PPUP, teach EQ (delay using PPUP until after Koga)
+- Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
 
 Get on the bike and cut both trees to enter the Safari Zone.
 
 SAFARI ZONE
 - Get the Carbos if 0, 5-7, (11-12) SPD DV
-- Super Repel at the start of zone 3
+- Super Repel at the start of zone 3 (and use the carbos ON NIDO if you have it)
 - Get the Gold Teeth
 - Get HM03 and exit the house
 - Use Dig
@@ -682,7 +676,7 @@ If not getting the Carbos:
 
 If getting the Carbos, pick it up then:
 - Teach HM04 Strength to Squirtle over Tackle
-- Use all Carbos **on Nidoking**
+- Use Carbos **on Nidoking**
 - Use Super Repel
 - Scroll to the bottom of the bag (leave the cursor on Cancel)
 
