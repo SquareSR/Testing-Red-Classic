@@ -36,9 +36,7 @@ Walk west to the grass patch on Route 22.
 	- L4 Nido: just throw Poke Balls
 	- L5 Spearow: just throw Poke Balls, since it outspeeds us
 
-| Time-Based DSUM                                         | Step-Based DSUM                                         |
-| ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="/docs/gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
+ <img src="/docs/gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> 
 
 ## BROCK SPLIT
 
